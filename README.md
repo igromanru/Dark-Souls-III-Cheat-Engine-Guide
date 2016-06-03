@@ -18,8 +18,6 @@ http://www.cheatengine.org/
 * [Zanzer's Table](http://forum.cheatengine.org/viewtopic.php?p=5661102#5661102)
 * [Cielos's Table](http://forum.cheatengine.org/viewtopic.php?p=5661561#5661561)
 
-Latest Phokz's general table and Zanzer's table are also avaible under [Tables](https://github.com/igromanru/Dark-Souls-III-Cheat-Engine-Guide/tree/master/Tables/)
-
 ## Content
 
 * FAQ
