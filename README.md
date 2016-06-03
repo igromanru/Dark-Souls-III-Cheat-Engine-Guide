@@ -83,7 +83,7 @@ If you have received the [\[CAUTION\] INVALID GAME DATA HAS BEEN DETECTED](#mess
 #### Anti-Cheat
 
 FromSoftware is still working on their AntiCheat system.  
-For more, read [Will I get banned for using Cheat Engine?](#will-i-get-banned-for-using-cheat-engine) from [Phokz's FAQ](#phokzs-faq).
+For more, read [Will I get banned for using Cheat Engine?](http://forum.cheatengine.org/viewtopic.php?p=5661220#5661220) from [Phokz's FAQ](http://forum.cheatengine.org/viewtopic.php?p=5661457#5661457).
 
 #### Soft-ban
 
@@ -99,7 +99,7 @@ If you are soft-banned you will se the [\[CAUTION\] YOU HAVE BEEN PENALIZED](#me
 As long you are [offline](#offline-mode), you are safe. All temporery changes(unlimited stuff like HP/Stamina/FP/iFrame) that don't stay in your save game are also safe. If you do something that can cause a ban, you can undo it before you go back online.
 
 Take a look on the [Feature list](#feature-list) to see which features are dangerous to play online.  
-Also read [Will I get banned for using Cheat Engine?](#will-i-get-banned-for-using-cheat-engine).
+Also read [Will I get banned for using Cheat Engine?](http://forum.cheatengine.org/viewtopic.php?p=5661220#5661220) from [Phokz's FAQ](http://forum.cheatengine.org/viewtopic.php?p=5661457#5661457)..
 
 #### Save game transfer
 
