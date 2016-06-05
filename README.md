@@ -4050,5 +4050,4 @@ Id       | Name                                                | Note
 * [ranonadg](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=446280)
 * [dezimous](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=445852)
 * [Birdulon](https://www.youtube.com/user/Birdulon)
-* [Meiyoh](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=418003)
 * [igromanru](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962) (me)
