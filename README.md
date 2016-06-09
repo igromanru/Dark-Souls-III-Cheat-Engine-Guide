@@ -8,7 +8,7 @@ If you have a question or complaint, feel free to contact me here or on [CE-Foru
 If you want me to add or change something in this guide, use the "Issues" system or make a "Pull-Request".  
 Let us work together to create a great Guide, that will contains all nessesary information. :)~~  
 Some people on CE-Forum don't support my idea, they want to keep all information in the forum.  
-Since I have better to do than write all existing tutorials again, I have stopped to add new stuff here. I will update or remove outdated information, but if you want so know more, you have to visit the [CE-Forum](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962). 
+Since I have better to do than write all existing tutorials again, I have stopped to add new stuff here. I will update or remove outdated information, but if you want so know more, you have to visit the [CE-Forum](http://forum.cheatengine.org/viewtopic.php?t=589191). 
 
 
 ## General
