@@ -2,11 +2,15 @@
 
 ## Introduction
 This document was insirated by [Dark Souls II and Scholar of the First Sin Cheat Engine Guide](https://gist.github.com/Atvaark/f308e1d8e00e07106452) from [Atvaark](https://github.com/Atvaark).  
-I am trying to create a similar Guide for all people out there.  
+~~I am trying to create a similar Guide for all people out there.  
 And I want to say a big thank to all people on CE forum for working together on a great CE-Table.  
 If you have a question or complaint, feel free to contact me here or on [CE-Forum](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962).  
 If you want me to add or change something in this guide, use the "Issues" system or make a "Pull-Request".  
-Let us work together to create a great Guide, that will contains all nessesary information. :)
+Let us work together to create a great Guide, that will contains all nessesary information. :)~~  
+Some people on CE-Forum don't support my idea, they want to keep all information in the forum.  
+Some people on CE-Forum don't support my idea, they want to keep all information in the forum. 
+Since I have better to do than write all existing tutorials again, I have stopped to add new stuff here. I will update or remove outdate information, but if you want so know more, you have to visit the [CE-Forum](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962). 
+
 
 ## General
 ### Cheat Engine
