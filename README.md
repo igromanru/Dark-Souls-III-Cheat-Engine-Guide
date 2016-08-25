@@ -1,4 +1,4 @@
-#Dark Souls III Cheat Engine Guide WIP
+#Dark Souls III Cheat Engine Guide
 
 ## Introduction
 This document was insirated by [Dark Souls II and Scholar of the First Sin Cheat Engine Guide](https://gist.github.com/Atvaark/f308e1d8e00e07106452) from [Atvaark](https://github.com/Atvaark).  
@@ -8,7 +8,7 @@ If you have a question or complaint, feel free to contact me here or on [CE-Foru
 If you want me to add or change something in this guide, use the "Issues" system or make a "Pull-Request".  
 Let us work together to create a great Guide, that will contains all nessesary information. :)~~  
 Some people on CE-Forum don't support my idea, they want to keep all information in the forum.  
-Since I have better to do than write all existing tutorials again, I have stopped to add new stuff here. I will update or remove outdated information, but if you want so know more, you have to visit the [CE-Forum](http://forum.cheatengine.org/viewtopic.php?t=589191). 
+Since I have better to do than write all existing tutorials again, I have stopped to add new stuff here. I will update or remove outdated information, but if you want so know more, you have to visit the [CE-Forum](http://forum.cheatengine.org/viewtopic.php?t=589191).
 
 
 ## General
@@ -35,7 +35,6 @@ http://www.cheatengine.org/
  * [Offline mode](#offline-mode)
  * [VAC - Valve Anti Cheat](#vac---valve-anti-cheat)
  * [Features stop working after a while](#features-stop-working-after-a-while)
-* [Feature list](#feature-list)
 * Usage Explanation
   * [Weapon upgrades and infusions represented through ID](#weapon-upgrades-and-infusions-represented-through-id)
   * [How to spawn/swap items](#how-to-spawnswap-items)
@@ -137,79 +136,6 @@ There is no VAC in Dark Souls 3!
 #### Features stop working after a while
 This is the work of the [Anti-Cheat](#anti-cheat) system. At the moment you need the Anti-AntiCheat feature to fix this problem.  
 As workaround for unlimited HP/Stamina/FP, you can use "Hero" pointer to freeze "current" values. But you will still die if something one hot you.
-
-## Feature list
-
-###### Tags
-no tag - should be safe but use at own risk  
-**[offline]** - should be safe to use offline  
-**[unsafe]** - can cause a ban (use only if you will never play online)  
-**[broken]** - need to be fixed (better not to use)  
-
-
-Feature | Tag
--------------- | --------------
-Unlimited iFrames  (godmode + no fall damage) |
-Unlimited Durability |
-Unlimited Items | [unsafe]
-Disable Gravity (air walking) |
-No Fall Damage |
-Ignore Status Effects | [broken]
-No Reload | [broken]
-Noclip | [broken]
-No Equip Load |
-Access All Bonfires | [unsafe]
-100% Drop Rate | [offline]
-Prevent Camera Changing (“Lock Camera State”) |
-Monster Vac (teleports all monsters to you) |
-Camera Control |
-Debug Free Cam |
-First Person Cam |
-Teleport scripts |
-Vacuum Scripts and Backstab teleport |
-Item Swap | [offline?]
-Last Weapon Highlighted  (EQUIP_PARAM_WEAPON_ST helper) |
-Last Armor Highlighted (EQUIP_PARAM_PROTECTOR_ST helper) |
-Last Stackable Item Highlighted | [unsafe]
-Last Spell Highlighted (MAGIC_PARAM_ST helper) |
-Last Ring Highlighted (EQUIP_PARAM_ACCESSORY_ST helper |
-Basic Bullet structure helper (all edits are clientside only) |
-Effect Helper (SP_EFFECT_PARAM_ST helper) |
-Hero Stats (HP, FP, Stamina, Souls) | [unsafe]
-Hero Stats : Speed Modifier |
-Attributes  | [unsafe]
-Souls Level | [unsafe]
-Covenants : Current Covenant | [unsafe]
-Covenants : Covenant scores | [unsafe]
-Gestures : Equip any Gesture | [unsafe]
-Gestures : Unlock  any Gesture | [unsafe]
-Appearance | [unsafe]
-Gender, Class | [unsafe]
-Body Proportions | [unsafe]
-Face Details | [unsafe]
-Current Equipment(Equip any armor, weapon, spell) | [unsafe]
-New Game pointer | [unsafe]
-Last bonfire | [unsafe]
-Character Name | [unsafe]
-Ember flag | [unsafe]
-Current Save Slot | [unsafe]
-Chr_type (phantom type) |
-Team_type (hostility) |
-Force invasion |
-Remote Elevator Control |
-Open / Close Doors | [unsafe]
-Revive and Kill Bosses | [unsafe]
-Rosaria’s Rebirths |
-End Current Playthrough | [unsafe]
-Group mask render values (hide map, objects, character, sfx) |
-Lock_Tg_Man > Increase Lock On Distance |
-Flags: No Hit (same as unlimited iframes) |
-Flags: No Damage (disables damage) |
-Flags: No Dead (hp decreases, but you can’t die, no gravity death) |
-Flags: No FP consumption (unlimited magic) |
-Flags: No Stamina Consumption (unlimited stamina) |
-Flags: No Update |
-Flags: Disable Back-read Toggle |
 
 ## Usage Explanation
 
