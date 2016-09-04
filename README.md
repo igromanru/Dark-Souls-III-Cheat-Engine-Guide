@@ -3520,10 +3520,10 @@ Id       | Name                                                | Note
 13AA6A60 | Hood of Prayer
 13AA6E48 | Robe of Prayer
 13AA7618 | Skirt of Prayer
-13B20B80 | Giant's crown
-13B20F68 | Giant's Armor
-13B21350 | Giant's Gauntlets
-13B21738 | Giant's Leggings
+13B20B80 | Giant's crown | Can't be picked up
+13B20F68 | Giant's Armor | Can't be picked up
+13B21350 | Giant's Gauntlets | Can't be picked up
+13B21738 | Giant's Leggings | Can't be picked up
 13C14DC0 | Dancer's Crown
 13C151A8 | Dancer's Armor
 13C15590 | Dancer's Gauntlets
