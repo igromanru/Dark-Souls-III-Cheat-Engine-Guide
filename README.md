@@ -8,7 +8,7 @@ If you have a question or complaint, feel free to contact me here or on [CE-Foru
 If you want me to add or change something in this guide, use the "Issues" system or make a "Pull-Request".  
 Let us work together to create a great Guide, that will contains all nessesary information. :)~~  
 Some people on CE-Forum don't support my idea, they want to keep all information in the forum.  
-Since I have better to do than write all existing tutorials again, I have stopped to add new stuff here. I will update or remove outdated information, but if you want so know more, you have to visit the [CE-Forum](http://forum.cheatengine.org/viewtopic.php?t=589191).
+Since I've better to do than rewrite all existing tutorials on my own, I've stopped to add new stuff here. I will update or remove outdated information, but if you want to know more, you have to visit the [CE-Forum](http://forum.cheatengine.org/viewtopic.php?t=589191).
 
 
 ## General
@@ -34,7 +34,6 @@ http://www.cheatengine.org/
  * [Cheat Engine debugger crashing the game](#cheat-engine-debugger-crashing-the-game)
  * [Offline mode](#offline-mode)
  * [VAC - Valve Anti Cheat](#vac---valve-anti-cheat)
- * [Features stop working after a while](#features-stop-working-after-a-while)
 * Usage Explanation
   * [Weapon upgrades and infusions represented through ID](#weapon-upgrades-and-infusions-represented-through-id)
   * [How to spawn/swap items](#how-to-spawnswap-items)
@@ -98,9 +97,8 @@ If you are soft-banned you will se the [\[CAUTION\] YOU HAVE BEEN PENALIZED](#me
 ##### Nothing is 100% safe, cheating is always a risk! Do it on your own liability!
 
 ##### Generelly
-As long you are [offline](#offline-mode), you are safe. All temporery changes(unlimited stuff like HP/Stamina/FP/iFrame) that don't stay in your save game are also safe. If you do something that can cause a ban, you can undo it before you go back online.
+As long you are [offline](#offline-mode), you are safe. All temporery changes(freeze current state of HP/Stamina/FP/iFrame) that don't stay in your save game are also safe. If you do something that can cause a ban, you can undo it before you go back online.
 
-Take a look on the [Feature list](#feature-list) to see which features are dangerous to play online.  
 Also read [Will I get banned for using Cheat Engine?](http://forum.cheatengine.org/viewtopic.php?p=5661220#5661220) from [Phokz's FAQ](http://forum.cheatengine.org/viewtopic.php?p=5661457#5661457)..
 
 #### Save game transfer
@@ -132,10 +130,6 @@ Or you can completely block DarkSoulsIII.exe from using internet by adding [Inbo
 
 #### VAC - Valve Anti Cheat
 There is no VAC in Dark Souls 3!
-
-#### Features stop working after a while
-This is the work of the [Anti-Cheat](#anti-cheat) system. At the moment you need the Anti-AntiCheat feature to fix this problem.  
-As workaround for unlimited HP/Stamina/FP, you can use "Hero" pointer to freeze "current" values. But you will still die if something one hot you.
 
 ## Usage Explanation
 
