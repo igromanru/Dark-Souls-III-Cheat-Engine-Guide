@@ -3327,6 +3327,26 @@ Id       | Name                                                | Note
 015EF3C0 | Torch
 
 
+###Weapons - Ashes of Ariandel DLC (15)
+
+Id       | Name                                                | Note
+-------- | --------------------------------------------------- | --------------
+000623E0 | Millwood Greatarrow
+003EDDC0 | Follower Sabre
+006D67D0 | Millwood Battle Axe
+006D8EE0 | Earth Seeker
+007ECCF0 | Quakestone Hammer
+008CD6B0 | Follower Javelin
+009B55A0 | Friede's Great Scythe
+00A89C10 | Crow Talons
+00B82C70 | Rose of Ariandel
+00CC9ED0 | Pyromancer's Parting Flame
+00D85EA0 | Millwood Greatbow
+00F646E0 | Valorheart
+00F66DF0 | Crow Quills
+0135C0E0 | Followers Shield
+01450320 | Ethereal Oak Shield
+
 ###Protector (347)
 
 Id       | Name                                                | Note
@@ -3679,6 +3699,30 @@ Id       | Name                                                | Note
 15E6A690 | Karla's Gloves
 15E6AA78 | Karla's Trousers
 
+###Protector - Ashes of Ariandel DLC (19)
+
+Id       | Name                                                | Note
+-------- | --------------------------------------------------- | --------------
+137CA3A0 | Follower Helm
+137CA788 | Follower Armor
+137CAB70 | Follower Gloves
+137CAF58 | Follower Boots
+134EDCE0 | Slave Knight Hood
+134EE0C8 | Slave Knight Armor
+134EE4B0 | Slave Knight Gauntlets
+134EE898 | Slave Knight Leggings
+11312D00 | Vilhelm's Helm
+113130E8 | Vilhelm's Armor
+113134D0 | Vilhelm's Gauntlets
+113138B8 | Vilhelm's Leggings
+139B2820 | Millwood Knight Helm
+139B2C08 | Millwood Knight Armor
+139B2FF0 | Millwood Knight Gauntlets
+139B2820 | Millwood Knight Leggings
+135E1F20 | Ordained Hood
+135E2308 | Ordained Dress
+135E2AD8 | Ordained Trousers
+
 ### Accessory (171)
 
 Id       | Name                                                | Note
@@ -3960,6 +4004,15 @@ Id       | Name                                                | Note
 40395F80 | Blessed Weapon
 40398690 | Deep Protection
 4039ADA0 | Atonement
+
+###Magic - Ashes of Ariandel DLC (4)
+
+Id       | Name                                                | Note
+-------- | --------------------------------------------------- | --------------
+401408E8 | Frozen Weapon
+401A90C8 | Snap Freeze
+40257DA8 | Floating Chaos
+403642A0 | Way of White Corona
 
 ## Credits
 
