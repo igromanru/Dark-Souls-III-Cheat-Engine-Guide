@@ -45,7 +45,7 @@ http://www.cheatengine.org/
   * [Accessory](#accessory-171) (171)
   * [Magic](#magic-101) (101)
   * [Ashes of Ariandel DLC](#ashes-of-ariandel-dlc---items-ids)
-    * [Weapons](#weapons---ashes-of-ariandel-dlc-15) (15)
+    * [Weapons](#weapons---ashes-of-ariandel-dlc-16) (16)
     * [Protector](#protector---ashes-of-ariandel-dlc-19) (19)
     * [Magic](#magic---ashes-of-ariandel-dlc-4) (4)
 * [Credits](#credits)
@@ -3968,7 +3968,7 @@ Id       | Name                                                | Note
 
 Thanks [Fredds](http://forum.cheatengine.org/viewtopic.php?p=5696622#5696622).
 
-###Weapons - Ashes of Ariandel DLC (15)
+###Weapons - Ashes of Ariandel DLC (16)
 
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
