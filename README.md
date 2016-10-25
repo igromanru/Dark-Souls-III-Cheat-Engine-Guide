@@ -3973,6 +3973,7 @@ Thanks [Fredds](http://forum.cheatengine.org/viewtopic.php?p=5696622#5696622).
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
 000623E0 | Millwood Greatarrow
+00222E00 | Onyx Blade
 003EDDC0 | Follower Sabre
 006D67D0 | Millwood Battle Axe
 006D8EE0 | Earth Seeker
