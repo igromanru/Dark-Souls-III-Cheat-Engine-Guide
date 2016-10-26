@@ -45,9 +45,10 @@ http://www.cheatengine.org/
   * [Accessory](#accessory-171) (171)
   * [Magic](#magic-101) (101)
   * [Ashes of Ariandel DLC](#ashes-of-ariandel-dlc---items-ids)
-    * [Weapons](#weapons---ashes-of-ariandel-dlc-16) (16)
+    * [Weapons](#weapons---ashes-of-ariandel-dlc-17) (17)
     * [Protector](#protector---ashes-of-ariandel-dlc-19) (19)
     * [Magic](#magic---ashes-of-ariandel-dlc-4) (4)
+    * [Misc](#misc---ashes-of-ariandel-dlc-5) (5)
 * [Credits](#credits)
 
 ## FAQ
@@ -3968,7 +3969,7 @@ Id       | Name                                                | Note
 
 Thanks [Fredds](http://forum.cheatengine.org/viewtopic.php?p=5696622#5696622).
 
-###Weapons - Ashes of Ariandel DLC (16)
+###Weapons - Ashes of Ariandel DLC (17)
 
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
@@ -3988,7 +3989,7 @@ Id       | Name                                                | Note
 00F66DF0 | Crow Quills
 0135C0E0 | Followers Shield
 01450320 | Ethereal Oak Shield
-
+015F1AD0 | Follower Torch
 
 ###Protector - Ashes of Ariandel DLC (19)
 
@@ -4022,6 +4023,16 @@ Id       | Name                                                | Note
 401A90C8 | Snap Freeze
 40257DA8 | Floating Chaos
 403642A0 | Way of White Corona
+
+###Misc - Ashes of Ariandel DLC (5)
+
+Id       | Name                                                | Note
+-------- | --------------------------------------------------- | --------------
+20005208 | Chillbite Ring
+400002E8 | Soul of Sister Friede
+4000086A | Captain's Ashes
+4000086B | Contraption Key
+40000869 | Champions Bones
 
 ## Credits
 
