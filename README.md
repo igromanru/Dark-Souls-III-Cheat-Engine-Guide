@@ -27,9 +27,7 @@ http://www.cheatengine.org/
  * [Message: \[CAUTION\] INVALID GAME DATA HAS BEEN DETECTED](#message-caution-invalid-game-data-has-been-detected)
  * [Message: \[CAUTION\] YOU HAVE BEEN PENALIZED](#message-caution-you-have-been-penalized)
  * [How to rid of the INVALID GAME DATA message](#how-to-rid-of-the-invalid-game-data-message)
- * [Anti-Cheat](#anti-cheat)
  * [Soft-ban](#soft-ban)
- * [What is safe to play online?](#what-is-safe-to-play-online)
  * [Save game transfer](#save-game-transfer)
  * [Cheat Engine debugger crashing the game](#cheat-engine-debugger-crashing-the-game)
  * [Offline mode](#offline-mode)
@@ -86,25 +84,11 @@ If you have received the [\[CAUTION\] INVALID GAME DATA HAS BEEN DETECTED](#mess
 
 **Attention!** I don't know what will happen, if you will start to cheat again. Maybe you will get the INVALID DATA again or maybe you will be instantly penalized.  
 
-#### Anti-Cheat
-
-FromSoftware is still working on their AntiCheat system.  
-For more, read [Will I get banned for using Cheat Engine?](http://forum.cheatengine.org/viewtopic.php?p=5661220#5661220) from [Phokz's FAQ](http://forum.cheatengine.org/viewtopic.php?p=5661457#5661457).
-
 #### Soft-ban
 
 It's looks like the soft-ban in DS3 is very similar to DS2.  
 At the moment the most players were banned for the [\[CAUTION\] INVALID GAME DATA HAS BEEN DETECTED](#message-caution-invalid-game-data-has-been-detected) message.  
 If you are soft-banned you will se the [\[CAUTION\] YOU HAVE BEEN PENALIZED](#message-caution-you-have-been-penalized) message.
-
-#### What is safe to play online?
-
-##### Nothing is 100% safe, cheating is always a risk! Do it on your own liability!
-
-##### Generelly
-As long you are [offline](#offline-mode), you are safe. All temporery changes(freeze current state of HP/Stamina/FP/iFrame) that don't stay in your save game are also safe. If you do something that can cause a ban, you can undo it before you go back online.
-
-Also read [Will I get banned for using Cheat Engine?](http://forum.cheatengine.org/viewtopic.php?p=5661220#5661220) from [Phokz's FAQ](http://forum.cheatengine.org/viewtopic.php?p=5661457#5661457)..
 
 #### Save game transfer
 
