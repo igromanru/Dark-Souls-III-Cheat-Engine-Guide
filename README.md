@@ -1,6 +1,6 @@
 # Dark Souls III Cheat Engine Guide
 ## Edit 26.03.2017
-- The offical Cheat Engine forum don't provide any downloads anymore ([link](forum.cheatengine.org/viewtopic.php?t=603323)), CE tables are now on  http://fearlessrevolution.com.  
+- The offical Cheat Engine forum don't provide any downloads anymore ([link](http://forum.cheatengine.org/viewtopic.php?t=603323)), CE tables are now on  http://fearlessrevolution.com.  
 - Phokz has deleted his CE account but the latest table from Zanzer should work.
 - The Guide is a bit Outdated. Since this guide is one of the first google results and I don't playing DS3 anymore, it would be nice if someone would take care of it. You can contact me here on [reddit](https://www.reddit.com/user/igromanru) or [FearLess CE Forum](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1599).
 
