@@ -1,4 +1,9 @@
-#Dark Souls III Cheat Engine Guide
+# Dark Souls III Cheat Engine Guide
+## Edit 26.03.2017
+- The offical Cheat Engine forum don't provide any downloads anymore ([link](forum.cheatengine.org/viewtopic.php?t=603323)), CE tables are now on  http://fearlessrevolution.com.  
+- Phokz has deleted his CE account but the latest table from Zanzer should work.
+- The Guide is a bit Outdated. Since this guide is one of the first google results and I don't playing DS3 anymore, it would be nice if someone would take care of it. You can contact me here on [reddit](https://www.reddit.com/user/igromanru) or [FearLess CE Forum](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1599).
+
 
 ## Introduction
 This document was insirated by [Dark Souls II and Scholar of the First Sin Cheat Engine Guide](https://gist.github.com/Atvaark/f308e1d8e00e07106452) from [Atvaark](https://github.com/Atvaark).  
@@ -13,13 +18,13 @@ Since I've better to do than rewrite all existing tutorials on my own, I've stop
 
 ## General
 ### Cheat Engine
-http://www.cheatengine.org/
+http://www.cheatengine.org/  
+http://fearlessrevolution.com
 
-###### Tables on the CE Forum:
+###### Tables are now on the FearLess CE Forum:
 
-* [Phokz's table, powered by CE-Community](http://forum.cheatengine.org/viewtopic.php?t=589191) (see [Credits](#credits))
-* [Zanzer's Table](http://forum.cheatengine.org/viewtopic.php?p=5661102#5661102)
-* [Cielos's Table](http://forum.cheatengine.org/viewtopic.php?p=5661561#5661561)
+* ~~[Phokz's table, powered by CE-Community](http://forum.cheatengine.org/viewtopic.php?t=589191)~~
+* [Zanzer's Table](http://fearlessrevolution.com/viewtopic.php?f=4&t=205&sid=f0c2520fd4c6848e7ad5cc46c5c81c35)
 
 ## Content
 
@@ -4020,8 +4025,7 @@ Id       | Name                                                | Note
 
 ## Credits
 
-* [Phokz](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=412833)
-* [Zanzer](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=352653)
+* [Zanzer](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=523)
 * [Matze500](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=324171)
 * [mgr.inz.Player](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=177983)
 * [Cielos](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=107448)
