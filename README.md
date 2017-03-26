@@ -172,7 +172,7 @@ Sometimes you will find multiple ID's for the same item, always try the last one
 Example: "Ring of Steel Protection" got two entries, ID 20000078 and ID 20004E48, the **20004E48** is the right one.  
 The reason of duplicate item ID's is, that they have added many items from DS1 first.
 
-###Goods (407)
+### Goods (407)
 
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
@@ -484,7 +484,7 @@ Id       | Name                                                | Note
 4000234B | Silent Ally  | Gestures can't be picked up!
 4000234C | Savage's Bow  | Gestures can't be picked up!
 
-###Weapons (2831)
+### Weapons (2831)
 
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
@@ -3320,7 +3320,7 @@ Id       | Name                                                | Note
 0151DA3C | Hollow Stone Greatshield
 015EF3C0 | Torch
 
-###Protector (347)
+### Protector (347)
 
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
@@ -3848,7 +3848,7 @@ Id       | Name                                                | Note
 20005154 | Ring of Sustained Fortune
 2000515E | Dragonscale Ring
 
-###Magic (101)
+### Magic (101)
 
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
@@ -3958,7 +3958,7 @@ Id       | Name                                                | Note
 
 Thanks [Fredds](http://forum.cheatengine.org/viewtopic.php?p=5696622#5696622).
 
-###Weapons - Ashes of Ariandel DLC (17)
+### Weapons - Ashes of Ariandel DLC (17)
 
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
@@ -3980,7 +3980,7 @@ Id       | Name                                                | Note
 01450320 | Ethereal Oak Shield
 015F1AD0 | Follower Torch
 
-###Protector - Ashes of Ariandel DLC (19)
+### Protector - Ashes of Ariandel DLC (19)
 
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
@@ -4004,7 +4004,7 @@ Id       | Name                                                | Note
 135E2308 | Ordained Dress
 135E2AD8 | Ordained Trousers
 
-###Magic - Ashes of Ariandel DLC (4)
+### Magic - Ashes of Ariandel DLC (4)
 
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
@@ -4013,7 +4013,7 @@ Id       | Name                                                | Note
 40257DA8 | Floating Chaos
 403642A0 | Way of White Corona
 
-###Misc - Ashes of Ariandel DLC (5)
+### Misc - Ashes of Ariandel DLC (5)
 
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
