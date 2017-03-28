@@ -26,6 +26,7 @@ http://fearlessrevolution.com/
  * [Message: \[CAUTION\] YOU HAVE BEEN PENALIZED](#message-caution-you-have-been-penalized)
  * [How to rid of the INVALID GAME DATA message](#how-to-rid-of-the-invalid-game-data-message)
  * [Soft-ban](#soft-ban)
+ * [What does and does not get you banned](w#hat-does-and-does-not-get-you-banned)
  * [Save game transfer](#save-game-transfer)
  * [Cheat Engine debugger crashing the game](#cheat-engine-debugger-crashing-the-game)
  * [Offline mode](#offline-mode)
@@ -92,6 +93,10 @@ If you have received the [\[CAUTION\] INVALID GAME DATA HAS BEEN DETECTED](#mess
 It's looks like the soft-ban in DS3 is very similar to DS2.  
 At the moment the most players were banned for the [\[CAUTION\] INVALID GAME DATA HAS BEEN DETECTED](#message-caution-invalid-game-data-has-been-detected) message.  
 If you are soft-banned you will se the [\[CAUTION\] YOU HAVE BEEN PENALIZED](#message-caution-you-have-been-penalized) message.
+
+#### What does and does not get you banned
+Thnaks to the reddit user [/u/Sharkbitch](https://www.reddit.com/user/Sharkbitch), who has collected Softban data from last year and made a compilation of it:  
+[Softban Data and Testing](https://www.reddit.com/r/opensouls3/comments/5gc9cb/softban_data_and_testing/)
 
 #### Save game transfer
 
@@ -4133,5 +4138,6 @@ Id       | Name                                                | Note
 * [Birdulon](https://www.youtube.com/user/Birdulon)
 * [terenceyao](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1536&sid=551f7652091d3fdb1a1c0eedbae2cb5c)
 * [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ringed_city_dlc_items_hex_id/)
+* [/u/Sharkbitch](https://www.reddit.com/user/Sharkbitch)
 * [/r/opensouls3](https://www.reddit.com/r/opensouls3)
 * [igromanru](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962)
