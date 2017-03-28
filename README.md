@@ -17,7 +17,7 @@ http://fearlessrevolution.com/
 
 * ~~[Phokz's table, powered by CE-Community](http://forum.cheatengine.org/viewtopic.php?t=589191)~~
 * [Zanzer's Table](http://fearlessrevolution.com/viewtopic.php?f=4&t=205&sid=f0c2520fd4c6848e7ad5cc46c5c81c35)
-* [Latest Phokz's table with few fixes by terenceyao](http://fearlessrevolution.com/viewtopic.php?f=4&t=205&start=42)
+* ~~[Latest Phokz's table with few fixes by terenceyao](http://fearlessrevolution.com/viewtopic.php?f=4&t=205&start=42)~~
 
 ## Content
 
