@@ -7,25 +7,17 @@
 
 ## Introduction
 This document was insirated by [Dark Souls II and Scholar of the First Sin Cheat Engine Guide](https://gist.github.com/Atvaark/f308e1d8e00e07106452) from [Atvaark](https://github.com/Atvaark).  
-~~I am trying to create a similar Guide for all people out there.  
-And I want to say a big thank to all people on CE forum for working together on a great CE-Table.  
-If you have a question or complaint, feel free to contact me here or on [CE-Forum](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962).  
-If you want me to add or change something in this guide, use the "Issues" system or make a "Pull-Request".  
-Let us work together to create a great Guide, that will contains all nessesary information. :)~~  
-Some people on CE-Forum don't support my idea, they want to keep all information in the forum.  
-Since I've better to do than rewrite all existing tutorials on my own, I've stopped to add new stuff here. I will update or remove outdated information, but if you want to know more, you have to visit the [CE-Forum](http://forum.cheatengine.org/viewtopic.php?t=589191).
-
 
 ## General
 ### Cheat Engine
 http://www.cheatengine.org/  
-http://fearlessrevolution.com
+http://fearlessrevolution.com/
 
 ###### Tables are now on the FearLess CE Forum:
 
 * ~~[Phokz's table, powered by CE-Community](http://forum.cheatengine.org/viewtopic.php?t=589191)~~
 * [Zanzer's Table](http://fearlessrevolution.com/viewtopic.php?f=4&t=205&sid=f0c2520fd4c6848e7ad5cc46c5c81c35)
-* [Latest Phokz's table with few fixes by terenceyao](http://fearlessrevolution.com/viewtopic.php?f=4&t=205&sid=fd54df8d051db0f8afb46290c35376e6&start=42)
+* [Latest Phokz's table with few fixes by terenceyao](http://fearlessrevolution.com/viewtopic.php?f=4&t=205&start=42)
 
 ## Content
 
@@ -4024,6 +4016,105 @@ Id       | Name                                                | Note
 4000086B | Contraption Key
 40000869 | Champions Bones
 
+## The Ringed City DLC - Items IDs
+
+Thanks to [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ringed_city_dlc_items_hex_id/), [/r/opensouls3](https://www.reddit.com/r/opensouls3)  and [CodeSidon](http://fearlessrevolution.com/viewtopic.php?f=4&t=205&start=47)
+
+### Weapons - The Ringed City DLC (22)
+
+Id       | Name                                                | Note
+-------- | --------------------------------------------------- | --------------
+00116520 | Aquamarine Dagger
+00118C30 | Murky Hand Scythe
+00225510 | Ringed Knight Straight Sword
+00227C20 | Gael Greatsword
+003F04D0 | Demon Scar
+004D35A0 | Frayed Blade
+006159E0 | Herald Curved Greatsword
+007EF400 | Ledo's Great Hammer
+008CFDC0 | Ringed Knight Spear
+008D24D0 | Lothric War Banner
+008D4BE0 | Crucifix of the Mad King (Halberd)
+009B2E90 | Splitleaf Greatsword (It's a Halberd)
+00CCC5E0 | Murky Longstaff
+00CCECF0 | Sacred Chime of Filianore
+00CD1400 | Preacher's Right Arm
+00D77440 | White Tree Bow (White Birch Bow)
+00D885B0 | Repeating Crossbow
+00F5F8C0 | Great Door Twinshields
+00F69500 | Ringed Knight Paired
+0135E7F0 | Dragonhead Shield
+01452A30 | Dragonhead Greatshield
+
+### Protector - The Ringed City DLC (37)
+
+Id       | Name                                                | Note
+-------- | --------------------------------------------------- | --------------
+11B2E408 | Antiquated Plain Garb
+11B2E7F0 | Violet Wrappings
+11B2EBD8 | Loincloth | Not the one already in the game
+11C22260 | Shira's Crown
+11C22648 | Shira's Armor
+11C22A30 | Shira's Gloves
+11C22E18 | Shira's Trousers
+11E84800 | Lapp's Helm
+11E84BE8 | Lapp's Armor
+11E84FD0 | Lapp's Gauntlets
+11E853B8 | Lapp's Leggings
+13C8EEE0 | Ringed Knight Hood
+13C8F2C8 | Ringed Knight Armor
+13C8F6B0 | Ringed Knight Gauntlets
+13C8FA98 | Ringed Knight Leggings
+13D83508 | Harald Legion Armor
+13D838F0 | Harald Legion Gauntlets
+13D83CD8 | Harald Legion Leggings
+1405F7E0 | Iron Dragonslayer Helm
+1405FBC8 | Iron Dragonslayer Armor
+1405FFB0 | Iron Dragonslayer Gauntlets
+14060398 | Iron Dragonslayer Leggings
+14153A20 | White Preacher Head
+14CC5520 | Ruin Sentinel Helm
+14CC5908 | Ruin Sentinel Armor
+14CC5CF0 | Ruin Sentinel Gauntlets
+14CC60D8 | Ruin Sentinel Leggings
+14DB9760 | Desert Pyromancer Hood
+14DB9B48 | Desert Pyromancer Garb
+14DB9F30 | Desert Pyromancer Gloves
+14DBA318 | Desert Pyromancer Skirt
+14FA1BE0 | Black Witch Veil
+14EAD9A0 | Black Witch Hat
+14EADD88 | Black Witch Garb
+14EAE170 | Black Witch Wrappings
+14EAE558 | Black Witch Trousers
+15095E20 | Blindfold Mask
+
+### Magic - The Ringed City DLC (6)
+
+Id       | Name                                                | Note
+-------- | --------------------------------------------------- | --------------
+4014FF00 | Old Moonlight
+401879A0 | Great Soul Dregs
+40258190 | Flame Fan
+402896A0 | Seething Chaos
+40358B08 | Lightning Arrow (Best part of DLC)
+40364688 | Projected Heal
+
+### Misc - The Ringed City DLC (11)
+
+Id       | Name                                                | Note
+-------- | --------------------------------------------------- | --------------
+4000013B | Church Guardian Shiv
+4000017B | Filianore's Spear Ornament
+4000028A | Ritual Spear Fragment
+4000028B | Divine Spear Fragment
+400002E9 | Soul of Slave Knight Gael
+400002EA | Soul of the Demon Prince
+400002EB | Soul of Darkeater Midir
+4000086C | Small Envoy Banner
+4000086D | Old Woman's Ashes
+4000086E | Blood of the Dark souls
+4000086F | Young Grass Dew | (NOT Life Gem)
+
 ## Credits
 
 * [Zanzer](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=523)
@@ -4036,4 +4127,6 @@ Id       | Name                                                | Note
 * [dezimous](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=445852)
 * [Birdulon](https://www.youtube.com/user/Birdulon)
 * [terenceyao](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1536&sid=551f7652091d3fdb1a1c0eedbae2cb5c)
+* [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ringed_city_dlc_items_hex_id/)
+* [/r/opensouls3](https://www.reddit.com/r/opensouls3)
 * [igromanru](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962)
