@@ -25,6 +25,7 @@ http://fearlessrevolution.com
 
 * ~~[Phokz's table, powered by CE-Community](http://forum.cheatengine.org/viewtopic.php?t=589191)~~
 * [Zanzer's Table](http://fearlessrevolution.com/viewtopic.php?f=4&t=205&sid=f0c2520fd4c6848e7ad5cc46c5c81c35)
+* [Latest Phokz's table with few fixes by terenceyao](http://fearlessrevolution.com/viewtopic.php?f=4&t=205&sid=fd54df8d051db0f8afb46290c35376e6&start=42)
 
 ## Content
 
@@ -4034,4 +4035,5 @@ Id       | Name                                                | Note
 * [ranonadg](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=446280)
 * [dezimous](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=445852)
 * [Birdulon](https://www.youtube.com/user/Birdulon)
-* [igromanru](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962) (me)
+* [terenceyao](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1536&sid=551f7652091d3fdb1a1c0eedbae2cb5c)
+* [igromanru](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962)
