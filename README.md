@@ -45,6 +45,11 @@ http://fearlessrevolution.com/
     * [Protector](#protector---ashes-of-ariandel-dlc-19) (19)
     * [Magic](#magic---ashes-of-ariandel-dlc-4) (4)
     * [Misc](#misc---ashes-of-ariandel-dlc-5) (5)
+  * [The Ringed City DLC](#the-ringed-city-dlc---items-ids)
+    * [Weapons](#weapons---the-ringed-city-dlc-22) (22)
+    * [Protector](#protector---the-ringed-city-dlc-37) (37)
+    * [Magic](#magic---the-ringed-city-dlc-6) (6)
+    * [Misc](#misc---the-ringed-city-dlc-11) (11)
 * [Credits](#credits)
 
 ## FAQ
