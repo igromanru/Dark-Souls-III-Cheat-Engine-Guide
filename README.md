@@ -26,7 +26,7 @@ http://fearlessrevolution.com/
  * [Message: \[CAUTION\] YOU HAVE BEEN PENALIZED](#message-caution-you-have-been-penalized)
  * [How to rid of the INVALID GAME DATA message](#how-to-rid-of-the-invalid-game-data-message)
  * [Soft-ban](#soft-ban)
- * [What does and does not get you banned](w#hat-does-and-does-not-get-you-banned)
+ * [What does and does not get you banned](#what-does-and-does-not-get-you-banned)
  * [Save game transfer](#save-game-transfer)
  * [Cheat Engine debugger crashing the game](#cheat-engine-debugger-crashing-the-game)
  * [Offline mode](#offline-mode)
