@@ -42,15 +42,17 @@ http://fearlessrevolution.com/
   * [Accessory](#accessory-171) (171)
   * [Magic](#magic-101) (101)
   * [Ashes of Ariandel DLC](#ashes-of-ariandel-dlc---items-ids)
+    * [Goods]() (4)
     * [Weapons](#weapons---ashes-of-ariandel-dlc-17) (17)
     * [Protector](#protector---ashes-of-ariandel-dlc-19) (19)
-    * [Magic](#magic---ashes-of-ariandel-dlc-4) (4)
-    * [Misc](#misc---ashes-of-ariandel-dlc-5) (5)
+    * [Accessory]() (1)
+    * [Magic](#magic---ashes-of-ariandel-dlc-4) (4)    
   * [The Ringed City DLC](#the-ringed-city-dlc---items-ids)
+    * [Goods]() (11)
     * [Weapons](#weapons---the-ringed-city-dlc-22) (22)
     * [Protector](#protector---the-ringed-city-dlc-37) (37)
-    * [Magic](#magic---the-ringed-city-dlc-6) (6)
-    * [Misc](#misc---the-ringed-city-dlc-11) (11)
+    * [Accessory]() (7)
+    * [Magic](#magic---the-ringed-city-dlc-6) (6)    
 * [Credits](#credits)
 
 ## FAQ
@@ -3961,6 +3963,15 @@ Id       | Name                                                | Note
 
 Thanks [Fredds](http://forum.cheatengine.org/viewtopic.php?p=5696622#5696622).
 
+### Goods - Ashes of Ariandel DLC (4)
+
+Id       | Name                                                | Note
+-------- | --------------------------------------------------- | --------------
+400002E8 | Soul of Sister Friede
+4000086A | Captain's Ashes
+4000086B | Contraption Key
+40000869 | Champions Bones
+
 ### Weapons - Ashes of Ariandel DLC (17)
 
 Id       | Name                                                | Note
@@ -4007,6 +4018,12 @@ Id       | Name                                                | Note
 135E2308 | Ordained Dress
 135E2AD8 | Ordained Trousers
 
+### Accessory - Ashes of Ariandel DLC (1)
+
+Id       | Name                                                | Note
+-------- | --------------------------------------------------- | --------------
+20005208 | Chillbite Ring
+
 ### Magic - Ashes of Ariandel DLC (4)
 
 Id       | Name                                                | Note
@@ -4016,19 +4033,25 @@ Id       | Name                                                | Note
 40257DA8 | Floating Chaos
 403642A0 | Way of White Corona
 
-### Misc - Ashes of Ariandel DLC (5)
-
-Id       | Name                                                | Note
--------- | --------------------------------------------------- | --------------
-20005208 | Chillbite Ring
-400002E8 | Soul of Sister Friede
-4000086A | Captain's Ashes
-4000086B | Contraption Key
-40000869 | Champions Bones
-
 ## The Ringed City DLC - Items IDs
 
 Thanks to [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ringed_city_dlc_items_hex_id/), [/r/opensouls3](https://www.reddit.com/r/opensouls3)  and [CodeSidon](http://fearlessrevolution.com/viewtopic.php?f=4&t=205&start=47)
+
+### Goods - The Ringed City DLC (11)
+
+Id       | Name                                                | Note
+-------- | --------------------------------------------------- | --------------
+4000013B | Church Guardian Shiv
+4000017B | Filianore's Spear Ornament
+4000028A | Ritual Spear Fragment
+4000028B | Divine Spear Fragment
+400002E9 | Soul of Slave Knight Gael
+400002EA | Soul of the Demon Prince
+400002EB | Soul of Darkeater Midir
+4000086C | Small Envoy Banner
+4000086D | Old Woman's Ashes
+4000086E | Blood of the Dark souls
+4000086F | Young Grass Dew | (NOT Life Gem)
 
 ### Weapons - The Ringed City DLC (22)
 
@@ -4098,6 +4121,18 @@ Id       | Name                                                | Note
 14EAE558 | Black Witch Trousers
 15095E20 | Blindfold Mask
 
+### Accessory - The Ringed City DLC (7)
+
+Id       | Name                                                | Note
+-------- | --------------------------------------------------- | --------------
+20004E2D | Chloranthy Ring +3
+20004E37 | Havel's ring +3
+20004E41 | Ring of Favor +3
+20004E4B | Ring of Steel Protection +3
+20004EE1 | Wolf Ring +3
+20004FA9 | Covetous Gold Serpent Ring+3
+20004FB3 | Covetous Silver Serpent Ring +3
+
 ### Magic - The Ringed City DLC (6)
 
 Id       | Name                                                | Note
@@ -4106,24 +4141,9 @@ Id       | Name                                                | Note
 401879A0 | Great Soul Dregs
 40258190 | Flame Fan
 402896A0 | Seething Chaos
-40358B08 | Lightning Arrow (Best part of DLC)
+40358B08 | Lightning Arrow
 40364688 | Projected Heal
 
-### Misc - The Ringed City DLC (11)
-
-Id       | Name                                                | Note
--------- | --------------------------------------------------- | --------------
-4000013B | Church Guardian Shiv
-4000017B | Filianore's Spear Ornament
-4000028A | Ritual Spear Fragment
-4000028B | Divine Spear Fragment
-400002E9 | Soul of Slave Knight Gael
-400002EA | Soul of the Demon Prince
-400002EB | Soul of Darkeater Midir
-4000086C | Small Envoy Banner
-4000086D | Old Woman's Ashes
-4000086E | Blood of the Dark souls
-4000086F | Young Grass Dew | (NOT Life Gem)
 
 ## Credits
 
@@ -4140,4 +4160,5 @@ Id       | Name                                                | Note
 * [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ringed_city_dlc_items_hex_id/)
 * [/u/Sharkbitch](https://www.reddit.com/user/Sharkbitch)
 * [/r/opensouls3](https://www.reddit.com/r/opensouls3)
+* [Kavez](https://github.com/Kavez)
 * [igromanru](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962)
