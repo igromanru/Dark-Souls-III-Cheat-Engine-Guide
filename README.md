@@ -3855,109 +3855,109 @@ Id       | Name                                                | Note
 
 ### Magic (101)
 
-Id       | Name                                                | Note
--------- | --------------------------------------------------- | --------------
-40124F80 | Farron Dart
-40127690 | Great Farron Dart
-4013D620 | Soul Arrow
-4013DA08 | Great Soul Arrow
-4013DDF0 | Heavy Soul Arrow
-4013E1D8 | Great Heavy Soul Arrow
-4013E5C0 | Homing Soulmass
-4013E9A8 | Homing Crystal Soulmass
-4013ED90 | Soul Spear
-4013F178 | Crystal Soul Spear
-4013F560 | Deep Soul
-4013F948 | Great Deep Soul
-4013FD30 | Magic Weapon
-40140118 | Great Magic Weapon
-40140500 | Crystal Magic Weapon
-40144B50 | Magic Shield
-40144F38 | Great Magic Shield
-40147260 | Hidden Weapon
-40147648 | Hidden Body
-40149970 | Cast Light
-4014A528 | Repair
-4014A910 | Spook
-4014ACF8 | Chameleon
-4014B0E0 | Aural Decoy
-4014E790 | White Dragon Breath
-4014EF60 | Farron Hail
-4014F348 | Crystal Hail
-4014F730 | Soul Greatsword
-4014FB18 | Farron Flashsword
-401875B8 | Affinity
-40189CC8 | Dark Edge
-4018B820 | Soul Stream
-40193138 | Twisted Wall of Light
-401A8CE0 | Pestilent Mercury
-40249F00 | Fireball
-4024A6D0 | Fire Orb
-4024AAB8 | Firestorm
-4024B288 | Fire Surge
-4024B670 | Fire Whip
-4024BA58 | Black Serpent
-4024C610 | Combustion
-4024C9F8 | Great Combustion
-4024ED20 | Poison Mist
-4024F108 | Toxic Mist
-4024F4F0 | Acid Surge
-40251430 | Iron Flesh
-40251818 | Flash Sweat
-402527B8 | Carthus Flame Arc
-40252BA0 | Rapport
-40253B40 | Power Within
-40256250 | Great Chaos Fire Orb
-40256638 | Chaos Storm
-40256A20 | Fire Whip
-40256E08 | Black Flame
-402575D8 | Profaned Flame
-402579C0 | Chaos Bed Vestiges
-4025B070 | Warmth
-402717D0 | Profuse Sweat
-4027AC40 | Dark Orb
-4027D350 | Black Fire Orb
-4027FA60 | Bursting Fireball
-40282170 | Boulder Heave
-40284880 | Sacred Flame
-40286F90 | Carthus Beacon
-403540D0 | Heal Aid
-403567E0 | Heal
-40356BC8 | Med Heal
-40356FB0 | Great Heal
-40357398 | Soothing Sunlight
-40357780 | Replenishment
-40357B68 | Bountiful Sunlight
-40358338 | Bountiful Light
-40358720 | Caressing Tears
-40359AA8 | Morbid Temptation
-4035B600 | Tears of Denial
-4035B9E8 | Homeward
-4035DD10 | Force
-4035E0F8 | Wrath of the Gods
-4035E4E0 | Emit Force
-40360420 | Seek Guidance
-40362B30 | Lightning Spear
-40362F18 | Great Lightning Spear
-40363300 | Sunlight Spear
-403636E8 | Lightning Storm
-40363AD0 | Gnaw
-40363EB8 | Dorhys' Gnawing
-40365240 | Magic Barrier
-40365628 | Great Magic Barrier
-40365DF8 | Sacred Oath
-4036A448 | Vow of Silence
-4036C770 | Lightning Blade
-4036CB58 | Darkmoon Blade
-40378AC0 | Dark Blade
-40387520 | Dead Again
-40389C30 | Lightning Stake
-4038C340 | Divine Pillars of Light
-4038EA50 | Lifehunt Scythe
-40393870 | Dorris Swarm
-40395F80 | Blessed Weapon
-40398690 | Deep Protection
-4039ADA0 | Atonement
+Id       | Name                           | Type               | Note
+-------- | -------------------------------| ------------------ | --------------
+40124F80 | Farron Dart | Sorcery
+40127690 | Great Farron Dart | Sorcery
+4013D620 | Soul Arrow | Sorcery
+4013DA08 | Great Soul Arrow | Sorcery
+4013DDF0 | Heavy Soul Arrow | Sorcery
+4013E1D8 | Great Heavy Soul Arrow | Sorcery
+4013E5C0 | Homing Soulmass | Sorcery
+4013E9A8 | Homing Crystal Soulmass | Sorcery
+4013ED90 | Soul Spear | Sorcery
+4013F178 | Crystal Soul Spear | Sorcery
+4013F560 | Deep Soul | Sorcery
+4013F948 | Great Deep Soul | Sorcery
+4013FD30 | Magic Weapon | Sorcery
+40140118 | Great Magic Weapon | Sorcery
+40140500 | Crystal Magic Weapon | Sorcery
+40144B50 | Magic Shield | Sorcery
+40144F38 | Great Magic Shield | Sorcery
+40147260 | Hidden Weapon | Sorcery
+40147648 | Hidden Body | Sorcery
+40149970 | Cast Light | Sorcery
+4014A528 | Repair | Sorcery
+4014A910 | Spook | Sorcery
+4014ACF8 | Chameleon | Sorcery
+4014B0E0 | Aural Decoy | Sorcery
+4014E790 | White Dragon Breath | Sorcery
+4014EF60 | Farron Hail | Sorceryery
+4014F348 | Crystal Hail | Sorcery
+4014F730 | Soul Greatsword | Sorcery
+4014FB18 | Farron Flashsword | Sorcery
+401875B8 | Affinity | Sorcery
+40189CC8 | Dark Edge | Sorcery
+4018B820 | Soul Stream | Sorcery
+40193138 | Twisted Wall of Light | Sorcery
+401A8CE0 | Pestilent Mercury | Sorcery
+40249F00 | Fireball | Pyromancy
+4024A6D0 | Fire Orb | Pyromancy
+4024AAB8 | Firestorm | Pyromancy
+4024B288 | Fire Surge | Pyromancy
+4024B670 | Fire Whip | Pyromancy
+4024BA58 | Black Serpent | Pyromancy
+4024C610 | Combustion | Pyromancy
+4024C9F8 | Great Combustion | Pyromancy
+4024ED20 | Poison Mist | Pyromancy
+4024F108 | Toxic Mist | Pyromancy
+4024F4F0 | Acid Surge | Pyromancy
+40251430 | Iron Flesh | Pyromancy
+40251818 | Flash Sweat | Pyromancy
+402527B8 | Carthus Flame Arc | Pyromancy
+40252BA0 | Rapport | Pyromancy
+40253B40 | Power Within | Pyromancy
+40256250 | Great Chaos Fire Orb | Pyromancy
+40256638 | Chaos Storm | Pyromancy
+40256A20 | Fire Whip | Pyromancy
+40256E08 | Black Flame | Pyromancy
+402575D8 | Profaned Flame | Pyromancy
+402579C0 | Chaos Bed Vestiges | Pyromancy
+4025B070 | Warmth | Pyromancy
+402717D0 | Profuse Sweat | Pyromancy
+4027AC40 | Dark Orb | Pyromancy
+4027D350 | Black Fire Orb | Pyromancy
+4027FA60 | Bursting Fireball | Pyromancy
+40282170 | Boulder Heave | Pyromancy
+40284880 | Sacred Flame | Pyromancy
+40286F90 | Carthus Beacon | Pyromancy
+403540D0 | Heal Aid | Miracle
+403567E0 | Heal | Miracle
+40356BC8 | Med Heal | Miracle
+40356FB0 | Great Heal | Miracle
+40357398 | Soothing Sunlight | Miracle
+40357780 | Replenishment | Miracle
+40357B68 | Bountiful Sunlight | Miracle
+40358338 | Bountiful Light | Miracle
+40358720 | Caressing Tears | Miracle
+40359AA8 | Morbid Temptation | Miracle
+4035B600 | Tears of Denial | Miracle
+4035B9E8 | Homeward | Miracle
+4035DD10 | Force | Miracle
+4035E0F8 | Wrath of the Gods | Miracle
+4035E4E0 | Emit Force | Miracle
+40360420 | Seek Guidance | Miracle
+40362B30 | Lightning Spear | Miracle
+40362F18 | Great Lightning Spear | Miracle
+40363300 | Sunlight Spear | Miracle
+403636E8 | Lightning Storm | Miracle
+40363AD0 | Gnaw | Miracle
+40363EB8 | Dorhys' Gnawing | Miracle
+40365240 | Magic Barrier | Miracle
+40365628 | Great Magic Barrier | Miracle
+40365DF8 | Sacred Oath | Miracle
+4036A448 | Vow of Silence | Miracle
+4036C770 | Lightning Blade | Miracle
+4036CB58 | Darkmoon Blade | Miracle
+40378AC0 | Dark Blade | Miracle
+40387520 | Dead Again | Miracle
+40389C30 | Lightning Stake | Miracle
+4038C340 | Divine Pillars of Light | Miracle
+4038EA50 | Lifehunt Scythe | Miracle
+40393870 | Dorris Swarm | Miracle
+40395F80 | Blessed Weapon | Miracle
+40398690 | Deep Protection | Miracle
+4039ADA0 | Atonement | Miracle
 
 ## Ashes of Ariandel DLC - Items IDs
 
@@ -4035,7 +4035,7 @@ Id       | Name                           | Type               | Note
 
 ## The Ringed City DLC - Items IDs
 
-Thanks to [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ringed_city_dlc_items_hex_id/), [/r/opensouls3](https://www.reddit.com/r/opensouls3)  and [CodeSidon](http://fearlessrevolution.com/viewtopic.php?f=4&t=205&start=47)
+Thanks to [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ringed_city_dlc_items_hex_id/), [/r/opensouls3](https://www.reddit.com/r/opensouls3), [CodeSidon](http://fearlessrevolution.com/viewtopic.php?f=4&t=205&start=47) and [Kavez](https://github.com/Kavez)
 
 ### Goods - The Ringed City DLC (11)
 
