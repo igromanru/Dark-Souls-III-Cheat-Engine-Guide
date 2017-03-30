@@ -4026,12 +4026,12 @@ Id       | Name                                                | Note
 
 ### Magic - Ashes of Ariandel DLC (4)
 
-Id       | Name                                                | Note
--------- | --------------------------------------------------- | --------------
-401408E8 | Frozen Weapon
-401A90C8 | Snap Freeze
-40257DA8 | Floating Chaos
-403642A0 | Way of White Corona
+Id       | Name                           | Type               | Note
+-------- | -------------------------------| ------------------ | --------------
+401408E8 | Frozen Weapon | Sorcery
+401A90C8 | Snap Freeze | Sorcery
+40257DA8 | Floating Chaos | Pyromancy
+403642A0 | Way of White Corona | Miracle
 
 ## The Ringed City DLC - Items IDs
 
@@ -4136,14 +4136,14 @@ Id       | Name                                                | Note
 
 ### Magic - The Ringed City DLC (6)
 
-Id       | Name                                                | Note
--------- | --------------------------------------------------- | --------------
-4014FF00 | Old Moonlight
-401879A0 | Great Soul Dregs
-40258190 | Flame Fan
-402896A0 | Seething Chaos
-40358B08 | Lightning Arrow
-40364688 | Projected Heal
+Id       | Name                           | Type               | Note
+-------- | -------------------------------| ------------------ | --------------
+4014FF00 | Old Moonlight | Sorcery
+401879A0 | Great Soul Dregs | Sorcery
+40258190 | Flame Fan | Pyromancy
+402896A0 | Seething Chaos | Pyromancy
+40358B08 | Lightning Arrow | Miracle
+40364688 | Projected Heal | Miracle
 
 
 ## Credits
