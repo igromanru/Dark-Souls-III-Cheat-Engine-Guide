@@ -41,6 +41,9 @@ At the moment all tables need an update for the v1.31
   * [Protector](#protector-347)  (347)
   * [Accessory](#accessory-171) (171)
   * [Magic](#magic-101) (101)
+    * [Sorcery](#sorcery-34) (34)
+    * [Pyromancy](#pyromancy-30) (30)
+    * [Miracle](#miracle-37) (37)
   * [Ashes of Ariandel DLC](#ashes-of-ariandel-dlc---items-ids)
     * [Goods](#goods---ashes-of-ariandel-dlc-4) (4)
     * [Weapons](#weapons---ashes-of-ariandel-dlc-17) (17)
@@ -51,7 +54,7 @@ At the moment all tables need an update for the v1.31
     * [Goods](#goods---the-ringed-city-dlc-11) (11)
     * [Weapons](#weapons---the-ringed-city-dlc-22) (22)
     * [Protector](#protector---the-ringed-city-dlc-37) (37)
-    * [Accessory](#accessory---the-ringed-city-dlc-7) (7)
+    * [Accessory](#accessory---the-ringed-city-dlc-8) (8)
     * [Magic](#magic---the-ringed-city-dlc-6) (6)    
 * [Credits](#credits)
 
@@ -3854,9 +3857,10 @@ Id       | Name                                                | Note
 2000515E | Dragonscale Ring
 
 ### Magic (101)
+#### Sorcery (34)
 
-Id       | Name                                                | Note
--------- | --------------------------------------------------- | --------------
+Id       | Name                           | Note
+-------- | -------------------------------| --------------
 40124F80 | Farron Dart
 40127690 | Great Farron Dart
 4013D620 | Soul Arrow
@@ -3882,7 +3886,7 @@ Id       | Name                                                | Note
 4014ACF8 | Chameleon
 4014B0E0 | Aural Decoy
 4014E790 | White Dragon Breath
-4014EF60 | Farron Hail
+4014EF60 | Farron Hail ery
 4014F348 | Crystal Hail
 4014F730 | Soul Greatsword
 4014FB18 | Farron Flashsword
@@ -3891,6 +3895,10 @@ Id       | Name                                                | Note
 4018B820 | Soul Stream
 40193138 | Twisted Wall of Light
 401A8CE0 | Pestilent Mercury
+#### Pyromancy (30)
+
+Id       | Name                           | Note
+-------- | -------------------------------| --------------
 40249F00 | Fireball
 4024A6D0 | Fire Orb
 4024AAB8 | Firestorm
@@ -3921,6 +3929,10 @@ Id       | Name                                                | Note
 40282170 | Boulder Heave
 40284880 | Sacred Flame
 40286F90 | Carthus Beacon
+#### Miracle (37)
+
+Id       | Name                           | Note
+-------- | -------------------------------| --------------
 403540D0 | Heal Aid
 403567E0 | Heal
 40356BC8 | Med Heal
@@ -3965,8 +3977,8 @@ Thanks [Fredds](http://forum.cheatengine.org/viewtopic.php?p=5696622#5696622).
 
 ### Goods - Ashes of Ariandel DLC (4)
 
-Id       | Name                                                | Note
--------- | --------------------------------------------------- | --------------
+Id       | Name                       | Note
+-------- | -------------------------- | --------------
 400002E8 | Soul of Sister Friede
 4000086A | Captain's Ashes
 4000086B | Contraption Key
@@ -4026,16 +4038,16 @@ Id       | Name                                                | Note
 
 ### Magic - Ashes of Ariandel DLC (4)
 
-Id       | Name                                                | Note
--------- | --------------------------------------------------- | --------------
-401408E8 | Frozen Weapon
-401A90C8 | Snap Freeze
-40257DA8 | Floating Chaos
-403642A0 | Way of White Corona
+Id       | Name                           | Type               | Note
+-------- | -------------------------------| ------------------ | --------------
+401408E8 | Frozen Weapon | Sorcery
+401A90C8 | Snap Freeze | Sorcery
+40257DA8 | Floating Chaos | Pyromancy
+403642A0 | Way of White Corona | Miracle
 
 ## The Ringed City DLC - Items IDs
 
-Thanks to [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ringed_city_dlc_items_hex_id/), [/r/opensouls3](https://www.reddit.com/r/opensouls3)  and [CodeSidon](http://fearlessrevolution.com/viewtopic.php?f=4&t=205&start=47)
+Thanks to [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ringed_city_dlc_items_hex_id/), [/r/opensouls3](https://www.reddit.com/r/opensouls3), [CodeSidon](http://fearlessrevolution.com/viewtopic.php?f=4&t=205&start=47) and [Kavez](https://github.com/Kavez)
 
 ### Goods - The Ringed City DLC (11)
 
@@ -4121,7 +4133,7 @@ Id       | Name                                                | Note
 14EAE558 | Black Witch Trousers
 15095E20 | Blindfold Mask
 
-### Accessory - The Ringed City DLC (7)
+### Accessory - The Ringed City DLC (8)
 
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
@@ -4130,19 +4142,20 @@ Id       | Name                                                | Note
 20004E41 | Ring of Favor +3
 20004E4B | Ring of Steel Protection +3
 20004EE1 | Wolf Ring +3
-20004FA9 | Covetous Gold Serpent Ring+3
+20004FA9 | Covetous Gold Serpent Ring +3
 20004FB3 | Covetous Silver Serpent Ring +3
+20005071 | Ring of the Evil Eye +3
 
 ### Magic - The Ringed City DLC (6)
 
-Id       | Name                                                | Note
--------- | --------------------------------------------------- | --------------
-4014FF00 | Old Moonlight
-401879A0 | Great Soul Dregs
-40258190 | Flame Fan
-402896A0 | Seething Chaos
-40358B08 | Lightning Arrow
-40364688 | Projected Heal
+Id       | Name                           | Type               | Note
+-------- | -------------------------------| ------------------ | --------------
+4014FF00 | Old Moonlight | Sorcery
+401879A0 | Great Soul Dregs | Sorcery
+40258190 | Flame Fan | Pyromancy
+402896A0 | Seething Chaos | Pyromancy
+40358B08 | Lightning Arrow | Miracle
+40364688 | Projected Heal | Miracle
 
 
 ## Credits
