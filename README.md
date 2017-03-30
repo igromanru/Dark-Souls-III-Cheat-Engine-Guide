@@ -51,7 +51,7 @@ http://fearlessrevolution.com/
     * [Goods](#goods---the-ringed-city-dlc-11) (11)
     * [Weapons](#weapons---the-ringed-city-dlc-22) (22)
     * [Protector](#protector---the-ringed-city-dlc-37) (37)
-    * [Accessory](#accessory---the-ringed-city-dlc-7) (7)
+    * [Accessory](#accessory---the-ringed-city-dlc-8) (8)
     * [Magic](#magic---the-ringed-city-dlc-6) (6)    
 * [Credits](#credits)
 
@@ -4121,7 +4121,7 @@ Id       | Name                                                | Note
 14EAE558 | Black Witch Trousers
 15095E20 | Blindfold Mask
 
-### Accessory - The Ringed City DLC (7)
+### Accessory - The Ringed City DLC (8)
 
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
@@ -4130,8 +4130,9 @@ Id       | Name                                                | Note
 20004E41 | Ring of Favor +3
 20004E4B | Ring of Steel Protection +3
 20004EE1 | Wolf Ring +3
-20004FA9 | Covetous Gold Serpent Ring+3
+20004FA9 | Covetous Gold Serpent Ring +3
 20004FB3 | Covetous Silver Serpent Ring +3
+20005071 | Ring of the Evil Eye +3
 
 ### Magic - The Ringed City DLC (6)
 
