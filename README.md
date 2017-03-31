@@ -4025,7 +4025,7 @@ Id       | Name                                                | Note
 139B2820 | Millwood Knight Helm
 139B2C08 | Millwood Knight Armor
 139B2FF0 | Millwood Knight Gauntlets
-139B2820 | Millwood Knight Leggings
+139B33D8 | Millwood Knight Leggings
 135E1F20 | Ordained Hood
 135E2308 | Ordained Dress
 135E2AD8 | Ordained Trousers
