@@ -13,8 +13,7 @@ This document was insirated by [Dark Souls II and Scholar of the First Sin Cheat
 http://www.cheatengine.org/  
 http://fearlessrevolution.com/
 
-##### Tables are now on the FearLess CE Forum:
-
+#### Tables are now on the FearLess CE Forum:
 May features are broken after the patch v1.31.
 * [Phokz's table with fixes by dec1337](http://fearlessrevolution.com/viewtopic.php?f=4&t=205&start=129)
 * [Zanzer's Table](http://fearlessrevolution.com/viewtopic.php?f=4&t=205&sid=f0c2520fd4c6848e7ad5cc46c5c81c35)
