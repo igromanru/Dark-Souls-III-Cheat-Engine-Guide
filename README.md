@@ -13,11 +13,11 @@ This document was insirated by [Dark Souls II and Scholar of the First Sin Cheat
 http://www.cheatengine.org/  
 http://fearlessrevolution.com/
 
-###### Tables are now on the FearLess CE Forum:
+##### Tables are now on the FearLess CE Forum:
 
-At the moment all tables need an update for the v1.31
-* ~~[Zanzer's Table](http://fearlessrevolution.com/viewtopic.php?f=4&t=205&sid=f0c2520fd4c6848e7ad5cc46c5c81c35)~~
-* ~~[Latest Phokz's table with few fixes by terenceyao](http://fearlessrevolution.com/viewtopic.php?f=4&t=205&start=42)~~
+May features are broken after the patch v1.31.
+* [Phokz's table with fixes by dec1337](http://fearlessrevolution.com/viewtopic.php?f=4&t=205&start=129)
+* [Zanzer's Table](http://fearlessrevolution.com/viewtopic.php?f=4&t=205&sid=f0c2520fd4c6848e7ad5cc46c5c81c35)
 
 ## Content
 
@@ -4169,9 +4169,10 @@ Id       | Name                           | Type               | Note
 * [ranonadg](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=446280)
 * [dezimous](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=445852)
 * [Birdulon](https://www.youtube.com/user/Birdulon)
-* [terenceyao](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1536&sid=551f7652091d3fdb1a1c0eedbae2cb5c)
+* [terenceyao](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1536)
 * [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ringed_city_dlc_items_hex_id/)
 * [/u/Sharkbitch](https://www.reddit.com/user/Sharkbitch)
 * [/r/opensouls3](https://www.reddit.com/r/opensouls3)
 * [Kavez](https://github.com/Kavez)
+* [dec1337](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1810)
 * [igromanru](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962)
