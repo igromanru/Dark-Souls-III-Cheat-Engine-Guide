@@ -25,6 +25,7 @@ Spawning in Covenant Items | Invalid Data Message [3]
 Spawning in Key Items | Invalid Data Message [!] [1] [4]
 Spawning in Tomes | Invalid Data Message [1] [4]
 Running Session Info | No Warning
+
 **[!] Penalization occurred if it was DLC-related before release.  
 [1] Save must be reverted or deleted  
 [2] Changes can be undone in CheatEngine, saves do not need to be reverted  
