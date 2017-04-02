@@ -14,7 +14,7 @@ http://www.cheatengine.org/
 http://fearlessrevolution.com/
 
 #### Tables are now on the FearLess CE Forum:
-May features are broken after the patch v1.31.
+Many features are broken after the patch v1.31.
 * [Phokz's table with fixes by dec1337](http://fearlessrevolution.com/viewtopic.php?f=4&t=205&start=152) (01.04.2017)
   * Fixed: Auto-Save
   * Fixed: Invasion Type
