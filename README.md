@@ -68,9 +68,9 @@ Invalid game data has been detected on your account. The use of invalid data dur
 
 This message means that something was detected on your account as a cheat. It could be something with the save game or something while the run time.
 
-In case you want to play safe online, there are two recommended methods.  
-1. Make a family share account and play there. DON’T use Cheat Engine, don’t even start it. Wait until we got more information about the message.  
-2. Delete all your Characters, than exit the game and go to C:\Users\\(Your-username)\\AppData\Roaming\DarkSoulsIII\, delete anything in there. Start a new game, the message will still be there but you should be safe. Also DON’T use Cheat Engine anymore!
+In case you want to play safe online after you've received the message, there are two recommended methods.  
+1. Make a family share account and play there.
+2. Delete all your Characters, than exit the game and go to C:\Users\\(Your-username)\\AppData\Roaming\DarkSoulsIII\, delete anything in there. Start a new game, the message will still be there but you should be safe. DON’T use Cheat Engine until the message is gone!
 
 Also see informations about the [Offline mode](#offline-mode).
 
@@ -90,7 +90,7 @@ If you have received the [\[CAUTION\] INVALID GAME DATA HAS BEEN DETECTED](#mess
 1. Delete all your characters, because you can't get sure which Character was detected as "invalid".  
 2. Start a new Character and play with him online, at least once. (This will overwrite your save game on the server, so if they will scan your save game again, your save game will be clean)  
 3. Don't use Cheat Engine or any sort of hacks with this account anymore! (You can test cheats on other accounts with family share, if you want)  
-4. After a long time (was about few months for me) the message should be gone.  
+4. After some time (was about few months for me) the message should be gone.  
 
 
 **Attention!** I don't know what will happen, if you will start to cheat again. Maybe you will get the INVALID DATA again or maybe you will be instantly penalized.  
@@ -99,7 +99,7 @@ If you have received the [\[CAUTION\] INVALID GAME DATA HAS BEEN DETECTED](#mess
 
 It's looks like the soft-ban in DS3 is very similar to DS2.  
 At the moment the most players were banned for the [\[CAUTION\] INVALID GAME DATA HAS BEEN DETECTED](#message-caution-invalid-game-data-has-been-detected) message.  
-If you are soft-banned you will se the [\[CAUTION\] YOU HAVE BEEN PENALIZED](#message-caution-you-have-been-penalized) message.
+If you are soft-banned you will see the [\[CAUTION\] YOU HAVE BEEN PENALIZED](#message-caution-you-have-been-penalized) message.
 
 #### What does and does not get you banned
 Thnaks to the reddit user [/u/Sharkbitch](https://www.reddit.com/user/Sharkbitch), who has collected Softban data from last year and made a compilation of it:  
@@ -139,7 +139,7 @@ There is no VAC in Dark Souls 3!
 
 #### Weapon upgrades and infusions represented through ID
 
-[Quote from Zanzer](http://forum.cheatengine.org/viewtopic.php?p=5662748#5662748):
+Quote from Zanzer:
 >Here's a brief explanation about how weapon upgrades and infusions are represented in memory.
 I will be using decimal notation (not hex) because you will need to use math.
 Each weapon has a base Item ID value. For example, the Club has the ID 8000000 (decimal).
@@ -175,12 +175,12 @@ I have made a [video](https://youtu.be/Gt4HDw_grmU) for this.
 
 ## Item IDs
 
-A special thank to [mgr.inz.Player](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=177983) for this great list.
+A special thank to [mgr.inz.Player](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=252) for this great list.
 
 ### Importent ID's Information!
 Sometimes you will find multiple ID's for the same item, always try the last one first!  
 Example: "Ring of Steel Protection" got two entries, ID 20000078 and ID 20004E48, the **20004E48** is the right one.  
-The reason of duplicate item ID's is, that they have added many items from DS1 first.
+There are duplicate item ID's, because they have added many items from DS1 at first.
 
 ### Goods (407)
 
@@ -4163,8 +4163,8 @@ Id       | Name                           | Type               | Note
 ## Credits
 
 * [Zanzer](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=523)
-* [Matze500](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=324171)
-* [mgr.inz.Player](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=177983)
+* [Matze500](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1267)
+* [mgr.inz.Player](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=252)
 * [Cielos](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=107448)
 * [jim2point0](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=333758)
 * [RandomFromdrone](http://forum.cheatengine.org/posting.php?mode=quote&p=5665525)
@@ -4177,4 +4177,4 @@ Id       | Name                           | Type               | Note
 * [/r/opensouls3](https://www.reddit.com/r/opensouls3)
 * [Kavez](https://github.com/Kavez)
 * [dec1337](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1810)
-* [igromanru](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962)
+* [igromanru](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1599)
