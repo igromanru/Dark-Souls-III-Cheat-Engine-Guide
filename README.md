@@ -12,7 +12,7 @@ http://fearlessrevolution.com/
 
 #### Tables are now on the FearLess CE Forum:
 Many features are broken after the patch.
-* [latest table with fixes](https://github.com/igromanru/Dark-Souls-III-Cheat-Engine-Guide/blob/master/tables/DS3_Fearless.CT) (04.04.2017)
+* [latest table with fixes](https://mega.nz/#!7IsknBAY!pN4SFi45_gWGv210l4Ps_2YhmwMtHItOq9JlOoLTmhg) (04.04.2017)
   * Fixed: Auto-Save
   * Fixed: Last Bonfire
   * Fixed: Save Slot (Hero>Statistics)
