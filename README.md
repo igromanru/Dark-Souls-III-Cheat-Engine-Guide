@@ -18,7 +18,7 @@ Many features are broken after the patch v1.31.
   * Fixed: Save Slot (Hero>Statistics)
   * Fixed: Unlock All Bonfires script
   * Fixed: No Durability Damage script
-* [Zanzer's Table](http://fearlessrevolution.com/viewtopic.php?f=4&t=205&sid=f0c2520fd4c6848e7ad5cc46c5c81c35)
+* [Zanzer's Table](http://fearlessrevolution.com/viewtopic.php?f=4&t=205)(outdated)
 
 ## Content
 
@@ -4176,4 +4176,5 @@ Id       | Name                           | Type               | Note
 * [/r/opensouls3](https://www.reddit.com/r/opensouls3)
 * [Kavez](https://github.com/Kavez)
 * [dec1337](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1810)
+* [Kurakkabore](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1738)
 * [igromanru](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1599)
