@@ -3,21 +3,24 @@
 
 ## Introduction
 This document was inspired by [Dark Souls II and Scholar of the First Sin Cheat Engine Guide](https://gist.github.com/Atvaark/f308e1d8e00e07106452) from [Atvaark](https://github.com/Atvaark).  
-If you want to contribute, feel free to make an issue, a pull request or you can contact me on [reddit](https://www.reddit.com/user/igromanru) or [FearLess CE Forum](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1599).
+If you want to contribute, feel free to make an issue, a pull request or you can contact me on [reddit](https://www.reddit.com/user/igromanru).
 
 ## General
 ### Cheat Engine
 http://www.cheatengine.org/  
-http://fearlessrevolution.com/
 
-#### Tables are now on the FearLess CE Forum:
+#### Public tables:
 Many features are broken after the patch.
-* [latest table with fixes](https://mega.nz/#!7IsknBAY!pN4SFi45_gWGv210l4Ps_2YhmwMtHItOq9JlOoLTmhg) (04.04.2017)
+* [latest table with few fixes](https://mega.nz/#!7IsknBAY!pN4SFi45_gWGv210l4Ps_2YhmwMtHItOq9JlOoLTmhg) (04.04.2017)
   * Fixed: Auto-Save
   * Fixed: Last Bonfire
   * Fixed: Save Slot (Hero>Statistics)
   * Fixed: Unlock All Bonfires script
   * Fixed: No Durability Damage script
+  * Added: Line of Sight LockOn Deactivate Time (Hero>Statistics)
+  * Added: Spears of Church covenant (Hero>Covenants)
+  * Fixed: Find Item with ID
+
 * [Zanzer's Table](http://fearlessrevolution.com/viewtopic.php?f=4&t=205)(outdated)
 
 ## Content
