@@ -3896,6 +3896,7 @@ Id       | Name                           | Note
 4018B820 | Soul Stream
 40193138 | Twisted Wall of Light
 401A8CE0 | Pestilent Mercury
+
 #### Pyromancy (30)
 
 Id       | Name                                 | Note
@@ -3930,6 +3931,7 @@ Id       | Name                                 | Note
 40282170 | Boulder Heave
 40284880 | Sacred Flame
 40286F90 | Carthus Beacon
+
 #### Miracle (37)
 
 Id       | Name                         | Note
