@@ -3861,7 +3861,7 @@ Id       | Name                                                | Note
 #### Sorcery (34)
 
 Id       | Name                           | Note
--------- | -------------------------------| --------------
+-------- | ------------------------------ | --------------  
 40124F80 | Farron Dart
 40127690 | Great Farron Dart
 4013D620 | Soul Arrow
@@ -3898,8 +3898,8 @@ Id       | Name                           | Note
 401A8CE0 | Pestilent Mercury
 #### Pyromancy (30)
 
-Id       | Name                           | Note
--------- | -------------------------------| --------------
+Id       | Name                                 | Note
+-------- | ------------------------------------ | --------------  
 40249F00 | Fireball
 4024A6D0 | Fire Orb
 4024AAB8 | Firestorm
@@ -3932,8 +3932,8 @@ Id       | Name                           | Note
 40286F90 | Carthus Beacon
 #### Miracle (37)
 
-Id       | Name                           | Note
--------- | -------------------------------| --------------
+Id       | Name                         | Note
+-------- | ---------------------------- | --------------
 403540D0 | Heal Aid
 403567E0 | Heal
 40356BC8 | Med Heal
