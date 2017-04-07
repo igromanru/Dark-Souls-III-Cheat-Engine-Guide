@@ -4199,5 +4199,6 @@ Id       | Name                           | Type               | Note
 * [dec1337](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1810)
 * [Kurakkabore](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1738)
 * Zatara from Science Souls
+* Lance from Science Souls
 * [Science Souls Discord](https://discord.gg/GcfGgYs)
 * [igromanru](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1599)
