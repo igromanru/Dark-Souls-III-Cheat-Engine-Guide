@@ -12,30 +12,30 @@ If you've question or want to collaborate, feel free to join [Science Souls Disc
 http://www.cheatengine.org/  
 
 #### Public tables:
-Many features are broken after the patch.
-* [latest table with few fixes](https://mega.nz/#!TMFhUSjS!SNh-srlZxfUO0ZljcI_HUXhmC5PP3g-JuNBcPT4dSZE) (07.04.2017)
-* [alternative mirror](http://www.mediafire.com/file/58hf4b5fajmaf90/DS3_Science-Souls_07-04-2017.zip)
-  * 07.04.2017:
-    * Fixed: Param Patcher (by me)
-    * Still broken: Invading Type
-    * cause crash after a while: No Durability Damage
-  * 04.04.2017:  
-    * Added: Line of Sight LockOn Deactivate Time (Hero>Statistics) (by dec1337)
-    * Added: Spears of Church covenant (Hero>Covenants) (by dec1337)
-    * Fixed: Find Item with ID (by dec1337)
-  * 30.03.2017:  
-    * Fixed: Auto-Save (by dec1337)
-    * Fixed: Last Bonfire (by dec1337)
-    * Fixed: Save Slot (Hero>Statistics) (by dec1337)
-    * Fixed: Unlock All Bonfires script (by dec1337)    
-  * 26.03.2017:  
-    * Fixed: Fall Death Camera (by terenceyao)
-    * Fixed: Hero -> Base Stats -> Speed Modifier (by terenceyao)
-    * Fixed: Character Flags -> No Goods Consume (by terenceyao)
+Some features are broken after the patch.
+[latest table with few fixes](https://mega.nz/#!TMFhUSjS!SNh-srlZxfUO0ZljcI_HUXhmC5PP3g-JuNBcPT4dSZE) (07.04.2017)
+[alternative mirror](http://www.mediafire.com/file/58hf4b5fajmaf90/DS3_Science-Souls_07-04-2017.zip)
+* 07.04.2017:
+  * Fixed: Param Patcher (by me)
+  * Still broken: Invading Type
+  * cause crash after a while: No Durability Damage
+* 04.04.2017:  
+  * Added: Line of Sight LockOn Deactivate Time (Hero>Statistics) (by dec1337)
+  * Added: Spears of Church covenant (Hero>Covenants) (by dec1337)
+  * Fixed: Find Item with ID (by dec1337)
+* 30.03.2017:  
+  * Fixed: Auto-Save (by dec1337)
+  * Fixed: Last Bonfire (by dec1337)
+  * Fixed: Save Slot (Hero>Statistics) (by dec1337)
+  * Fixed: Unlock All Bonfires script (by dec1337)    
+* 26.03.2017:  
+  * Fixed: Fall Death Camera (by terenceyao)
+  * Fixed: Hero -> Base Stats -> Speed Modifier (by terenceyao)
+  * Fixed: Character Flags -> No Goods Consume (by terenceyao)
 
 
 
-* [Zanzer's Table](http://fearlessrevolution.com/viewtopic.php?f=4&t=205) (outdated)
+[Zanzer's Table](http://fearlessrevolution.com/viewtopic.php?f=4&t=205) (outdated)
 
 ## Content
 
