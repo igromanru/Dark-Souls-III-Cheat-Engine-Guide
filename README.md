@@ -11,7 +11,7 @@ http://www.cheatengine.org/
 
 #### Public tables:
 Many features are broken after the patch.
-* [latest table with few fixes](https://mega.nz/#!7IsknBAY!pN4SFi45_gWGv210l4Ps_2YhmwMtHItOq9JlOoLTmhg) (04.04.2017)
+* [latest table with few fixes](https://mega.nz/#!zQ1iFQwL!pOAdGS4QeCqWlSf1bf1kHD5JiPE7dB-tcg4TCbpiHyo) (07.04.2017)
   * Fixed: Auto-Save
   * Fixed: Last Bonfire
   * Fixed: Save Slot (Hero>Statistics)
@@ -20,6 +20,7 @@ Many features are broken after the patch.
   * Added: Line of Sight LockOn Deactivate Time (Hero>Statistics)
   * Added: Spears of Church covenant (Hero>Covenants)
   * Fixed: Find Item with ID
+  * Fixed: Param Patcher (by me)
 
 * [Zanzer's Table](http://fearlessrevolution.com/viewtopic.php?f=4&t=205)(outdated)
 
