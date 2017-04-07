@@ -13,14 +13,13 @@ http://www.cheatengine.org/
 
 #### Public tables:
 Some features are broken after the patch.  
-[latest table with few fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_08-04-2017.zip) (08.04.2017)  
+[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_08-04-2017.zip) (08.04.2017)  
 <sub>[alternative mirror](https://mega.nz/#!bcckXJKI!0_Gk2XNQyYSKZrCD9tUECkKLLg-2C7B4flYgvxQHQPk)</sub>  
 
 * 08.04.2017:
   * Fixed: Invasion Type (by Malcolm Reynolds)
 * 07.04.2017:
   * Fixed: Param Patcher (by me)
-  * Still broken: Invading Type
   * cause crash after a while: No Durability Damage
 * 04.04.2017:  
   * Added: Line of Sight LockOn Deactivate Time (Hero>Statistics) (by dec1337)
