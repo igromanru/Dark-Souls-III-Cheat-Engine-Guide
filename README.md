@@ -18,9 +18,9 @@ Some features are broken after the patch.
 
 * 08.04.2017:
   * Fixed: Invasion Type (by Malcolm Reynolds)
-* 07.04.2017:
-  * Fixed: Param Patcher (by me)
   * cause crash after a while: No Durability Damage
+* 07.04.2017:
+  * Fixed: Param Patcher (by igromanru)  
 * 04.04.2017:  
   * Added: Line of Sight LockOn Deactivate Time (Hero>Statistics) (by dec1337)
   * Added: Spears of Church covenant (Hero>Covenants) (by dec1337)
