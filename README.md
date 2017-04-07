@@ -5,6 +5,8 @@
 This document was inspired by [Dark Souls II and Scholar of the First Sin Cheat Engine Guide](https://gist.github.com/Atvaark/f308e1d8e00e07106452) from [Atvaark](https://github.com/Atvaark).  
 If you want to contribute, feel free to make an issue, a pull request or you can contact me on [reddit](https://www.reddit.com/user/igromanru).
 
+If you've question or want to collaborate, feel free to join [Science Souls Discord](https://discord.gg/GcfGgYs) Server.
+
 ## General
 ### Cheat Engine
 http://www.cheatengine.org/  
@@ -4184,4 +4186,6 @@ Id       | Name                           | Type               | Note
 * [Kavez](https://github.com/Kavez)
 * [dec1337](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1810)
 * [Kurakkabore](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1738)
+* Zatara from Science Souls
+* [Science Souls Discord](https://discord.gg/GcfGgYs)
 * [igromanru](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1599)
