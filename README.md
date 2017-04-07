@@ -16,7 +16,7 @@ Some features are broken after the patch.
 [latest table with few fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_08-04-2017.zip) (08.04.2017)  
 <sub>[alternative mirror](https://mega.nz/#!bcckXJKI!0_Gk2XNQyYSKZrCD9tUECkKLLg-2C7B4flYgvxQHQPk)</sub>  
 
-* 07.04.2018:
+* 08.04.2017:
   * Fixed: Invasion Type
 * 07.04.2017:
   * Fixed: Param Patcher (by me)
