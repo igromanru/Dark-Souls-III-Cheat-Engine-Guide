@@ -14,17 +14,27 @@ http://www.cheatengine.org/
 #### Public tables:
 Many features are broken after the patch.
 * [latest table with few fixes](https://mega.nz/#!mFtEiY5I!lIFLUn3X4uS0xW43ig09QydBlhD0Spum9XlweYTxyZw) (07.04.2017)
-  * Fixed: Auto-Save (by dec1337)
-  * Fixed: Last Bonfire (by dec1337)
-  * Fixed: Save Slot (Hero>Statistics) (by dec1337)
-  * Fixed: Unlock All Bonfires script (by dec1337)
-  * Fixed: No Durability Damage script (by dec1337)
-  * Added: Line of Sight LockOn Deactivate Time (Hero>Statistics) (by dec1337)
-  * Added: Spears of Church covenant (Hero>Covenants) (by dec1337)
-  * Fixed: Find Item with ID (by dec1337)
-  * Fixed: Param Patcher (by me)
+  * 07.04.2017:
+    * Fixed: Param Patcher (by me)
+    * Still broken: Invading Type
+    * cause crash after a while: No Durability Damage
+  * 04.04.2017:  
+    * Added: Line of Sight LockOn Deactivate Time (Hero>Statistics) (by dec1337)
+    * Added: Spears of Church covenant (Hero>Covenants) (by dec1337)
+    * Fixed: Find Item with ID (by dec1337)
+  * 30.03.2017:  
+    * Fixed: Auto-Save (by dec1337)
+    * Fixed: Last Bonfire (by dec1337)
+    * Fixed: Save Slot (Hero>Statistics) (by dec1337)
+    * Fixed: Unlock All Bonfires script (by dec1337)    
+  * 26.03.2017:  
+    * Fixed: Fall Death Camera (by terenceyao)
+    * Fixed: Hero -> Base Stats -> Speed Modifier (by terenceyao)
+    * Fixed: Character Flags -> No Goods Consume (by terenceyao)
 
-* [Zanzer's Table](http://fearlessrevolution.com/viewtopic.php?f=4&t=205)(outdated)
+
+
+* [Zanzer's Table](http://fearlessrevolution.com/viewtopic.php?f=4&t=205) (outdated)
 
 ## Content
 
