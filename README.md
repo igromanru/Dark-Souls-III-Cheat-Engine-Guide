@@ -14,6 +14,7 @@ http://www.cheatengine.org/
 #### Public tables:
 Many features are broken after the patch.
 * [latest table with few fixes](https://mega.nz/#!TMFhUSjS!SNh-srlZxfUO0ZljcI_HUXhmC5PP3g-JuNBcPT4dSZE) (07.04.2017)
+* [alternative mirror](http://www.mediafire.com/file/58hf4b5fajmaf90/DS3_Science-Souls_07-04-2017.zip)
   * 07.04.2017:
     * Fixed: Param Patcher (by me)
     * Still broken: Invading Type
