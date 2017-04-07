@@ -17,7 +17,7 @@ Some features are broken after the patch.
 <sub>[alternative mirror](https://mega.nz/#!bcckXJKI!0_Gk2XNQyYSKZrCD9tUECkKLLg-2C7B4flYgvxQHQPk)</sub>  
 
 * 08.04.2017:
-  * Fixed: Invasion Type
+  * Fixed: Invasion Type (by Malcolm Reynolds)
 * 07.04.2017:
   * Fixed: Param Patcher (by me)
   * Still broken: Invading Type
@@ -4202,5 +4202,6 @@ Id       | Name                           | Type               | Note
 * [Kurakkabore](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1738)
 * Zatara from Science Souls
 * Lance from Science Souls
+* Malcolm Reynolds from Science Souls
 * [Science Souls Discord](https://discord.gg/GcfGgYs)
 * [igromanru](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1599)
