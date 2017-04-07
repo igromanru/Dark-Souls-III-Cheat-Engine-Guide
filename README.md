@@ -13,7 +13,7 @@ http://www.cheatengine.org/
 
 #### Public tables:
 Many features are broken after the patch.
-* [latest table with few fixes](https://mega.nz/#!mFtEiY5I!lIFLUn3X4uS0xW43ig09QydBlhD0Spum9XlweYTxyZw) (07.04.2017)
+* [latest table with few fixes](https://mega.nz/#!TMFhUSjS!SNh-srlZxfUO0ZljcI_HUXhmC5PP3g-JuNBcPT4dSZE) (07.04.2017)
   * 07.04.2017:
     * Fixed: Param Patcher (by me)
     * Still broken: Invading Type
