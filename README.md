@@ -13,15 +13,15 @@ http://www.cheatengine.org/
 
 #### Public tables:
 Many features are broken after the patch.
-* [latest table with few fixes](https://mega.nz/#!zQ1iFQwL!pOAdGS4QeCqWlSf1bf1kHD5JiPE7dB-tcg4TCbpiHyo) (07.04.2017)
-  * Fixed: Auto-Save
-  * Fixed: Last Bonfire
-  * Fixed: Save Slot (Hero>Statistics)
-  * Fixed: Unlock All Bonfires script
-  * Fixed: No Durability Damage script
-  * Added: Line of Sight LockOn Deactivate Time (Hero>Statistics)
-  * Added: Spears of Church covenant (Hero>Covenants)
-  * Fixed: Find Item with ID
+* [latest table with few fixes](https://mega.nz/#!mFtEiY5I!lIFLUn3X4uS0xW43ig09QydBlhD0Spum9XlweYTxyZw) (07.04.2017)
+  * Fixed: Auto-Save (by dec1337)
+  * Fixed: Last Bonfire (by dec1337)
+  * Fixed: Save Slot (Hero>Statistics) (by dec1337)
+  * Fixed: Unlock All Bonfires script (by dec1337)
+  * Fixed: No Durability Damage script (by dec1337)
+  * Added: Line of Sight LockOn Deactivate Time (Hero>Statistics) (by dec1337)
+  * Added: Spears of Church covenant (Hero>Covenants) (by dec1337)
+  * Fixed: Find Item with ID (by dec1337)
   * Fixed: Param Patcher (by me)
 
 * [Zanzer's Table](http://fearlessrevolution.com/viewtopic.php?f=4&t=205)(outdated)
@@ -29,15 +29,15 @@ Many features are broken after the patch.
 ## Content
 
 * FAQ
- * [Message: \[CAUTION\] INVALID GAME DATA HAS BEEN DETECTED](#message-caution-invalid-game-data-has-been-detected)
- * [Message: \[CAUTION\] YOU HAVE BEEN PENALIZED](#message-caution-you-have-been-penalized)
- * [How to rid of the INVALID GAME DATA message](#how-to-rid-of-the-invalid-game-data-message)
- * [Soft-ban](#soft-ban)
- * [What does and does not get you banned](#what-does-and-does-not-get-you-banned)
- * [Save game transfer](#save-game-transfer)
- * [Cheat Engine debugger crashing the game](#cheat-engine-debugger-crashing-the-game)
- * [Offline mode](#offline-mode)
- * [VAC - Valve Anti Cheat](#vac---valve-anti-cheat)
+  * [Message: \[CAUTION\] INVALID GAME DATA HAS BEEN DETECTED](#message-caution-invalid-game-data-has-been-detected)
+  * [Message: \[CAUTION\] YOU HAVE BEEN PENALIZED](#message-caution-you-have-been-penalized)
+  * [How to rid of the INVALID GAME DATA message](#how-to-rid-of-the-invalid-game-data-message)
+  * [Soft-ban](#soft-ban)
+  * [What does and does not get you banned](#what-does-and-does-not-get-you-banned)
+  * [Save game transfer](#save-game-transfer)
+  * [Cheat Engine debugger crashing the game](#cheat-engine-debugger-crashing-the-game)
+  * [Offline mode](#offline-mode)
+  * [VAC - Valve Anti Cheat](#vac---valve-anti-cheat)
 * Usage Explanation
   * [Weapon upgrades and infusions represented through ID](#weapon-upgrades-and-infusions-represented-through-id)
   * [How to spawn/swap items](#how-to-spawnswap-items)
