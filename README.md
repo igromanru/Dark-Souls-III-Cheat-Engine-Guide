@@ -13,9 +13,11 @@ http://www.cheatengine.org/
 
 #### Public tables:
 Some features are broken after the patch.  
-[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_08-04-2017.zip) (08.04.2017)  
-<sub>[alternative mirror](https://mega.nz/#!bcckXJKI!0_Gk2XNQyYSKZrCD9tUECkKLLg-2C7B4flYgvxQHQPk)</sub>  
+[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_08.04.2017_2.zip) (08.04.2017)  
+<sub>[alternative mirror](https://mega.nz/#!TF0jga4D!JVblKBtpr0xW1X0BrycljuI8veILqSzRdyxORKd2juQ)</sub>  
 
+* 08.04.2017 second release
+  * Fixed: Targeted Entity Info (by Autopilot & igromanru)
 * 08.04.2017:
   * Fixed: Invasion Type (by Malcolm Reynolds)
   * cause crash after a while: No Durability Damage
@@ -4202,5 +4204,6 @@ Id       | Name                           | Type               | Note
 * Zatara from Science Souls
 * Lance from Science Souls
 * Malcolm Reynolds from Science Souls
+* Autopilot from Science Souls
 * [Science Souls Discord](https://discord.gg/GcfGgYs)
 * [igromanru](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1599)
