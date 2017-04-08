@@ -13,9 +13,13 @@ http://www.cheatengine.org/
 
 #### Public tables:
 Some features are broken after the patch.  
-[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_08.04.2017_2.zip) (08.04.2017)  
-<sub>[alternative mirror](https://mega.nz/#!TF0jga4D!JVblKBtpr0xW1X0BrycljuI8veILqSzRdyxORKd2juQ)</sub>  
-
+[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_07-04-2017_3.zip) (08.04.2017 3)  
+<sub>[alternative mirror](https://mega.nz/#!OVFQyAIB!MDtEUbf8M3GmDvAjMCdLTEvqI_ugR2vCVBw3-tsb0FE)</sub>  
+* 08.04.2017 third release
+  * Reorganized the table (by Ace of Fours)
+  * Added: new boss flags (by Ace of Fours)
+  * Added: Last 5 Bullets Fired (by Science Souls Discord)  
+  * Still need a fix: No Durability Damage
 * 08.04.2017 second release
   * Fixed: Targeted Entity Info (by Autopilot & igromanru)
 * 08.04.2017:
@@ -4205,5 +4209,6 @@ Id       | Name                           | Type               | Note
 * Lance from Science Souls
 * Malcolm Reynolds from Science Souls
 * Autopilot from Science Souls
+* Ace of Fours from Science Souls
 * [Science Souls Discord](https://discord.gg/GcfGgYs)
 * [igromanru](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1599)
