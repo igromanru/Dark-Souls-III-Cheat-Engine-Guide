@@ -13,8 +13,8 @@ http://www.cheatengine.org/
 
 #### Public tables:
 Some features are broken after the patch.  
-[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_07-04-2017_3.zip) (08.04.2017 3)  
-<sub>[alternative mirror](https://mega.nz/#!OVFQyAIB!MDtEUbf8M3GmDvAjMCdLTEvqI_ugR2vCVBw3-tsb0FE)</sub>  
+[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_08-04-2017_3.zip) (08.04.2017 3)  
+<sub>[alternative mirror](https://mega.nz/#!2AEDkKJB!mtnqpuw1P0X-cHkpg6GrdglzjoSkcWdz90Os4C-Mwu8)</sub>  
 * 08.04.2017 third release
   * Reorganized the table (by Ace of Fours)
   * Added: new boss flags (by Ace of Fours)
