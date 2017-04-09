@@ -4179,4 +4179,4 @@ Phokz | [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ri
 [RandomFromdrone](http://forum.cheatengine.org/posting.php?mode=quote&p=5665525) |
 [ranonadg](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=446280) |
 [dezimous](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=445852) |
-[igromanru](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962) | [igromanru](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1599) | Igromanru#6748
+[igromanru](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962) | [igromanru](https://www.reddit.com/user/igromanru/) | Igromanru#6748
