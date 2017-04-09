@@ -15,7 +15,7 @@ http://www.cheatengine.org/
 Some features are broken after the patch.  
 [latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_09-04-2017.zip) (09.04.2017)  
 <sub>[alternative mirror](https://mega.nz/#!XBlCiLgK!gOTyfBZXHfvPZm_bQ8nCBaBiN-h7bNUIVUT0FOiuXrA)</sub>  
-* 09.04.2017 third release
+* 09.04.2017
   * Fixed: Last Hit Entity Info (by igromanru)
   * Fixed: Targeted Entity Info crash on uncheck (by igromanru)
   * Still need a fix: No Durability Damage
