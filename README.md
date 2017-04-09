@@ -13,8 +13,12 @@ http://www.cheatengine.org/
 
 #### Public tables:
 Some features are broken after the patch.  
-[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_09-04-2017.zip) (09.04.2017)  
-<sub>[alternative mirror](https://mega.nz/#!XBlCiLgK!gOTyfBZXHfvPZm_bQ8nCBaBiN-h7bNUIVUT0FOiuXrA)</sub>  
+[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_09-04-2017_2.zip) (09.04.2017 2)  
+<sub>[alternative mirror](https://mega.nz/#!yANgzDoQ!Sky9UdM-EiDwI-snAcsF0WMPPTGauyLbhVIA2NJ77uI)</sub>  
+* 09.04.2017 second release
+  * Fixed: Recently Played With (by terenceyao)
+  * Fixed crash: No Durability Damage (by igromanru)
+  * Added: Spears of the Church covenants to Session Info (by igromanru)  
 * 09.04.2017
   * Fixed: Last Hit Entity Info (by igromanru)
   * Fixed: Targeted Entity Info crash on uncheck (by igromanru)
