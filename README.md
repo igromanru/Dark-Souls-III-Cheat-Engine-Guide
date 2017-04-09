@@ -4171,12 +4171,12 @@ CE Forum | Other | [Science Souls](https://discord.gg/GcfGgYs)
 -------- | --- | --------------------
 [Zanzer](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=523) | [terenceyao](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1536) | [Kurakkabore](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1738)
 Phokz | [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ringed_city_dlc_items_hex_id/) | Zatara
-[Matze500](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1267) |  [/u/Sharkbitch](https://www.reddit.com/user/Sharkbitch) | Lance
-[mgr.inz.Player](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=252) | [/r/opensouls3](https://www.reddit.com/r/opensouls3) | Malcolm Reynolds
-[Cielos](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=107448) | [Kavez](https://github.com/Kavez) | Autopilot
-[jim2point0](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=333758) | [dec1337](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1810) | Ace of Fours
-[RandomFromdrone](http://forum.cheatengine.org/posting.php?mode=quote&p=5665525) | [Birdulon](https://www.youtube.com/user/Birdulon) |
+[pox911](http://www.cheatengine.org/forum/profile.php?mode=viewprofile&u=184639) | [/u/Sharkbitch](https://www.reddit.com/user/Sharkbitch) | Lance
+[Matze500](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1267) | [/r/opensouls3](https://www.reddit.com/r/opensouls3) | Malcolm Reynolds
+[mgr.inz.Player](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=252) | [Kavez](https://github.com/Kavez) | Autopilot
+[Cielos](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=107448) | [dec1337](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1810) | Ace of Fours
+[jim2point0](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=333758) | [Birdulon](https://www.youtube.com/user/Birdulon) |
+[RandomFromdrone](http://forum.cheatengine.org/posting.php?mode=quote&p=5665525) |
 [ranonadg](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=446280) |
 [dezimous](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=445852) |
-
-[igromanru](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1599)
+[igromanru](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962) | [igromanru](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1599) | Igromanru#6748
