@@ -15,12 +15,11 @@ http://www.cheatengine.org/
 Some features are broken after the patch.  
 [latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_09-04-2017_2.zip) (09.04.2017 2)  
 <sub>[alternative mirror](https://mega.nz/#!yANgzDoQ!Sky9UdM-EiDwI-snAcsF0WMPPTGauyLbhVIA2NJ77uI)</sub>  
-09.04.2017 second release
-* Fixed: Recently Played With (by terenceyao)
-* Fixed crash: No Durability Damage (by igromanru)
-* Added: Spears of the Church covenants to Session Info (by igromanru)  
-
-<sub>for more see [changelog](changelog.md)</sub>
+* 09.04.2017 second release
+  * Fixed: Recently Played With (by terenceyao)
+  * Fixed crash: No Durability Damage (by igromanru)
+  * Added: Spears of the Church covenants to Session Info (by igromanru)  
+* <sub>for more see [changelog](changelog.md)</sub>
 
 
 
