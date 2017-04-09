@@ -4167,28 +4167,16 @@ Id       | Name                           | Type               | Note
 
 
 ## Credits
+CE Forum | Other | [Science Souls](https://discord.gg/GcfGgYs)
+-------- | --- | --------------------
+[Zanzer](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=523) | [terenceyao](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1536) | [Kurakkabore](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1738)
+Phokz | [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ringed_city_dlc_items_hex_id/) | Zatara
+[Matze500](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1267) |  [/u/Sharkbitch](https://www.reddit.com/user/Sharkbitch) | Lance
+[mgr.inz.Player](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=252) | [/r/opensouls3](https://www.reddit.com/r/opensouls3) | Malcolm Reynolds
+[Cielos](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=107448) | [Kavez](https://github.com/Kavez) | Autopilot
+[jim2point0](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=333758) | [dec1337](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1810) | Ace of Fours
+[RandomFromdrone](http://forum.cheatengine.org/posting.php?mode=quote&p=5665525) | [Birdulon](https://www.youtube.com/user/Birdulon) |
+[ranonadg](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=446280) |
+[dezimous](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=445852) |
 
-* [Zanzer](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=523)
-* Phokz
-* [Matze500](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1267)
-* [mgr.inz.Player](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=252)
-* [Cielos](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=107448)
-* [jim2point0](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=333758)
-* [RandomFromdrone](http://forum.cheatengine.org/posting.php?mode=quote&p=5665525)
-* [ranonadg](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=446280)
-* [dezimous](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=445852)
-* [Birdulon](https://www.youtube.com/user/Birdulon)
-* [terenceyao](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1536)
-* [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ringed_city_dlc_items_hex_id/)
-* [/u/Sharkbitch](https://www.reddit.com/user/Sharkbitch)
-* [/r/opensouls3](https://www.reddit.com/r/opensouls3)
-* [Kavez](https://github.com/Kavez)
-* [dec1337](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1810)
-* [Kurakkabore](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1738)
-* Zatara from Science Souls
-* Lance from Science Souls
-* Malcolm Reynolds from Science Souls
-* Autopilot from Science Souls
-* Ace of Fours from Science Souls
-* [Science Souls Discord](https://discord.gg/GcfGgYs)
-* [igromanru](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1599)
+[igromanru](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1599)
