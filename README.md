@@ -19,7 +19,8 @@ Some features are broken after the patch.
   * Fixed: Recently Played With (by terenceyao)
   * Fixed crash: No Durability Damage (by igromanru)
   * Added: Spears of the Church covenants to Session Info (by igromanru)  
-for more see [changelog](changelog.md)
+  
+for more see [changelog](/changelog)
 
 
 
