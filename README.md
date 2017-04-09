@@ -13,13 +13,16 @@ http://www.cheatengine.org/
 
 #### Public tables:
 Some features are broken after the patch.  
-[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_08-04-2017_3.zip) (08.04.2017 3)  
-<sub>[alternative mirror](https://mega.nz/#!2AEDkKJB!mtnqpuw1P0X-cHkpg6GrdglzjoSkcWdz90Os4C-Mwu8)</sub>  
+[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_09-04-2017.zip) (09.04.2017)  
+<sub>[alternative mirror](https://mega.nz/#!XBlCiLgK!gOTyfBZXHfvPZm_bQ8nCBaBiN-h7bNUIVUT0FOiuXrA)</sub>  
+* 09.04.2017 third release
+  * Fixed: Last Hit Entity Info (by igromanru)
+  * Fixed: Targeted Entity Info crash on uncheck (by igromanru)
+  * Still need a fix: No Durability Damage
 * 08.04.2017 third release
   * Reorganized the table (by Ace of Fours)
   * Added: new boss flags (by Ace of Fours)
-  * Added: Last 5 Bullets Fired (by Science Souls Discord)  
-  * Still need a fix: No Durability Damage
+  * Added: Last 5 Bullets Fired (by Science Souls Discord)    
 * 08.04.2017 second release
   * Fixed: Targeted Entity Info (by Autopilot & igromanru)
 * 08.04.2017:
