@@ -2,7 +2,7 @@
 
 * [Back zo main page](README.md)
 * [Item IDs](item-ids.md/#item-ids)
-* [Importent ID's Information!](item-ids.md/#importent-ids-information)
+  * [Importent ID's Information!](item-ids.md/#importent-ids-information)
   * [Goods](item-ids.md/#goods-407) (407)
   * [Weapons](item-ids.md/#weapons-2831) (2831)
   * [Protector](item-ids.md/#protector-347)  (347)
