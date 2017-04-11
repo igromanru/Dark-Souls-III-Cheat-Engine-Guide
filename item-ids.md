@@ -7,7 +7,7 @@
   * [Protector](item-ids.md/#protector-347)  (347)
   * [Accessory](item-ids.md/#accessory-171) (171)
   * [Magic](item-ids.md/#magic-101) (101)
-    * [Sorcery]((item-ids.md/#sorcery-34) (34)
+    * [Sorcery](item-ids.md/#sorcery-34) (34)
     * [Pyromancy](item-ids.md/#pyromancy-30) (30)
     * [Miracle](item-ids.md/#miracle-37) (37)
   * [Ashes of Ariandel DLC](item-ids.md/#ashes-of-ariandel-dlc---items-ids)
