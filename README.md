@@ -4168,7 +4168,7 @@ Id       | Name                           | Type               | Note
 
 ## Credits
 CE Forum | Other | [Science Souls](https://discord.gg/GcfGgYs)
--------- | --- | --------------------
+-------- | ----- | --------------------  
 [Zanzer](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=352653) | [terenceyao](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1536) | [Kurakkabore](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1738)
 Phokz | [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ringed_city_dlc_items_hex_id/) | Zatara
 [pox911](http://www.cheatengine.org/forum/profile.php?mode=viewprofile&u=184639) | [/u/Sharkbitch](https://www.reddit.com/user/Sharkbitch) | Lance
@@ -4176,7 +4176,7 @@ Phokz | [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ri
 [mgr.inz.Player](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=177983) | [Kavez](https://github.com/Kavez) | Autopilot
 [Cielos](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=107448) | [dec1337](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1810) | Ace of Fours
 [jim2point0](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=333758) | [Birdulon](https://www.youtube.com/user/Birdulon) |
-[RandomFromdrone](http://forum.cheatengine.org/posting.php?mode=quote&p=5665525) |
-[ranonadg](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=446280) |
-[dezimous](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=445852) |
+[RandomFromdrone](http://forum.cheatengine.org/posting.php?mode=quote&p=5665525) | |
+[ranonadg](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=446280) | |
+[dezimous](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=445852) | |
 [igromanru](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962) | [igromanru](https://www.reddit.com/user/igromanru/) | Igromanru#6748
