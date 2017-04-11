@@ -3,16 +3,16 @@
 * FAQ
   * [Message: \[CAUTION\] INVALID GAME DATA HAS BEEN DETECTED](#message-caution-invalid-game-data-has-been-detected)
   * [Message: \[CAUTION\] YOU HAVE BEEN PENALIZED](#message-caution-you-have-been-penalized)
-  * [How to rid of the INVALID GAME DATA message](#how-to-rid-of-the-invalid-game-data-message)
-  * [Soft-ban](#soft-ban)
-  * [What does and does not get you banned](#what-does-and-does-not-get-you-banned)
-  * [Save game transfer](#save-game-transfer)
-  * [Cheat Engine debugger crashing the game](#cheat-engine-debugger-crashing-the-game)
-  * [Offline mode](#offline-mode)
-  * [VAC - Valve Anti Cheat](#vac---valve-anti-cheat)
+  * [How to rid of the INVALID GAME DATA message](README.md/#how-to-rid-of-the-invalid-game-data-message)
+  * [Soft-ban](README.md/#soft-ban)
+  * [What does and does not get you banned](README.md/#what-does-and-does-not-get-you-banned)
+  * [Save game transfer](README.md/#save-game-transfer)
+  * [Cheat Engine debugger crashing the game](README.md/#cheat-engine-debugger-crashing-the-game)
+  * [Offline mode](README.md/#offline-mode)
+  * [VAC - Valve Anti Cheat](README.md/#vac---valve-anti-cheat)
 * Usage Explanation
-  * [Weapon upgrades and infusions represented through ID](#weapon-upgrades-and-infusions-represented-through-id)
-  * [How to spawn/swap items](#how-to-spawnswap-items)
+  * [Weapon upgrades and infusions represented through ID](README.md/#weapon-upgrades-and-infusions-represented-through-id)
+  * [How to spawn/swap items](README.md/#how-to-spawnswap-items)
 * [Item IDs](item-ids.md/#item-ids)
   * [Goods](item-ids.md/#goods-407) (407)
   * [Weapons](item-ids.md/#weapons-2831) (2831)
@@ -34,7 +34,7 @@
     * [Protector](item-ids.md/#protector---the-ringed-city-dlc-37) (37)
     * [Accessory](item-ids.md/#accessory---the-ringed-city-dlc-8) (8)
     * [Magic](item-ids.md/#magic---the-ringed-city-dlc-6) (6)    
-* [Credits](#credits)
+* [Credits](README.md/#credits)
 
 ## Item IDs
 
