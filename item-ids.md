@@ -34,64 +34,12 @@ There are duplicate item ID's, because they have added many items from DS1 at fi
 
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
-40000064 | White Sign Soapstone |
-40000065 | Red Sign Soapstone |
-40000066 | Red Eye Orb |
-40000067 | Black Separation Crystal  |
 4000006C | Roster of Knights  |
 4000006F | Cracked Red Eye Orb  |
-40000073 | Black Eye Orb  |
-40000075 | Darksign  |
-40000077 | Way of White Circlet  |
-40000096 | Estus Flask  |
-40000097 | Estus Flask  |
-40000098 | Estus Flask+1  |
-40000099 | Estus Flask+1  |
-4000009A | Estus Flask+2  |
-4000009B | Estus Flask+2  |
-4000009C | Estus Flask+3  |
-4000009D | Estus Flask+3  |
-4000009E | Estus Flask+4  |
-4000009F | Estus Flask+4  |
-400000A0 | Estus Flask+5  |
-400000A1 | Estus Flask+5  |
-400000A2 | Estus Flask+6  |
-400000A3 | Estus Flask+6  |
-400000A4 | Estus Flask+7  |
-400000A5 | Estus Flask+7  |
-400000A6 | Estus Flask+8  |
-400000A7 | Estus Flask+8  |
-400000A8 | Estus Flask+9  |
-400000A9 | Estus Flask+9  |
-400000AA | Estus Flask+10  |
-400000AB | Estus Flask+10  |
-400000BE | Ashen Estus Flask  |
-400000BF | Ashen Estus Flask  |
-400000C0 | Ashen Estus Flask+1  |
-400000C1 | Ashen Estus Flask+1  |
-400000C2 | Ashen Estus Flask+2  |
-400000C3 | Ashen Estus Flask+2  |
-400000C4 | Ashen Estus Flask+3  |
-400000C5 | Ashen Estus Flask+3  |
-400000C6 | Ashen Estus Flask+4  |
-400000C7 | Ashen Estus Flask+4  |
-400000C8 | Ashen Estus Flask+5  |
-400000C9 | Ashen Estus Flask+5  |
-400000CA | Ashen Estus Flask+6  |
-400000CB | Ashen Estus Flask+6  |
-400000CC | Ashen Estus Flask+7  |
-400000CD | Ashen Estus Flask+7  |
-400000CE | Ashen Estus Flask+8  |
-400000CF | Ashen Estus Flask+8  |
-400000D0 | Ashen Estus Flask+9  |
-400000D1 | Ashen Estus Flask+9  |
-400000D2 | Ashen Estus Flask+10  |
-400000D3 | Ashen Estus Flask+10  |
 400000F0 | Divine Blessing  |
 400000F1 | Hidden Blessing  |
 400000F2 | Silver Pendant  |
 40000104 | Green Blossom  |
-~~40000105~~ | Budding Green Blossom  |
 40000106 | Budding Green Blossom  |
 4000010E | Bloodred Moss Clump  |
 4000010F | Purple Moss Clump  |
@@ -178,20 +126,9 @@ Id       | Name                                                | Note
 400001CB | Red Bug Pellet  |
 400001CC | Yellow Bug Pellet  |
 400001CD | Black Bug Pellet  |
-~~400001CE~~ | Young White Branch  |
 400001CF | Young White Branch  |
 400001EA | Dark Sigil  |
 400001F4 | Ember  |
-400001F5 | Ember  |
-400001F6 | Ember  |
-400001F7 | Ember  |
-400001F8 | Ember  |
-400001F9 | Ember  |
-400001FA | Ember  |
-400001FB | Ember  |
-400001FC | Ember  |
-400001FD | Ember  |
-400001FE | Ember  |
 40000208 | Hello Carving  |
 40000209 | Thank you Carving  |
 4000020A | Very good! Carving  |
@@ -223,7 +160,7 @@ Id       | Name                                                | Note
 400003E8 | Titanite Shard  |
 400003E9 | Large Titanite Shard  |
 400003EA | Titanite Chunk  |
-400003EB | Titanite Slab  | Ban-Warning, you can have only 8 in one play through!
+400003EB | Titanite Slab  | Ban-Warning, you can have only 18 in one play through!
 400003F2 | Dragon Scale  |
 400003FC | Titanite Scale  |
 40000406 | Twinkling Titanite  |
@@ -3534,57 +3471,6 @@ Id       | Name                                                | Note
 
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
-~~20000064~~ | Havel's Ring | use 20004E34
-~~20000065~~ | Red Tearstone Ring | use 20004ECA
-~~20000066~~ | Darkmoon Blade Covenant Ring | use 20004F7E
-~~20000067~~ | Cat Covenant Ring | unused
-~~20000068~~ | Cloranthy Ring | unused
-~~20000069~~ | Flame Stoneplate Ring | use 20004E52
-~~2000006A~~ | Thunder Stoneplate Ring | use 20004E5C
-~~2000006B~~ | Spell Stoneplate Ring | unused
-~~2000006C~~ | Speckled Stoneplate Ring | use 20004E7A
-~~2000006D~~ | Bloodbite Ring | use 20004E84
-~~2000006E~~ | Poisonbite Ring | use 20004E8E
-~~2000006F~~ | Tiny Being's Ring | unused
-~~20000071~~ | Cursebite Ring | use 20004E98
-~~20000072~~ | White Seance Ring | unused
-~~20000073~~ | Bellowing Dragoncrest Ring  | use 20004F07
-~~20000074~~ | Dusk Crown Ring | use 20004F4C
-~~20000075~~ | Hornet Ring | use 20004F9C | unused
-~~20000077~~ | Hawk Ring | use 20004F92 | unused
-~~20000078~~ | Ring of Steel Protection | use 20004E48
-~~20000079~~ | Covetous Gold Serpent Ring | use 20004FA6
-~~2000007A~~ | Covetous Silver Serpent Ring | use 20004FB0
-~~2000007B~~ | Slumbering Dragoncrest Ring | use 20004F42
-~~2000007C~~ | Ring of Fog | unused
-~~2000007D~~ | Rusted Iron Ring | unused
-~~2000007E~~ | Ring of Sacrifice | use 20004EF2
-~~2000007F~~ | Rare Ring of Sacrifice | use 20004EFC
-20000080 | Dark Wood Grain Ring
-20000082 | Ring of the Sun Princess
-20000085 | Ring of Condemnation
-20000086 | Ring of Blind Ghosts
-20000089 | Old Witch's Ring
-2000008A | Covenant of Artorias
-2000008B | Orange Charred Ring
-2000008C | Ring of Displacement
-2000008D | Lingering Dragoncrest Ring
-2000008E | Ring of the Evil Eye
-~~2000008F~~ | Ring of Favor and Protection | unused
-~~20000090~~ | Leo Ring | use 20004EE8
-20000091 | East Wood Grain Ring
-~~20000092~~ | Wolf Ring | use 20004EDE
-~~20000093~~ | Blue Tearstone Ring | use 20004ED4
-~~20000094~~ | Ring of the Sun's Firstborn | use 20004F1B
-20000095 | Darkmoon Seance Ring
-20002710 | Blade of the Darkmoon
-20002724 | Watchdogs of Farron
-2000272E | Aldrich Faithful
-20002738 | Warrior of Sunlight
-20002742 | Mound-makers
-2000274C | Way of Blue
-20002756 | Blue Sentinels
-20002760 | Rosaria's Fingers
 20004E20 | Life Ring
 20004E21 | Life Ring+1
 20004E22 | Life Ring+2
