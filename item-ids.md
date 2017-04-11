@@ -1,25 +1,13 @@
-## Index
+## Item IDs
 
-* FAQ
-  * [Message: \[CAUTION\] INVALID GAME DATA HAS BEEN DETECTED](#message-caution-invalid-game-data-has-been-detected)
-  * [Message: \[CAUTION\] YOU HAVE BEEN PENALIZED](#message-caution-you-have-been-penalized)
-  * [How to rid of the INVALID GAME DATA message](README.md/#how-to-rid-of-the-invalid-game-data-message)
-  * [Soft-ban](README.md/#soft-ban)
-  * [What does and does not get you banned](README.md/#what-does-and-does-not-get-you-banned)
-  * [Save game transfer](README.md/#save-game-transfer)
-  * [Cheat Engine debugger crashing the game](README.md/#cheat-engine-debugger-crashing-the-game)
-  * [Offline mode](README.md/#offline-mode)
-  * [VAC - Valve Anti Cheat](README.md/#vac---valve-anti-cheat)
-* Usage Explanation
-  * [Weapon upgrades and infusions represented through ID](README.md/#weapon-upgrades-and-infusions-represented-through-id)
-  * [How to spawn/swap items](README.md/#how-to-spawnswap-items)
+* [Back zo main page](README.md)
 * [Item IDs](item-ids.md/#item-ids)
   * [Goods](item-ids.md/#goods-407) (407)
   * [Weapons](item-ids.md/#weapons-2831) (2831)
   * [Protector](item-ids.md/#protector-347)  (347)
   * [Accessory](item-ids.md/#accessory-171) (171)
   * [Magic](item-ids.md/#magic-101) (101)
-    * [Sorcery](#sorcery-34) (34)
+    * [Sorcery]((item-ids.md/#sorcery-34) (34)
     * [Pyromancy](item-ids.md/#pyromancy-30) (30)
     * [Miracle](item-ids.md/#miracle-37) (37)
   * [Ashes of Ariandel DLC](item-ids.md/#ashes-of-ariandel-dlc---items-ids)
@@ -33,10 +21,8 @@
     * [Weapons](item-ids.md/#weapons---the-ringed-city-dlc-22) (22)
     * [Protector](item-ids.md/#protector---the-ringed-city-dlc-37) (37)
     * [Accessory](item-ids.md/#accessory---the-ringed-city-dlc-8) (8)
-    * [Magic](item-ids.md/#magic---the-ringed-city-dlc-6) (6)    
-* [Credits](README.md/#credits)
+    * [Magic](item-ids.md/#magic---the-ringed-city-dlc-6) (6)
 
-## Item IDs
 
 ### Importent ID's Information!
 Sometimes you will find multiple ID's for the same item, always try the last one first!  
