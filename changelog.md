@@ -1,5 +1,9 @@
 ### Changelog
 
+* [13.04.2017](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_13-04-2017.zip)
+  * Fixed: No Goods Consume (by Autopilot)
+  * Fixed: Param Patcher Initializer (by igromanru)
+  * Still broken: No Durability Damage
 * [12.04.2017](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_12-04-2017.zip)
   * Fixed: mislabeled ring IDs (by Lance)
   * Fixed: Last Weapon Highlighted with correct addresses (by Lance)

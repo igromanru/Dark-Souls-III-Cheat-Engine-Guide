@@ -13,14 +13,13 @@ http://www.cheatengine.org/
 
 #### Public tables:  
 Some features are broken after the patch.  
-[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_12-04-2017.zip)  
-<sub>[alternative mirror](https://mega.nz/#!LA9wlTiK!YAqdxwtoSfZWMn5tc40n0gZoFuq9g9RQWaUqdGJlvig)</sub>  
-Info: Fixes for the latest patch 1.13 will come soon.  
+[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_13-04-2017.zip)  
+<sub>[alternative mirror](https://mega.nz/#!nI9klQKI!yjymWUHRKV7wPjZJsRjpgZsWYNOSaVBSW2fGAkLHyDY)</sub>  
 
-* 12.04.2017
-  * Fixed: mislabeled ring IDs (by Lance)
-  * Fixed: Last Weapon Highlighted with correct addresses (by Lance)
-  * Changed: some descriptions (by Lance)
+* 13.04.2017
+  * Fixed: No Goods Consume (by Autopilot)
+  * Fixed: Param Patcher Initializer (by igromanru)
+  * Still broken: No Durability Damage
 * <sub>for more see [changelog](changelog.md)</sub>
 
 
