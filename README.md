@@ -13,7 +13,7 @@ http://www.cheatengine.org/
 
 #### Public tables:  
 Some features are broken after the patch.  
-[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_12-04-2017.zip)
+[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_12-04-2017.zip)  
 <sub>[alternative mirror](https://mega.nz/#!LA9wlTiK!YAqdxwtoSfZWMn5tc40n0gZoFuq9g9RQWaUqdGJlvig)</sub>  
 * 12.04.2017
   * Fixed: mislabeled ring IDs (by Lance)
