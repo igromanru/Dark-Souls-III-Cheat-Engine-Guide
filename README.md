@@ -11,16 +11,15 @@ If you've question or want to collaborate, feel free to join [Science Souls Disc
 ### Cheat Engine
 http://www.cheatengine.org/  
 
-#### Public tables:
+#### Public tables:  
 Some features are broken after the patch.  
-[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_09-04-2017_2.zip) (09.04.2017 2)  
-<sub>[alternative mirror](https://mega.nz/#!yANgzDoQ!Sky9UdM-EiDwI-snAcsF0WMPPTGauyLbhVIA2NJ77uI)</sub>  
-* 09.04.2017 second release
-  * Fixed: Recently Played With (by terenceyao)
-  * Fixed crash: No Durability Damage (by igromanru)
-  * Added: Spears of the Church covenants to Session Info (by igromanru)  
+[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_12-04-2017.zip)
+<sub>[alternative mirror](https://mega.nz/#!LA9wlTiK!YAqdxwtoSfZWMn5tc40n0gZoFuq9g9RQWaUqdGJlvig)</sub>  
+* 12.04.2017
+  * Fixed: mislabeled ring IDs (by Lance)
+  * Fixed: Last Weapon Highlighted with correct addresses (by Lance)
+  * Changed: some descriptions (by Lance)
 * <sub>for more see [changelog](changelog.md)</sub>
-
 
 
 [Zanzer's Table](http://fearlessrevolution.com/viewtopic.php?f=4&t=205) (outdated)
@@ -40,7 +39,7 @@ Some features are broken after the patch.
 * Usage Explanation
   * [Weapon upgrades and infusions represented through ID](#weapon-upgrades-and-infusions-represented-through-id)
   * [How to spawn/swap items](#how-to-spawnswap-items)
-* [Item IDs](item-ids.md/#item-ids) 
+* [Item IDs](item-ids.md/#item-ids)
 * [Credits](#credits)
 
 ## FAQ

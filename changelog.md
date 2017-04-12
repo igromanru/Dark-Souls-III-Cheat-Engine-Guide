@@ -1,4 +1,9 @@
 ### Changelog
+
+* [12.04.2017](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_12-04-2017.zip)
+  * Fixed: mislabeled ring IDs (by Lance)
+  * Fixed: Last Weapon Highlighted with correct addresses (by Lance)
+  * Changed: some descriptions (by Lance)
 * [09.04.2017 second release](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_09-04-2017_2.zip)
   * Fixed: Recently Played With (by terenceyao)
   * Fixed crash: No Durability Damage (by igromanru)
