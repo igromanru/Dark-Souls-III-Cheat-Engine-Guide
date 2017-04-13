@@ -19,7 +19,8 @@ Some features are broken after the patch.
 * 13.04.2017
   * Fixed: No Goods Consume (by Autopilot)
   * Fixed: Param Patcher Initializer (by igromanru)
-  * Still broken: No Durability Damage
+  * Still broken: No Durability Damage (fixed with next release)
+  * Still broken: Access All Bonfire (fixed with next release)
 * <sub>for more see [changelog](changelog.md)</sub>
 
 
