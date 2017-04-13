@@ -13,14 +13,12 @@ http://www.cheatengine.org/
 
 #### Public tables:  
 Some features are broken after the patch.  
-[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_13-04-2017.zip)  
-<sub>[alternative mirror](https://mega.nz/#!nI9klQKI!yjymWUHRKV7wPjZJsRjpgZsWYNOSaVBSW2fGAkLHyDY)</sub>  
+[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_13-04-2017_2.zip)  
+<sub>[alternative mirror](https://mega.nz/#!Xct2hTba!giX6TfKbYDbkvMUXdzZbx38rI24BcHfXogCHQKQpg4M)</sub>  
 
-* 13.04.2017
-  * Fixed: No Goods Consume (by Autopilot)
-  * Fixed: Param Patcher Initializer (by igromanru)
-  * Still broken: No Durability Damage (fixed with next release)
-  * Still broken: Access All Bonfire (fixed with next release)
+* 13.04.2017 second release
+  * Fixed: Access All Bonfires (by Autopilot)
+  * Fixed: No Durability Damage (by Autopilot)
 * <sub>for more see [changelog](changelog.md)</sub>
 
 

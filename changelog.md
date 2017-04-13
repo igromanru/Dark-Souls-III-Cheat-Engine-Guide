@@ -1,5 +1,9 @@
 ### Changelog
 
+
+* [13.04.2017 second release](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_13-04-2017_2.zip)
+  * Fixed: Access All Bonfires (by Autopilot)
+  * Fixed: No Durability Damage (by Autopilot)
 * [13.04.2017](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_13-04-2017.zip)
   * Fixed: No Goods Consume (by Autopilot)
   * Fixed: Param Patcher Initializer (by igromanru)
