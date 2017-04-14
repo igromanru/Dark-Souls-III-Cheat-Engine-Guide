@@ -8,7 +8,7 @@ If you want to contribute, feel free to make an issue, a pull request or you can
 If you've question or want to collaborate, feel free to join [Science Souls Discord](https://discord.gg/GcfGgYs) Server.
 
 ## General
-### Cheat Engine
+### [Cheat Engine](#cheat-engine)
 http://www.cheatengine.org/  
 
 #### Public tables:  
