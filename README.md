@@ -13,9 +13,11 @@ http://www.cheatengine.org/
 
 #### Public tables:  
 Some features are broken after the patch.  
-[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_13-04-2017_2.zip)  
-<sub>[alternative mirror](https://mega.nz/#!Xct2hTba!giX6TfKbYDbkvMUXdzZbx38rI24BcHfXogCHQKQpg4M)</sub>  
+[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_14-04-2017.zip)  
+<sub>[alternative mirror](https://mega.nz/#!TZUkha6J!A5IkEQMTw2vmhQu6xLTLeG5md4eBzZzU5kOGoTxdvQ8)</sub>  
 
+* 14.04.2017
+  * Fixed script syntax: Access All Bonfires (sorry my bad)
 * 13.04.2017 second release
   * Fixed: Access All Bonfires (by Autopilot)
   * Fixed: No Durability Damage (by Autopilot)
