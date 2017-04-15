@@ -160,8 +160,8 @@ I have made a [video](https://youtu.be/Gt4HDw_grmU) for this.
 
 #### How to create Param Patcher scripts
 
-Here is a video how to create your own Pram patching scripts by Thunder Dong (Science Souls).
-[Thank you Thunder Dong](https://youtu.be/WWeq7Ibex-E)
+Here is a video how to create your own Pram patching scripts by Thunder Dong (Science Souls).  
+[Thank you Thunder Dong](https://youtu.be/WWeq7Ibex-E) (YouTube link)
 
 ## Item IDs
 
