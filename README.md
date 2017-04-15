@@ -3,9 +3,9 @@
 
 ## Introduction
 This document was inspired by [Dark Souls II and Scholar of the First Sin Cheat Engine Guide](https://gist.github.com/Atvaark/f308e1d8e00e07106452) from [Atvaark](https://github.com/Atvaark).  
-If you want to contribute, feel free to make an issue, a pull request or you can contact me on [reddit](https://www.reddit.com/user/igromanru).
+If you want to contribute on the guide, feel free to make an issue, a pull request or you can contact me on [reddit](https://www.reddit.com/user/igromanru).
 
-If you've question or want to collaborate, feel free to join [Science Souls Discord](https://discord.gg/GcfGgYs) Server.
+For people who want to collaborate on the table, you can join the awesome Discord server [Science Souls](https://discord.gg/GcfGgYs).
 
 ## General
 ### [Cheat Engine](#cheat-engine)
