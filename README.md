@@ -41,6 +41,7 @@ http://www.cheatengine.org/
 * Usage Explanation
   * [Weapon upgrades and infusions represented through ID](#weapon-upgrades-and-infusions-represented-through-id)
   * [How to spawn/swap items](#how-to-spawnswap-items)
+  * [How to create Param Patcher scripts](#how-to-create-param-patcher-scripts)
 * [Item IDs](item-ids.md/#item-ids)
 * [Credits](#credits)
 
@@ -157,6 +158,11 @@ For example, 8000500 would be a Crystal Club. While 8000527 would be a Crystal C
 I have made a [video](https://youtu.be/Gt4HDw_grmU) for this.  
 [Demo video](http://puu.sh/opdDZ/7894148ddb.webm) by RandomFromdrone
 
+#### How to create Param Patcher scripts
+
+Here is a video how to create your own Pram patching scripts by Thunder Dong (Science Souls).
+[Thank you Thunder Dong](https://youtu.be/WWeq7Ibex-E)
+
 ## Item IDs
 
 Now on the [Item ID's](item-ids.md)-Side
@@ -171,7 +177,7 @@ Phokz | [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ri
 [Matze500](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=324171) | [/r/opensouls3](https://www.reddit.com/r/opensouls3) | Malcolm Reynolds
 [mgr.inz.Player](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=177983) | [Kavez](https://github.com/Kavez) | Autopilot
 [Cielos](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=107448) | [dec1337](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1810) | Ace of Fours
-[jim2point0](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=333758) | [Birdulon](https://www.youtube.com/user/Birdulon) |
+[jim2point0](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=333758) | [Birdulon](https://www.youtube.com/user/Birdulon) | Thunder Dong
 [RandomFromdrone](http://forum.cheatengine.org/posting.php?mode=quote&p=5665525) | |
 [ranonadg](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=446280) | |
 [dezimous](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=445852) | |
