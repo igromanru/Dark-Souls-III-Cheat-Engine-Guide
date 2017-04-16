@@ -16,11 +16,8 @@ http://www.cheatengine.org/
 [latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_14-04-2017.zip)  
 <sub>[alternative mirror](https://mega.nz/#!TZUkha6J!A5IkEQMTw2vmhQu6xLTLeG5md4eBzZzU5kOGoTxdvQ8)</sub>  
 
-* 14.04.2017
-  * Fixed script syntax: Access All Bonfires (sorry my bad)
-* 13.04.2017 second release
-  * Fixed: Access All Bonfires (by Autopilot)
-  * Fixed: No Durability Damage (by Autopilot)
+* xx.xx.xx
+  * Added: Param Patcher->Tutorial scripts (by Aerthas Veras)
 * <sub>for more see [changelog](changelog.md)</sub>
 
 
@@ -178,7 +175,7 @@ Phokz | [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ri
 [mgr.inz.Player](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=177983) | [Kavez](https://github.com/Kavez) | Autopilot
 [Cielos](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=107448) | [dec1337](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1810) | Ace of Fours
 [jim2point0](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=333758) | [Birdulon](https://www.youtube.com/user/Birdulon) | Thunder Dong
-[RandomFromdrone](http://forum.cheatengine.org/posting.php?mode=quote&p=5665525) | |
+[RandomFromdrone](http://forum.cheatengine.org/posting.php?mode=quote&p=5665525) | | Aerthas Veras
 [ranonadg](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=446280) | |
 [dezimous](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=445852) | |
 [igromanru](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962) | [igromanru](https://www.reddit.com/user/igromanru/) | Igromanru#6748
