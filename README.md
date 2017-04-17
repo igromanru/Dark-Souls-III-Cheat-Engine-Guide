@@ -17,11 +17,9 @@ http://www.cheatengine.org/
 <sub>[alternative mirror](https://mega.nz/#!TZUkha6J!A5IkEQMTw2vmhQu6xLTLeG5md4eBzZzU5kOGoTxdvQ8)</sub>  
 
 * xx.xx.xx
+  * Added: few Hotkeys (see table Extras)
   * Added: Param Patcher->Tutorial scripts (by Aerthas Veras)
 * <sub>for more see [changelog](changelog.md)</sub>
-
-
-[Zanzer's Table](http://fearlessrevolution.com/viewtopic.php?f=4&t=205) (outdated)
 
 ## Index
 
