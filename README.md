@@ -13,18 +13,17 @@ http://www.cheatengine.org/
 
 #### Public tables:  
 
-[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_14-04-2017.zip)  
-<sub>[alternative mirror](https://mega.nz/#!TZUkha6J!A5IkEQMTw2vmhQu6xLTLeG5md4eBzZzU5kOGoTxdvQ8)</sub>  
+[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_18-04-2017.zip)  
+<sub>[alternative mirror](https://mega.nz/#!mB1RlbQD!nRBEfo0iACZG7Pfs-aHReMIfC_3Rj73-ThcSCOy_PbI)</sub>  
 
-* 14.04.2017
-  * Fixed script syntax: Access All Bonfires (sorry my bad)
-* 13.04.2017 second release
-  * Fixed: Access All Bonfires (by Autopilot)
-  * Fixed: No Durability Damage (by Autopilot)
+* 18.04.2017
+  * Added: few Hotkeys (see table Extras)
+  * Added: Param Patcher->Tutorial scripts (by Aerthas Veras)
+  * Added: Param Patcher->Restrict Malicious Effects->Restrict "Malicious Effects"->Manual Control (by Aerthas Veras)
+  * Added: Movement and Animations->Idle Animation  (by Aerthas Veras)
+  * Rearranged: Hero->Attributes (by Ace of Fours)
+  * Removed: Assorted scripts
 * <sub>for more see [changelog](changelog.md)</sub>
-
-
-[Zanzer's Table](http://fearlessrevolution.com/viewtopic.php?f=4&t=205) (outdated)
 
 ## Index
 
@@ -178,7 +177,7 @@ Phokz | [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ri
 [mgr.inz.Player](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=177983) | [Kavez](https://github.com/Kavez) | Autopilot
 [Cielos](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=107448) | [dec1337](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1810) | Ace of Fours
 [jim2point0](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=333758) | [Birdulon](https://www.youtube.com/user/Birdulon) | Thunder Dong
-[RandomFromdrone](http://forum.cheatengine.org/posting.php?mode=quote&p=5665525) | |
+[RandomFromdrone](http://forum.cheatengine.org/posting.php?mode=quote&p=5665525) | | Aerthas Veras
 [ranonadg](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=446280) | |
 [dezimous](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=445852) | |
 [igromanru](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962) | [igromanru](https://www.reddit.com/user/igromanru/) | Igromanru#6748

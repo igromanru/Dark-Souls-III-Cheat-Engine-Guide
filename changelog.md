@@ -1,6 +1,12 @@
 ### Changelog
 
-
+* [18.04.2017](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_18-04-2017.zip)
+  * Added: few Hotkeys (see table Extras)
+  * Added: Param Patcher->Tutorial scripts (by Aerthas Veras)
+  * Added: Param Patcher->Restrict Malicious Effects->Restrict "Malicious Effects"->Manual Control (by Aerthas Veras)
+  * Added: Movement and Animations->Idle Animation  (by Aerthas Veras)
+  * Rearranged: Hero->Attributes (by Ace of Fours)
+  * Removed: Assorted scripts
 * [14.04.2017](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_14-04-2017.zip)
   * Fixed script syntax: Access All Bonfires (sorry my bad)
 * [13.04.2017 second release](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_13-04-2017_2.zip)
