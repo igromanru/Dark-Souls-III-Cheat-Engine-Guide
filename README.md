@@ -13,12 +13,16 @@ http://www.cheatengine.org/
 
 #### Public tables:  
 
-[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_14-04-2017.zip)  
-<sub>[alternative mirror](https://mega.nz/#!TZUkha6J!A5IkEQMTw2vmhQu6xLTLeG5md4eBzZzU5kOGoTxdvQ8)</sub>  
+[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_18-04-2017.zip)  
+<sub>[alternative mirror](https://mega.nz/#!mB1RlbQD!nRBEfo0iACZG7Pfs-aHReMIfC_3Rj73-ThcSCOy_PbI)</sub>  
 
-* xx.xx.xx
+* 18.04.2017
   * Added: few Hotkeys (see table Extras)
   * Added: Param Patcher->Tutorial scripts (by Aerthas Veras)
+  * Added: Param Patcher->Restrict Malicious Effects->Restrict "Malicious Effects"->Manual Control (by Aerthas Veras)
+  * Added: Movement and Animations->Idle Animation  (by Aerthas Veras)
+  * Rearranged: Hero->Attributes (by Ace of Fours)
+  * Removed: Assorted scripts
 * <sub>for more see [changelog](changelog.md)</sub>
 
 ## Index
