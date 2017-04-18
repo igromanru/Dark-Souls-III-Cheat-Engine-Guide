@@ -183,7 +183,7 @@ Phokz | [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ri
 [dezimous](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=445852) | |
 [igromanru](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962) | [igromanru](https://www.reddit.com/user/igromanru/) | Igromanru#6748
 
-# Donate
+## Donate
 
-If you like my guide, you can spend me a coffee.  :blush:
+If you like my guide, you can spend me a coffee.  :blush:  
 [![paypal](https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2XN6ZFLS4HANU)
