@@ -13,16 +13,14 @@ http://www.cheatengine.org/
 
 #### Public tables:  
 
-[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_18-04-2017.zip)  
-<sub>[alternative mirror](https://mega.nz/#!mB1RlbQD!nRBEfo0iACZG7Pfs-aHReMIfC_3Rj73-ThcSCOy_PbI)</sub>  
+[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_v1.0.0.0%20.zip)  
+<sub>[alternative mirror](https://mega.nz/#!fUkTXJyY!ZG45UAjklUXHHAdD-22qyKDmaxj_PTcQjRwATeLrULQ)</sub>  
 
-* 18.04.2017
-  * Added: few Hotkeys (see table Extras)
-  * Added: Param Patcher->Tutorial scripts (by Aerthas Veras)
-  * Added: Param Patcher->Restrict Malicious Effects->Restrict "Malicious Effects"->Manual Control (by Aerthas Veras)
-  * Added: Movement and Animations->Idle Animation  (by Aerthas Veras)
-  * Rearranged: Hero->Attributes (by Ace of Fours)
-  * Removed: Assorted scripts
+* v1.0.0.0 - 19.04.2017
+  * Assigned a version to the table, it begins with v1.0.0.0.
+  * Fixed: Noclip script, it will now be enabled on check.
+  * Added: Updater Script (by Aerthas Veras)
+  * Hotkeys: Unlimited iFrame is Alt+1 now
 * <sub>for more see [changelog](changelog.md)</sub>
 
 ## Index
