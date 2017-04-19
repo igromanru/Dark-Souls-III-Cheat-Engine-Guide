@@ -185,5 +185,5 @@ Phokz | [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ri
 
 ## Donate
 
-If you like my guide, you can spend me a coffee.  :blush:  
+If you like my guide, you can spend me a coffee.  :)  
 [![paypal](https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2XN6ZFLS4HANU)
