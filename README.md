@@ -168,7 +168,7 @@ Now on the [Item ID's](item-ids.md)-Side
 
 ## Credits
 
-CE Forum | Other                 | [Science Souls](https://discord.gg/GcfGgYs)
+CE Forum | Other                 | Science Souls
 -------- | --------------------- | --------------------  
 [Zanzer](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=352653) | [terenceyao](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1536) | [Kurakkabore](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1738)
 Phokz | [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ringed_city_dlc_items_hex_id/) | Zatara
