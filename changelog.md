@@ -1,6 +1,6 @@
 ### Changelog
 
-* [v1.0.1.0 - x]()
+* [v1.0.1.0 - 20.04.2017](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_v1.0.1.0.zip)
   * Added: New idle animations (by Aerthas Veras)
   * Added: Hotkey to reset idle animations (by Aerthas Veras)
   * Moved: Address assist scripts into group (by Aerthas Veras)
