@@ -1,5 +1,11 @@
 ### Changelog
 
+* [v1.0.1.0 - 20.04.2017](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_v1.0.1.0.zip)
+  * Added: New idle animations (by Aerthas Veras)
+  * Added: Hotkey to reset idle animations (by Aerthas Veras)
+  * Moved: Address assist scripts into group (by Aerthas Veras)
+  * Reorganized: Weapon helper values (by Aerthas Veras)
+  * Renamed: Some values for better understanding (by Aerthas Veras)
 * [v1.0.0.0 - 19.04.2017](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_v1.0.0.0%20.zip)
   * Assigned a version to the table, it begins with v1.0.0.0.
   * Fixed: Noclip script, it will now be enabled on check.

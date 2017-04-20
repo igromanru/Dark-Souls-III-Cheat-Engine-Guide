@@ -13,14 +13,15 @@ http://www.cheatengine.org/
 
 #### Public tables:  
 
-[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_v1.0.0.0%20.zip)  
-<sub>[alternative mirror](https://mega.nz/#!fUkTXJyY!ZG45UAjklUXHHAdD-22qyKDmaxj_PTcQjRwATeLrULQ)</sub>  
+[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_v1.0.1.0.zip)  
+<sub>[alternative mirror](https://mega.nz/#!PFk1kbaD!gO5Njjl8JEDW0da4ZoaYZVHQ97vyh5mC6kfUMu7XUbw)</sub>  
 
-* v1.0.0.0 - 19.04.2017
-  * Assigned a version to the table, it begins with v1.0.0.0.
-  * Fixed: Noclip script, it will now be enabled on check.
-  * Added: Updater Script (by Aerthas Veras)
-  * Hotkeys: Unlimited iFrame is Alt+1 now
+* v1.0.1.0 - 20.04.2017
+  * Added: New idle animations (by Aerthas Veras)
+  * Added: Hotkey to reset idle animations (by Aerthas Veras)
+  * Moved: Address assist scripts into group (by Aerthas Veras)
+  * Reorganized: Weapon helper values (by Aerthas Veras)
+  * Renamed: Some values for better understanding (by Aerthas Veras)
 * <sub>for more see [changelog](changelog.md)</sub>
 
 ## Index
