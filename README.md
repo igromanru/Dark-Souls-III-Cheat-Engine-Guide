@@ -13,15 +13,11 @@ http://www.cheatengine.org/
 
 #### Public tables:  
 
-[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_v1.0.1.0.zip)  
-<sub>[alternative mirror](https://mega.nz/#!PFk1kbaD!gO5Njjl8JEDW0da4ZoaYZVHQ97vyh5mC6kfUMu7XUbw)</sub>  
+[latest table with fixes]()  
+<sub>[alternative mirror]()</sub>  
 
-* v1.0.1.0 - 20.04.2017
-  * Added: New idle animations (by Aerthas Veras)
-  * Added: Hotkey to reset idle animations (by Aerthas Veras)
-  * Moved: Address assist scripts into group (by Aerthas Veras)
-  * Reorganized: Weapon helper values (by Aerthas Veras)
-  * Renamed: Some values for better understanding (by Aerthas Veras)
+* v1.0.2.0 - .04.2017
+  *
 * <sub>for more see [changelog](changelog.md)</sub>
 
 ## Index
