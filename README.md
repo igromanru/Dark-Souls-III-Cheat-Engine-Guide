@@ -151,7 +151,6 @@ For example, 8000500 would be a Crystal Club. While 8000527 would be a Crystal C
 
 **Note:** `Last Pickup Item Highlighted` is now [Helpers->Item Swap](http://imgur.com/OMUlmj5)  
 I have made a [video](https://youtu.be/Gt4HDw_grmU) for this.  
-[Demo video](http://puu.sh/opdDZ/7894148ddb.webm) by RandomFromdrone
 
 #### How to create Param Patcher scripts
 
@@ -166,7 +165,7 @@ Now on the [Item ID's](item-ids.md)-Side
 
 CE Forum | Other                 | Science Souls
 -------- | --------------------- | --------------------  
-[Zanzer](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=352653) | [terenceyao](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1536) | [Kurakkabore](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1738)
+[Zanzer](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=352653) | [terenceyao](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1536) |
 Phokz | [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ringed_city_dlc_items_hex_id/) | Zatara
 [pox911](http://www.cheatengine.org/forum/profile.php?mode=viewprofile&u=184639) | [/u/Sharkbitch](https://www.reddit.com/user/Sharkbitch) | Lance
 [Matze500](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=324171) | [/r/opensouls3](https://www.reddit.com/r/opensouls3) | Malcolm Reynolds
