@@ -5,7 +5,7 @@
 This document was inspired by [Dark Souls II and Scholar of the First Sin Cheat Engine Guide](https://gist.github.com/Atvaark/f308e1d8e00e07106452) from [Atvaark](https://github.com/Atvaark).  
 If you want to contribute on the guide, feel free to make an issue, a pull request or you can contact me on [reddit](https://www.reddit.com/user/igromanru).
 
-For people who want to collaborate on the table, you can join the awesome Discord server [Science Souls](https://discord.gg/GcfGgYs).
+For people who want to collaborate on the table, you can join the awesome Discord server Science Souls.
 
 ## General
 ### [Cheat Engine](#cheat-engine)
@@ -164,7 +164,7 @@ Now on the [Item ID's](item-ids.md)-Side
 
 ## Credits
 
-CE Forum | Other                 | [Science Souls](https://discord.gg/GcfGgYs)
+CE Forum | Other                 | Science Souls
 -------- | --------------------- | --------------------  
 [Zanzer](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=352653) | [terenceyao](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1536) | [Kurakkabore](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1738)
 Phokz | [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ringed_city_dlc_items_hex_id/) | Zatara
