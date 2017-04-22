@@ -13,15 +13,15 @@ http://www.cheatengine.org/
 
 #### Public tables:  
 
-[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_v1.0.1.0.zip)  
-<sub>[alternative mirror](https://mega.nz/#!PFk1kbaD!gO5Njjl8JEDW0da4ZoaYZVHQ97vyh5mC6kfUMu7XUbw)</sub>  
+[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_v1.0.2.0.zip)  
+<sub>[alternative mirror](https://mega.nz/#!XRsw2BYR!8tOcLa8-BuGzW51lHgB2_C_svDf6UrDYmt9g62FPd-Y)</sub>  
 
-* v1.0.1.0 - 20.04.2017
-  * Added: New idle animations (by Aerthas Veras)
-  * Added: Hotkey to reset idle animations (by Aerthas Veras)
-  * Moved: Address assist scripts into group (by Aerthas Veras)
-  * Reorganized: Weapon helper values (by Aerthas Veras)
-  * Renamed: Some values for better understanding (by Aerthas Veras)
+* v1.0.2.0 - 23.04.2017
+  * Added: Helpers->Targeted Entity Info->Model ID (by Zullie the Witch)
+  * Added: Helpers->Last Hit Entity Info->Model ID (by Zullie the Witch)
+  * Added: Scripts->Unlock summoning limit (by igromanru)
+  * Added: Session Info->World->Players count (by RBT)
+  * Added: Max Reinforce Level (ban warning)
 * <sub>for more see [changelog](changelog.md)</sub>
 
 ## Index
@@ -155,7 +155,6 @@ For example, 8000500 would be a Crystal Club. While 8000527 would be a Crystal C
 
 **Note:** `Last Pickup Item Highlighted` is now [Helpers->Item Swap](http://imgur.com/OMUlmj5)  
 I have made a [video](https://youtu.be/Gt4HDw_grmU) for this.  
-[Demo video](http://puu.sh/opdDZ/7894148ddb.webm) by RandomFromdrone
 
 #### How to create Param Patcher scripts
 
@@ -170,7 +169,7 @@ Now on the [Item ID's](item-ids.md)-Side
 
 CE Forum | Other                 | Science Souls
 -------- | --------------------- | --------------------  
-[Zanzer](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=352653) | [terenceyao](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1536) | [Kurakkabore](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1738)
+[Zanzer](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=352653) | [terenceyao](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1536) |
 Phokz | [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ringed_city_dlc_items_hex_id/) | Zatara
 [pox911](http://www.cheatengine.org/forum/profile.php?mode=viewprofile&u=184639) | [/u/Sharkbitch](https://www.reddit.com/user/Sharkbitch) | Lance
 [Matze500](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=324171) | [/r/opensouls3](https://www.reddit.com/r/opensouls3) | Malcolm Reynolds
