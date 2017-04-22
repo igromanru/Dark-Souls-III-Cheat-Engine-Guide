@@ -13,10 +13,11 @@ http://www.cheatengine.org/
 
 #### Public tables:  
 
-[latest table with fixes]()  
-<sub>[alternative mirror]()</sub>  
+[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_v1.0.2.0.zip)  
+<sub>[alternative mirror](https://mega.nz/#!XRsw2BYR!8tOcLa8-BuGzW51lHgB2_C_svDf6UrDYmt9g62FPd-Y)</sub>  
 
 * v1.0.2.0 - 23.04.2017
+  * Added: Helpers->Targeted Entity Info->Model ID (by Zullie the Witch)
   * Added: Helpers->Last Hit Entity Info->Model ID (by Zullie the Witch)
   * Added: Scripts->Unlock summoning limit (by igromanru)
   * Added: Session Info->World->Players count (by RBT)

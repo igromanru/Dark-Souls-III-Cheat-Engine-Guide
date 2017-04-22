@@ -1,6 +1,7 @@
 ### Changelog
 
-* [v1.0.2.0 - 23.04.2017]()
+* [v1.0.2.0 - 23.04.2017](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_v1.0.2.0.zip)
+  * Added: Helpers->Targeted Entity Info->Model ID (by Zullie the Witch)
   * Added: Helpers->Last Hit Entity Info->Model ID (by Zullie the Witch)
   * Added: Scripts->Unlock summoning limit (by igromanru)
   * Added: Session Info->World->Players count (by RBT)
