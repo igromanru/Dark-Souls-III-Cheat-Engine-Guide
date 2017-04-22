@@ -16,8 +16,11 @@ http://www.cheatengine.org/
 [latest table with fixes]()  
 <sub>[alternative mirror]()</sub>  
 
-* v1.0.2.0 - .04.2017
-  *
+* v1.0.2.0 - 23.04.2017
+  * Added: Helpers->Last Hit Entity Info->Model ID (by Zullie the Witch)
+  * Added: Scripts->Unlock summoning limit (by igromanru)
+  * Added: Session Info->World->Players count (by RBT)
+  * Added: Max Reinforce Level (ban warning)
 * <sub>for more see [changelog](changelog.md)</sub>
 
 ## Index
