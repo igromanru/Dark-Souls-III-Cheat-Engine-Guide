@@ -18,6 +18,7 @@ http://www.cheatengine.org/
 
 * v1.0.3.0 - .04.2017
   * Added: Movement and Animations->Gesture walk (by igromanru)
+  * Added: Movement and Animations->Animation Cancel
 * <sub>for more see [changelog](changelog.md)</sub>
 
 ## Index
