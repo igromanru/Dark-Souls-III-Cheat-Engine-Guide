@@ -1,6 +1,7 @@
 ### Changelog
 
-* [v1.0.3.0 - .04.2017]()
+* [v1.0.3 - 26.04.2017]()
+  * Added: DLC Bonfire Flags (by Aerthas Veras)
   * Added: Movement and Animations->Gesture walk (by igromanru)
   * Added: Movement and Animations->Animation Cancel
 * [v1.0.2.0 - 23.04.2017](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_v1.0.2.0.zip)

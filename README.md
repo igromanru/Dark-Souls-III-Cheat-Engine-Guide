@@ -16,7 +16,8 @@ http://www.cheatengine.org/
 [latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_v1.0.2.0.zip)  
 <sub>[alternative mirror](https://mega.nz/#!XRsw2BYR!8tOcLa8-BuGzW51lHgB2_C_svDf6UrDYmt9g62FPd-Y)</sub>  
 
-* v1.0.3.0 - .04.2017
+* v1.0.3 - 26.04.2017
+  * Added: DLC Bonfire Flags (by Aerthas Veras)
   * Added: Movement and Animations->Gesture walk (by igromanru)
   * Added: Movement and Animations->Animation Cancel
 * <sub>for more see [changelog](changelog.md)</sub>
