@@ -13,15 +13,13 @@ http://www.cheatengine.org/
 
 #### Public tables:  
 
-[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_v1.0.2.0.zip)  
-<sub>[alternative mirror](https://mega.nz/#!XRsw2BYR!8tOcLa8-BuGzW51lHgB2_C_svDf6UrDYmt9g62FPd-Y)</sub>  
+[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_v1.0.3.zip)  
+<sub>[alternative mirror](https://mega.nz/#!DYdFHbya!saVVcHXv2hoUjq_wHoFRSnzD0FBD9YZ4Meq7E-E85Tw)</sub>  
 
-* v1.0.2.0 - 23.04.2017
-  * Added: Helpers->Targeted Entity Info->Model ID (by Zullie the Witch)
-  * Added: Helpers->Last Hit Entity Info->Model ID (by Zullie the Witch)
-  * Added: Scripts->Unlock summoning limit (by igromanru)
-  * Added: Session Info->World->Players count (by RBT)
-  * Added: Max Reinforce Level (ban warning)
+* v1.0.3 - 26.04.2017
+  * Added: DLC Bonfire Flags (by Aerthas Veras)
+  * Added: Movement and Animations->Gesture walk (by igromanru)
+  * Added: Movement and Animations->Animation Cancel
 * <sub>for more see [changelog](changelog.md)</sub>
 
 ## Index
@@ -167,19 +165,19 @@ Now on the [Item ID's](item-ids.md)-Side
 
 ## Credits
 
-CE Forum | Other                 | Science Souls
--------- | --------------------- | --------------------  
-[Zanzer](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=352653) | [terenceyao](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1536) |
-Phokz | [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ringed_city_dlc_items_hex_id/) | Zatara
-[pox911](http://www.cheatengine.org/forum/profile.php?mode=viewprofile&u=184639) | [/u/Sharkbitch](https://www.reddit.com/user/Sharkbitch) | Lance
-[Matze500](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=324171) | [/r/opensouls3](https://www.reddit.com/r/opensouls3) | Malcolm Reynolds
-[mgr.inz.Player](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=177983) | [Kavez](https://github.com/Kavez) | Autopilot
-[Cielos](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=107448) | [dec1337](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1810) | Ace of Fours
-[jim2point0](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=333758) | [Birdulon](https://www.youtube.com/user/Birdulon) | Thunder Dong
-[RandomFromdrone](http://forum.cheatengine.org/posting.php?mode=quote&p=5665525) | | Aerthas Veras
-[ranonadg](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=446280) | |
-[dezimous](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=445852) | |
-[igromanru](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962) | [igromanru](https://www.reddit.com/user/igromanru/) | Igromanru#6748
+CE Forum | Other                 | Science Souls        | OldSchoolHack
+-------- | --------------------- | -------------------- | -------------------
+[Zanzer](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=352653) | [terenceyao](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1536) | Zatara | KN4CK3R
+Phokz | [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ringed_city_dlc_items_hex_id/) | Lance | SilverDeath
+[pox911](http://www.cheatengine.org/forum/profile.php?mode=viewprofile&u=184639) | [/u/Sharkbitch](https://www.reddit.com/user/Sharkbitch) | Malcolm Reynolds | Jeon
+[Matze500](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=324171) | [/r/opensouls3](https://www.reddit.com/r/opensouls3) | Autopilot |
+[mgr.inz.Player](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=177983) | [Kavez](https://github.com/Kavez) | Ace of Fours |
+[Cielos](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=107448) | [dec1337](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1810) | Thunder Dong |
+[jim2point0](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=333758) | [Birdulon](https://www.youtube.com/user/Birdulon) | Aerthas Veras |
+[RandomFromdrone](http://forum.cheatengine.org/posting.php?mode=quote&p=5665525) | | RBT |
+[ranonadg](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=446280) | | |
+[dezimous](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=445852) | | |
+[igromanru](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962) | [igromanru](https://www.reddit.com/user/igromanru/) | Igromanru#6748 | igromanru
 
 ## Donate
 
