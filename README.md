@@ -13,8 +13,8 @@ http://www.cheatengine.org/
 
 #### Public tables:  
 
-[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_v1.0.2.0.zip)  
-<sub>[alternative mirror](https://mega.nz/#!XRsw2BYR!8tOcLa8-BuGzW51lHgB2_C_svDf6UrDYmt9g62FPd-Y)</sub>  
+[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_v1.0.3.zip)  
+<sub>[alternative mirror](https://mega.nz/#!DYdFHbya!saVVcHXv2hoUjq_wHoFRSnzD0FBD9YZ4Meq7E-E85Tw)</sub>  
 
 * v1.0.3 - 26.04.2017
   * Added: DLC Bonfire Flags (by Aerthas Veras)
