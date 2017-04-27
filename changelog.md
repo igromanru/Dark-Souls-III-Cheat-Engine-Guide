@@ -1,5 +1,8 @@
 ### Changelog
 
+* [v1.0.4 - .04.2017]()
+  * Fixed: Targeted Entity Info on disable crash (by igromanru)
+  * Fixed: Last Hit Entity Info on disable crash (by igromanru)
 * [v1.0.3 - 26.04.2017](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_v1.0.3.zip)
   * Added: DLC Bonfire Flags (by Aerthas Veras)
   * Added: Movement and Animations->Gesture walk (by igromanru)
