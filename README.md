@@ -16,9 +16,12 @@ http://www.cheatengine.org/
 [latest table with fixes]()  
 <sub>[alternative mirror]()</sub>  
 
-* v1.0.4 - .04.2017
+* v1.0.4 - .05.2017
+  * Added: Auto code backup and restore for some scripts (by igromanru)
+  * Added: Param Patcher->Tutorials Script->Pyromancy Flame cast everything
   * Fixed: Targeted Entity Info on disable crash (by igromanru)
   * Fixed: Last Hit Entity Info on disable crash (by igromanru)
+  * Improved: Unlock summoning limit, it's now setting the player count to 1.
 * <sub>for more see [changelog](changelog.md)</sub>
 
 ## Index
@@ -33,10 +36,10 @@ http://www.cheatengine.org/
   * [Cheat Engine debugger crashing the game](#cheat-engine-debugger-crashing-the-game)
   * [Offline mode](#offline-mode)
   * [VAC - Valve Anti Cheat](#vac---valve-anti-cheat)
-* Usage Explanation
-  * [Weapon upgrades and infusions represented through ID](#weapon-upgrades-and-infusions-represented-through-id)
-  * [How to spawn/swap items](#how-to-spawnswap-items)
-  * [How to create Param Patcher scripts](#how-to-create-param-patcher-scripts)
+* [Tutorials](tutorials.md)
+  * [Weapon upgrades and infusions represented through ID](tutorials.md/#weapon-upgrades-and-infusions-represented-through-id)
+  * [How to spawn/swap items](tutorials.md/#how-to-spawnswap-items)
+  * [How to create Param Patcher scripts](tutorials.md/#how-to-create-param-patcher-scripts)
 * [Item IDs](item-ids.md/#item-ids)
 * [Credits](#credits)
 
@@ -115,7 +118,7 @@ Or you can completely block DarkSoulsIII.exe from using internet by adding [Inbo
 #### VAC - Valve Anti Cheat
 There is no VAC in Dark Souls 3!
 
-## Usage Explanation
+## Tutorials
 
 #### Weapon upgrades and infusions represented through ID
 

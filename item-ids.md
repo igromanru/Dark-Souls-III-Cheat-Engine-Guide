@@ -1,6 +1,6 @@
 ## Item IDs
 
-* [Back zo main page](README.md)
+* [Back to main page](README.md)
 * [Item IDs](item-ids.md/#item-ids)
   * [Importent ID's Information!](item-ids.md/#importent-ids-information)
   * [Goods](item-ids.md/#goods-407) (407)
