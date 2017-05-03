@@ -21,7 +21,9 @@ http://www.cheatengine.org/
   * Added: Param Patcher->Tutorials Script->Pyromancy Flame cast everything
   * Fixed: Targeted Entity Info on disable crash (by igromanru)
   * Fixed: Last Hit Entity Info on disable crash (by igromanru)
-  * Improved: Unlock summoning limit, it's now setting the player count to 1.
+  * Improved: Unlock summoning limit, it's now set the player count to 1.
+  * Added: Param Patcher Initializer->Restrict Malicious Effects->Restrict All Malicious Effects (by igromanru)
+  * Hotkeys: Set Alt+1 also for Restrict All Malicious Effects
 * <sub>for more see [changelog](changelog.md)</sub>
 
 ## Index
