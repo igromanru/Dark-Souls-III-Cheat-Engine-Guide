@@ -23,6 +23,7 @@
   * [Protector](item-ids.md/#protector---the-ringed-city-dlc-37) (37)
   * [Accessory](item-ids.md/#accessory---the-ringed-city-dlc-8) (8)
   * [Magic](item-ids.md/#magic---the-ringed-city-dlc-6) (6)
+* [Unused content](item-ids.md/)
 
 
 ### Importent ID's Information!
@@ -3894,3 +3895,39 @@ Id       | Name                           | Type               | Note
 402896A0 | Seething Chaos | Pyromancy
 40358B08 | Lightning Arrow | Miracle
 40364688 | Projected Heal | Miracle
+
+## Unused content - Items ID's
+
+### Goods - Unused content ()
+
+Id       | Name                                                | Note
+-------- | --------------------------------------------------- | --------------
+400001B9 | Spirit Amethyst
+400001BA | Spirit Amethyst
+400007D3 | Bridge Key
+
+### Weapons - Unused content ()
+
+Id       | Name                                                | Note
+-------- | --------------------------------------------------- | --------------
+00C8A730 | Sacred Beast Catalyst
+400007DB | Dungeon Ground Floor Key
+
+
+### Protector - Unused content ()
+
+Id       | Name                                                | Note
+-------- | --------------------------------------------------- | --------------
+12E40D20 | Scholar's Shed Skin
+
+
+### Accessory - Unused content ()
+
+Id       | Name                                                | Note
+-------- | --------------------------------------------------- | --------------
+
+
+### Magic - Unused content ()
+
+Id       | Name                           | Type               | Note
+-------- | -------------------------------| ------------------ | --------------
