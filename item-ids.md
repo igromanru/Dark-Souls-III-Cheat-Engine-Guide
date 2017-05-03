@@ -23,7 +23,7 @@
   * [Protector](item-ids.md/#protector---the-ringed-city-dlc-37) (37)
   * [Accessory](item-ids.md/#accessory---the-ringed-city-dlc-8) (8)
   * [Magic](item-ids.md/#magic---the-ringed-city-dlc-6) (6)
-* [Unused content](item-ids.md/)
+* [Unused content](item-ids.md/#unused-content---items-ids)
 
 
 ### Importent ID's Information!
