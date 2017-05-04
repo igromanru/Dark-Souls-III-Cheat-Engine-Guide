@@ -1,6 +1,6 @@
 ### Changelog
 
-* [v1.0.4 - .05.2017]()
+* [v1.0.4 - 05.05.2017]()
   * Added: Auto code backup and restore for some scripts (by igromanru)
   * Added: Param Patcher->Tutorials Script->Pyromancy Flame cast everything
   * Fixed: Targeted Entity Info on disable crash (by igromanru)
@@ -8,6 +8,7 @@
   * Improved: Unlock summoning limit, it's now setting the player count to 1. (by igromanru)
   * Added: Param Patcher Initializer->Restrict Malicious Effects->Restrict All Malicious Effects (by igromanru)
   * Hotkeys: Set Alt+1 also for Restrict All Malicious Effects
+  * Added: 41-44 and 48-54 Offsets names in Last Spell Highlighted (by Rhino)
 * [v1.0.3 - 26.04.2017](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_v1.0.3.zip)
   * Added: DLC Bonfire Flags (by Aerthas Veras)
   * Added: Movement and Animations->Gesture walk (by igromanru)

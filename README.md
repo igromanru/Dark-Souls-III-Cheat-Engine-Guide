@@ -16,7 +16,7 @@ http://www.cheatengine.org/
 [latest table with fixes]()  
 <sub>[alternative mirror]()</sub>  
 
-* v1.0.4 - .05.2017
+* v1.0.4 - 05.05.2017
   * Added: Auto code backup and restore for some scripts (by igromanru)
   * Added: Param Patcher->Tutorials Script->Pyromancy Flame cast everything
   * Fixed: Targeted Entity Info on disable crash (by igromanru)
@@ -24,6 +24,7 @@ http://www.cheatengine.org/
   * Improved: Unlock summoning limit, it's now set the player count to 1.
   * Added: Param Patcher Initializer->Restrict Malicious Effects->Restrict All Malicious Effects (by igromanru)
   * Hotkeys: Set Alt+1 also for Restrict All Malicious Effects
+  * Added: 41-44 and 48-54 Offsets names in Last Spell Highlighted (by Rhino)
 * <sub>for more see [changelog](changelog.md)</sub>
 
 ## Index
