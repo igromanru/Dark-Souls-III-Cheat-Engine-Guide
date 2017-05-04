@@ -3912,6 +3912,9 @@ Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
 00C8A730 | Sacred Beast Catalyst
 400007DB | Dungeon Ground Floor Key
+00CD3B10 | Flickering Pyromancy
+00CDFE60 | Deep Pyromancy Flame
+00CE2570 | Pitch-Dark Pyromancy Flame
 
 
 ### Protector - Unused content ()
