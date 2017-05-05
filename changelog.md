@@ -1,6 +1,6 @@
 ### Changelog
 
-* [v1.0.4 - 05.05.2017]()
+* [v1.0.4 - 05.05.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/9e9290ee0d836056f3c393d390bd6b50/DS3_Science-Souls_v1.0.4.zip)
   * Added: Auto code backup and restore for some scripts (by igromanru)
   * Added: Param Patcher->Tutorials Script->Pyromancy Flame cast everything
   * Fixed: Targeted Entity Info on disable crash (by igromanru)
