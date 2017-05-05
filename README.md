@@ -18,6 +18,7 @@ http://www.cheatengine.org/
 
 * v1.0.5 - .05.2017
   * Added: Byte Array Converter
+  * Fixed: Helpers->Last Spell Highlighted->Bullet 3 Offset
 * <sub>for more see [changelog](changelog.md)</sub>
 
 ## Index
