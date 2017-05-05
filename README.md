@@ -17,7 +17,7 @@ http://www.cheatengine.org/
 <sub>[alternative mirror](https://mega.nz/#!TYcyVYCI!lqPNerpan9o62y7mqpQQJnTbxiwJ23ImfnrZWcI7ccU)</sub>  
 
 * v1.0.5 - .05.2017
-  * 
+  * Added: Byte Array Converter
 * <sub>for more see [changelog](changelog.md)</sub>
 
 ## Index
