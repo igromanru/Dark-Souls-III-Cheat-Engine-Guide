@@ -12,13 +12,18 @@ http://www.cheatengine.org/
 
 #### Public tables:  
 
-[latest table with fixes](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_v1.0.3.zip)  
-<sub>[alternative mirror](https://mega.nz/#!DYdFHbya!saVVcHXv2hoUjq_wHoFRSnzD0FBD9YZ4Meq7E-E85Tw)</sub>  
+[latest table with fixes](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/9e9290ee0d836056f3c393d390bd6b50/DS3_Science-Souls_v1.0.4.zip)  
+<sub>[alternative mirror](https://mega.nz/#!TYcyVYCI!lqPNerpan9o62y7mqpQQJnTbxiwJ23ImfnrZWcI7ccU)</sub>  
 
-* v1.0.3 - 26.04.2017
-  * Added: DLC Bonfire Flags (by Aerthas Veras)
-  * Added: Movement and Animations->Gesture walk (by igromanru)
-  * Added: Movement and Animations->Animation Cancel
+* v1.0.4 - 05.05.2017
+  * Added: Auto code backup and restore for some scripts (by igromanru)
+  * Added: Param Patcher->Tutorials Script->Pyromancy Flame cast everything
+  * Fixed: Targeted Entity Info on disable crash (by igromanru)
+  * Fixed: Last Hit Entity Info on disable crash (by igromanru)
+  * Improved: Unlock summoning limit, it's now set the player count to 1.
+  * Added: Param Patcher Initializer->Restrict Malicious Effects->Restrict All Malicious Effects (by igromanru)
+  * Hotkeys: Set Alt+1 also for Restrict All Malicious Effects
+  * Added: 41-44 and 48-54 Offsets names in Last Spell Highlighted (by Rhino)
 * <sub>for more see [changelog](changelog.md)</sub>
 
 ## Index
@@ -33,13 +38,12 @@ http://www.cheatengine.org/
   * [Cheat Engine debugger crashing the game](#cheat-engine-debugger-crashing-the-game)
   * [Offline mode](#offline-mode)
   * [VAC - Valve Anti Cheat](#vac---valve-anti-cheat)
-* Usage Explanation
-  * [Weapon upgrades and infusions represented through ID](#weapon-upgrades-and-infusions-represented-through-id)
-  * [How to spawn/swap items](#how-to-spawnswap-items)
-  * [How to create Param Patcher scripts](#how-to-create-param-patcher-scripts)
+* [Tutorials](tutorials.md)
+  * [Weapon upgrades and infusions represented through ID](tutorials.md/#weapon-upgrades-and-infusions-represented-through-id)
+  * [How to spawn/swap items](tutorials.md/#how-to-spawnswap-items)
+  * [How to create Param Patcher scripts](tutorials.md/#how-to-create-param-patcher-scripts)
 * [Item IDs](item-ids.md/#item-ids)
 * [Credits](#credits)
-* [Donate](#donate)
 
 ## FAQ
 
@@ -116,7 +120,7 @@ Or you can completely block DarkSoulsIII.exe from using internet by adding [Inbo
 #### VAC - Valve Anti Cheat
 There is no VAC in Dark Souls 3!
 
-## Usage Explanation
+## Tutorials
 
 #### Weapon upgrades and infusions represented through ID
 
@@ -177,8 +181,3 @@ Phokz | [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ri
 [ranonadg](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=446280) | | |
 [dezimous](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=445852) | | |
 [igromanru](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962) | [igromanru](https://www.reddit.com/user/igromanru/) | Igromanru#6748 | igromanru
-
-## Donate
-
-If you like my guide, you can spend me a coffee.  :)  
-[![paypal](https://www.paypalobjects.com/en_GB/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2XN6ZFLS4HANU)
