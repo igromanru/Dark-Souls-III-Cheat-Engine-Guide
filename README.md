@@ -7,6 +7,8 @@ If you want to contribute on the guide, feel free to make an issue, a pull reque
 
 For people who want to collaborate on the table, you can join the awesome Discord server [Science Souls](https://discord.io/sciencesouls).
 
+<iframe src="https://discordapp.com/widget?id=309436704350273536&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+
 ## General
 ### [Cheat Engine](#cheat-engine)
 http://www.cheatengine.org/  
