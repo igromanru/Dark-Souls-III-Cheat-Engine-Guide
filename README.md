@@ -16,15 +16,8 @@ http://www.cheatengine.org/
 [latest table with fixes](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/9e9290ee0d836056f3c393d390bd6b50/DS3_Science-Souls_v1.0.4.zip)  
 <sub>[alternative mirror](https://mega.nz/#!TYcyVYCI!lqPNerpan9o62y7mqpQQJnTbxiwJ23ImfnrZWcI7ccU)</sub>  
 
-* v1.0.4 - 05.05.2017
-  * Added: Auto code backup and restore for some scripts (by igromanru)
-  * Added: Param Patcher->Tutorials Script->Pyromancy Flame cast everything
-  * Fixed: Targeted Entity Info on disable crash (by igromanru)
-  * Fixed: Last Hit Entity Info on disable crash (by igromanru)
-  * Improved: Unlock summoning limit, it's now set the player count to 1.
-  * Added: Param Patcher Initializer->Restrict Malicious Effects->Restrict All Malicious Effects (by igromanru)
-  * Hotkeys: Set Alt+1 also for Restrict All Malicious Effects
-  * Added: 41-44 and 48-54 Offsets names in Last Spell Highlighted (by Rhino)
+* v1.0.5 - .05.2017
+  * 
 * <sub>for more see [changelog](changelog.md)</sub>
 
 ## Index
