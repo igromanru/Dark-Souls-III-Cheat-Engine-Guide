@@ -5,6 +5,8 @@
 This document was inspired by [Dark Souls II and Scholar of the First Sin Cheat Engine Guide](https://gist.github.com/Atvaark/f308e1d8e00e07106452) from [Atvaark](https://github.com/Atvaark).  
 If you want to contribute on the guide, feel free to make an issue, a pull request or you can contact me on [reddit](https://www.reddit.com/user/igromanru).
 
+Table contributors are welcome in our [Reverse Souls](https://discord.io/reversesouls) Discord server.
+
 ## General
 ### [Cheat Engine](#cheat-engine)
 http://www.cheatengine.org/  
