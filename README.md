@@ -18,6 +18,7 @@ http://www.cheatengine.org/
 [![Table](https://img.shields.io/badge/table-latest-brightgreen.svg)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/e703e94d76595e224d703cc9fc3af905/DS3_Reverse-Souls_v1.0.5.zip)  
 <sub>[alternative mirror](https://mega.nz/#!DNt1jDTR!5855ttwt1bITxKqI2aqzFp55r8bJbIu-DvsTyIrfYSU)</sub>  
 * v1.0.5 - 06.05.2017
+  * Added: Scripts->Kill all mobs in the area (by /u/MajinCry)
   * Added: Byte Array Converter (by igromanru)
   * Fixed: Helpers->Last Spell Highlighted->Bullet 3 Offset (by Rhino)
   * Added: World Flags->Non-respawning enemies (by RBT)
@@ -209,3 +210,4 @@ Other | Reason
 [Kavez](https://github.com/Kavez) |
 [dec1337](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1810) | some fixed after the second DLC patch
 [Birdulon](https://www.youtube.com/user/Birdulon) |
+[/u/MajinCry](https://www.reddit.com/user/MajinCry) | Kill all mobs in the area script
