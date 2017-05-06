@@ -7,6 +7,8 @@ If you want to contribute on the guide, feel free to make an issue, a pull reque
 
 Table contributors are welcome in our [Reverse Souls](https://discord.io/reversesouls) Discord server.
 
+[![Discord](https://img.shields.io/badge/Discord-Reverse%20Souls-blue.png)](https://discord.io/reversesouls)
+
 ## General
 ### [Cheat Engine](#cheat-engine)
 http://www.cheatengine.org/  
