@@ -15,7 +15,8 @@ http://www.cheatengine.org/
 
 #### Public tables:  
 
-[![Table](https://img.shields.io/badge/Table-latest-brightgreen.svg)]()
+[![Table](https://img.shields.io/badge/table-latest-brightgreen.svg)]()  
+
 <sub>[alternative mirror](https://mega.nz/#!TYcyVYCI!lqPNerpan9o62y7mqpQQJnTbxiwJ23ImfnrZWcI7ccU)</sub>  
 
 * v1.0.5 - .05.2017
