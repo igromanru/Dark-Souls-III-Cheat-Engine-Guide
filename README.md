@@ -5,6 +5,9 @@
 This document was inspired by [Dark Souls II and Scholar of the First Sin Cheat Engine Guide](https://gist.github.com/Atvaark/f308e1d8e00e07106452) from [Atvaark](https://github.com/Atvaark).  
 If you want to contribute on the guide, feel free to make an issue, a pull request or you can contact me on [reddit](https://www.reddit.com/user/igromanru).
 
+Table contributors are welcome in our [Reverse Souls](https://discord.io/reversesouls) Discord server.
+
+[![Discord](https://img.shields.io/badge/Discord-Reverse%20Souls-blue.png)](https://discord.io/reversesouls)
 
 ## General
 ### [Cheat Engine](#cheat-engine)
@@ -12,18 +15,15 @@ http://www.cheatengine.org/
 
 #### Public tables:  
 
-[latest table with fixes](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/9e9290ee0d836056f3c393d390bd6b50/DS3_Science-Souls_v1.0.4.zip)  
-<sub>[alternative mirror](https://mega.nz/#!TYcyVYCI!lqPNerpan9o62y7mqpQQJnTbxiwJ23ImfnrZWcI7ccU)</sub>  
+[![Table](https://img.shields.io/badge/table-latest-brightgreen.svg)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/e703e94d76595e224d703cc9fc3af905/DS3_Reverse-Souls_v1.0.5.zip)  
+<sub>[alternative mirror](https://mega.nz/#!DNt1jDTR!5855ttwt1bITxKqI2aqzFp55r8bJbIu-DvsTyIrfYSU)</sub>  
 
-* v1.0.4 - 05.05.2017
-  * Added: Auto code backup and restore for some scripts (by igromanru)
-  * Added: Param Patcher->Tutorials Script->Pyromancy Flame cast everything
-  * Fixed: Targeted Entity Info on disable crash (by igromanru)
-  * Fixed: Last Hit Entity Info on disable crash (by igromanru)
-  * Improved: Unlock summoning limit, it's now set the player count to 1.
-  * Added: Param Patcher Initializer->Restrict Malicious Effects->Restrict All Malicious Effects (by igromanru)
-  * Hotkeys: Set Alt+1 also for Restrict All Malicious Effects
-  * Added: 41-44 and 48-54 Offsets names in Last Spell Highlighted (by Rhino)
+* v1.0.5 - 06.05.2017
+  * Added: Byte Array Converter (by igromanru)
+  * Fixed: Helpers->Last Spell Highlighted->Bullet 3 Offset (by Rhino)
+  * Added: World Flags->Non-respawning enemies (by RBT)
+  * Added: World Flags->Doors and Shortcuts->Farron stuff (by RBT)
+  * Added: World Flags->Gestures->My thanks (by RBT)
 * <sub>for more see [changelog](changelog.md)</sub>
 
 ## Index

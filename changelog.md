@@ -1,5 +1,11 @@
 ### Changelog
 
+* [v1.0.5 - 06.05.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/e703e94d76595e224d703cc9fc3af905/DS3_Reverse-Souls_v1.0.5.zip)
+  * Added: Byte Array Converter (by igromanru)
+  * Fixed: Helpers->Last Spell Highlighted->Bullet 3 Offset (by Rhino)
+  * Added: World Flags->Non-respawning enemies (by RBT)
+  * Added: World Flags->Doors and Shortcuts->Farron stuff (by RBT)
+  * Added: World Flags->Gestures->My thanks (by RBT)
 * [v1.0.4 - 05.05.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/9e9290ee0d836056f3c393d390bd6b50/DS3_Science-Souls_v1.0.4.zip)
   * Added: Auto code backup and restore for some scripts (by igromanru)
   * Added: Param Patcher->Tutorials Script->Pyromancy Flame cast everything
