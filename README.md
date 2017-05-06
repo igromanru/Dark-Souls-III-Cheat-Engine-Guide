@@ -21,6 +21,9 @@ http://www.cheatengine.org/
 * v1.0.5 - .05.2017
   * Added: Byte Array Converter (by igromanru)
   * Fixed: Helpers->Last Spell Highlighted->Bullet 3 Offset (by Rhino)
+  * Added: World Flags->Non-respawning enemies (by RBT)
+  * Added: World Flags->Doors and Shortcuts->Farron stuff (by RBT)
+  * Added: World Flags->Gestures->My thanks (by RBT)
 * <sub>for more see [changelog](changelog.md)</sub>
 
 ## Index
