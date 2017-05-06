@@ -26,11 +26,11 @@
   * Added: Session Info->World->Players count (by RBT)
   * Added: Max Reinforce Level (ban warning)
 * [v1.0.1.0 - 20.04.2017](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_v1.0.1.0.zip)
-  * Added: New idle animations (by Aerthas Veras)
-  * Added: Hotkey to reset idle animations (by Aerthas Veras)
-  * Moved: Address assist scripts into group (by Aerthas Veras)
-  * Reorganized: Weapon helper values (by Aerthas Veras)
-  * Renamed: Some values for better understanding (by Aerthas Veras)
+  * Added: New idle animations
+  * Added: Hotkey to reset idle animations
+  * Moved: Address assist scripts into group
+  * Reorganized: Weapon helper values
+  * Renamed: Some values for better understanding
 * [v1.0.0.0 - 19.04.2017](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_v1.0.0.0%20.zip)
   * Assigned a version to the table, it begins with v1.0.0.0.
   * Fixed: Noclip script, it will now be enabled on check.
@@ -39,8 +39,8 @@
 * [18.04.2017](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_18-04-2017.zip)
   * Added: few Hotkeys (see table Extras)
   * Added: Param Patcher->Tutorial scripts (by Aerthas Veras)
-  * Added: Param Patcher->Restrict Malicious Effects->Restrict "Malicious Effects"->Manual Control (by Aerthas Veras)
-  * Added: Movement and Animations->Idle Animation  (by Aerthas Veras)
+  * Added: Param Patcher->Restrict Malicious Effects->Restrict "Malicious Effects"->Manual Control
+  * Added: Movement and Animations->Idle Animation
   * Rearranged: Hero->Attributes (by Ace of Fours)
   * Removed: Assorted scripts
 * [14.04.2017](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_14-04-2017.zip)
