@@ -15,7 +15,7 @@ http://www.cheatengine.org/
 
 #### Public tables:  
 
-[latest table with fixes](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/9e9290ee0d836056f3c393d390bd6b50/DS3_Science-Souls_v1.0.4.zip)  
+[![Table](https://img.shields.io/badge/Table-latest-brightgreen.svg)]()
 <sub>[alternative mirror](https://mega.nz/#!TYcyVYCI!lqPNerpan9o62y7mqpQQJnTbxiwJ23ImfnrZWcI7ccU)</sub>  
 
 * v1.0.5 - .05.2017
