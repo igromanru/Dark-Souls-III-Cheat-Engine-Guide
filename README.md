@@ -17,8 +17,8 @@ http://www.cheatengine.org/
 <sub>[alternative mirror](https://mega.nz/#!TYcyVYCI!lqPNerpan9o62y7mqpQQJnTbxiwJ23ImfnrZWcI7ccU)</sub>  
 
 * v1.0.5 - .05.2017
-  * Added: Byte Array Converter
-  * Fixed: Helpers->Last Spell Highlighted->Bullet 3 Offset
+  * Added: Byte Array Converter (by igromanru)
+  * Fixed: Helpers->Last Spell Highlighted->Bullet 3 Offset (by Rhino)
 * <sub>for more see [changelog](changelog.md)</sub>
 
 ## Index
