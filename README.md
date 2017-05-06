@@ -17,7 +17,6 @@ http://www.cheatengine.org/
 
 [![Table](https://img.shields.io/badge/table-latest-brightgreen.svg)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/e703e94d76595e224d703cc9fc3af905/DS3_Reverse-Souls_v1.0.5.zip)  
 <sub>[alternative mirror](https://mega.nz/#!DNt1jDTR!5855ttwt1bITxKqI2aqzFp55r8bJbIu-DvsTyIrfYSU)</sub>  
-
 * v1.0.5 - 06.05.2017
   * Added: Byte Array Converter (by igromanru)
   * Fixed: Helpers->Last Spell Highlighted->Bullet 3 Offset (by Rhino)
@@ -168,16 +167,45 @@ Now on the [Item ID's](item-ids.md)-Side
 
 ## Credits
 
-CE Forum | Other                 | Science Souls        | OldSchoolHack
--------- | --------------------- | -------------------- | -------------------
-[Zanzer](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=352653) | [terenceyao](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1536) | Zatara | KN4CK3R
-Phokz | [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ringed_city_dlc_items_hex_id/) | Lance | SilverDeath
-[pox911](http://www.cheatengine.org/forum/profile.php?mode=viewprofile&u=184639) | [/u/Sharkbitch](https://www.reddit.com/user/Sharkbitch) | Malcolm Reynolds | Jeon
-[Matze500](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=324171) | [/r/opensouls3](https://www.reddit.com/r/opensouls3) | Autopilot |
-[mgr.inz.Player](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=177983) | [Kavez](https://github.com/Kavez) | Ace of Fours |
-[Cielos](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=107448) | [dec1337](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1810) | Thunder Dong |
-[jim2point0](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=333758) | [Birdulon](https://www.youtube.com/user/Birdulon) | Aerthas Veras |
-[RandomFromdrone](http://forum.cheatengine.org/posting.php?mode=quote&p=5665525) | | RBT |
-[ranonadg](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=446280) | | |
-[dezimous](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=445852) | | |
-[igromanru](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=381962) | [igromanru](https://www.reddit.com/user/igromanru/) | Igromanru#6748 | igromanru
+CE Forum | Reason                 
+-------- | ---------------------
+[Zanzer](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=352653) | [Base table](http://fearlessrevolution.com/viewtopic.php?f=4&t=205), helped Phokz a lot
+Phokz | The creator of the main table, has implemented the most stuff.
+[Turk (aka Pox911)](http://www.cheatengine.org/forum/profile.php?mode=viewprofile&u=184639) | Param Patcher, Access All Bonfires, Upgrade and Shop scripts, pointer to the world flags memory region / other stuff and general help with the table (LUA and stuff)
+[Zullie the Witch](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=324171) | SpStayControl (“Idle Animation”), “Slide”, “Backflip” / tones of other stuff and general help with the table.
+ArkTempest (Monarch) | Help with research
+Mephisto | For Vaccum scripts / other stuff
+[Cielos](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=107448) | Noclip, Disable auto follow cam, vertical cam look limit Mod
+[mgr.inz.Player](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=177983) | Item swap helper dialog, Item ID's etc.
+[Matze500](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=324171) | For “anti-AC script”
+[jim2point0](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=333758) | For “fov script”.
+Birdulon | For google spreadsheet with paramdef stuff
+LuceChrome | For “Lock Camera State” script
+[RandomFromdrone](http://forum.cheatengine.org/posting.php?mode=quote&p=5665525) | Video tutorials
+[ranonadg](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=446280) |
+[dezimous](http://forum.cheatengine.org/profile.php?mode=viewprofile&u=445852) |
+
+Reverse Souls | Reason               
+------------- | ---------------------
+Zatara |
+Malcolm Reynolds | knowledge
+Autopilot | knowledge, some fixes
+Ace of Fours | Reorganisation
+Thunder Dong | Tutorials
+Aerthas Veras | contributed and leaked stuff
+RBT | New World flags, Player counter
+
+OldSchoolHack | Reason               
+------------- | ---------------------
+KN4CK3R | Awesome tool ReClass.NET, Help with C#, ASM
+SilverDeath | Helpe CE, ASM, IDA Pro
+Jeon | Helpe CE, ASM, IDA Pro
+
+Other | Reason               
+------------- | ---------------------
+[terenceyao](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1536) | first fixed after the second DLC patch
+[/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ringed_city_dlc_items_hex_id/) | Ringed City Item ID's
+[/u/Sharkbitch](https://www.reddit.com/user/Sharkbitch) |
+[Kavez](https://github.com/Kavez) |
+[dec1337](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1810) | some fixed after the second DLC patch
+[Birdulon](https://www.youtube.com/user/Birdulon) |
