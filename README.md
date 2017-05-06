@@ -15,10 +15,10 @@ http://www.cheatengine.org/
 
 #### Public tables:  
 
-[![Table](https://img.shields.io/badge/table-latest-brightgreen.svg)]()  
-<sub>[alternative mirror](https://mega.nz/#!TYcyVYCI!lqPNerpan9o62y7mqpQQJnTbxiwJ23ImfnrZWcI7ccU)</sub>  
+[![Table](https://img.shields.io/badge/table-latest-brightgreen.svg)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/e703e94d76595e224d703cc9fc3af905/DS3_Reverse-Souls_v1.0.5.zip)  
+<sub>[alternative mirror](https://mega.nz/#!DNt1jDTR!5855ttwt1bITxKqI2aqzFp55r8bJbIu-DvsTyIrfYSU)</sub>  
 
-* v1.0.5 - .05.2017
+* v1.0.5 - 06.05.2017
   * Added: Byte Array Converter (by igromanru)
   * Fixed: Helpers->Last Spell Highlighted->Bullet 3 Offset (by Rhino)
   * Added: World Flags->Non-respawning enemies (by RBT)
