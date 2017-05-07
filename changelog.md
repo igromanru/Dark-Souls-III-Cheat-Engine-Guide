@@ -35,7 +35,7 @@
 * [v1.0.0.0 - 19.04.2017](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_v1.0.0.0%20.zip)
   * Assigned a version to the table, it begins with v1.0.0.0.
   * Fixed: Noclip script, it will now be enabled on check.
-  * Added: Updater Script (by Aerthas Veras)
+  * Added: Updater Script
   * Hotkeys: Unlimited iFrame is Alt+1 now
 * [18.04.2017](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_18-04-2017.zip)
   * Added: few Hotkeys (see table Extras)
