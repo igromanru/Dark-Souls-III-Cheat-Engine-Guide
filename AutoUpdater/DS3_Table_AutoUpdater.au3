@@ -2,8 +2,8 @@
 #AutoIt3Wrapper_Icon=igromanru.ico
 #AutoIt3Wrapper_UseUpx=y
 #AutoIt3Wrapper_Res_Description=Dark Souls 3 Table AutoUpdater ds3.igromanru.guide
-#AutoIt3Wrapper_Res_Fileversion=1.0.2.0
-#AutoIt3Wrapper_Res_ProductVersion=1.0.2.0
+#AutoIt3Wrapper_Res_Fileversion=1.0.1.0
+#AutoIt3Wrapper_Res_ProductVersion=1.0.1.0
 #AutoIt3Wrapper_Res_Field=HomePage|http://ds3.igromanru.guide/
 #AutoIt3Wrapper_Res_Field=ProductName|Dark Souls 3 Table AutoUpdater by Igromanru
 #AutoIt3Wrapper_Res_LegalCopyright=Copyright © 2017 Igromanru
