@@ -15,15 +15,19 @@ http://www.cheatengine.org/
 
 #### Public tables:  
 
-[![Table](https://img.shields.io/badge/table-latest-brightgreen.svg)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/e703e94d76595e224d703cc9fc3af905/DS3_Reverse-Souls_v1.0.5.zip)  
-<sub>[alternative mirror](https://mega.nz/#!DNt1jDTR!5855ttwt1bITxKqI2aqzFp55r8bJbIu-DvsTyIrfYSU)</sub>  
-* v1.0.5 - 06.05.2017
-  * Added: Scripts->Kill all mobs in the area (by /u/MajinCry)
-  * Added: Byte Array Converter (by igromanru)
-  * Fixed: Helpers->Last Spell Highlighted->Bullet 3 Offset (by Rhino)
-  * Added: World Flags->Non-respawning enemies (by RBT)
-  * Added: World Flags->Doors and Shortcuts->Farron stuff (by RBT)
-  * Added: World Flags->Gestures->My thanks (by RBT)
+[![Table](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/cf661b143f37d899acab0e07da98efef/DS3_Reverse-Souls_v1.0.6.zip)  
+<sub>[alternative mirror](https://mega.nz/#!qFljnazL!g3wskBZiPYzBKg5VJJM7VB5V2bgcCWVvqK6Rxp6BPeE)</sub>  
+* v1.0.6 - 14.05.2017
+  * Moved: Byte Array Converter to Open->Tools
+  * Added; Float to yte Array Converter (by igromanru)
+  * Added: Movement and Animations->Gestures->Gestures Pointer (by igromanru)
+  * Added: Wold Flags->Bosses->Demon Prince (by RBT)
+  * Added: Wold Flags->Non-respawning enemies->Minibosses more flags (by RBT)
+  * Added: Wold Flags->Non-respawning enemies->NPCs more flags (by RBT)
+  * Added: World Flags NPC's (by Pavuk)
+  * Fixed: Movement and Animations->Gestures->Gesture walk (by igromanru)
+  * Fixed: Access All Bonfires (by Phokz)
+  * Updated: few Tutorial scripts
 * <sub>for more see [changelog](changelog.md)</sub>
 
 ## Index
