@@ -15,7 +15,7 @@ http://www.cheatengine.org/
 
 #### Public tables:  
 
-[![Table](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/cf661b143f37d899acab0e07da98efef/DS3_Reverse-Souls_v1.0.6.zip)  
+[![Table](https://img.shields.io/badge/table-latest-brightgreen.svg)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/cf661b143f37d899acab0e07da98efef/DS3_Reverse-Souls_v1.0.6.zip)  
 <sub>[alternative mirror](https://mega.nz/#!qFljnazL!g3wskBZiPYzBKg5VJJM7VB5V2bgcCWVvqK6Rxp6BPeE)</sub>  
 * v1.0.6 - 14.05.2017
   * Moved: Byte Array Converter to Open->Tools
