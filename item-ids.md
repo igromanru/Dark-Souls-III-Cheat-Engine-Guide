@@ -4,12 +4,12 @@
 * [Item IDs](item-ids.md/#item-ids)
   * [Importent ID's Information!](item-ids.md/#importent-ids-information)
   * [Goods](item-ids.md/#goods-407) (407)
-  * [Weapons](item-ids.md/#weapons-2831) (2831)
+  * [Weapons](item-ids.md/#weapons-2830) (2830)
   * [Protector](item-ids.md/#protector-347)  (347)
   * [Accessory](item-ids.md/#accessory-171) (171)
   * [Magic](item-ids.md/#magic-101) (101)
     * [Sorcery](item-ids.md/#sorcery-34) (34)
-    * [Pyromancy](item-ids.md/#pyromancy-30) (30)
+    * [Pyromancy](item-ids.md/#pyromancy-29) (29)
     * [Miracle](item-ids.md/#miracle-37) (37)
 * [Ashes of Ariandel DLC](item-ids.md/#ashes-of-ariandel-dlc---items-ids)
   * [Goods](item-ids.md/#goods---ashes-of-ariandel-dlc-4) (4)
@@ -280,7 +280,7 @@ Id       | Name                                                | Note
 4000234B | Silent Ally  | Gestures can't be picked up!
 4000234C | Savage's Bow  | Gestures can't be picked up!
 
-### Weapons (2831)
+### Weapons (2830)
 
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
@@ -1888,7 +1888,6 @@ Id       | Name                                                | Note
 00B71C2C | Skilled Whip
 00B71C90 | Simple Whip
 00B71CF4 | Crystal Whip
-00B71D58 | Fire Whip
 00B71DBC | Chaos Whip
 00B71E20 | Lightning Whip
 00B71E84 | Deep Whip
@@ -3633,7 +3632,7 @@ Id       | Name                           | Note
 40193138 | Twisted Wall of Light
 401A8CE0 | Pestilent Mercury
 
-#### Pyromancy (30)
+#### Pyromancy (29)
 
 Id       | Name                                 | Note
 -------- | ------------------------------------ | --------------  
@@ -3641,7 +3640,6 @@ Id       | Name                                 | Note
 4024A6D0 | Fire Orb
 4024AAB8 | Firestorm
 4024B288 | Fire Surge
-4024B670 | Fire Whip
 4024BA58 | Black Serpent
 4024C610 | Combustion
 4024C9F8 | Great Combustion
