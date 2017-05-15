@@ -19,7 +19,7 @@ http://www.cheatengine.org/
 <sub>[alternative mirror](https://mega.nz/#!qFljnazL!g3wskBZiPYzBKg5VJJM7VB5V2bgcCWVvqK6Rxp6BPeE)</sub>  
 * v1.0.6 - 14.05.2017
   * Moved: Byte Array Converter to Open->Tools
-  * Added; Float to yte Array Converter (by igromanru)
+  * Added; Float to Byte Array Converter (by igromanru)
   * Added: Movement and Animations->Gestures->Gestures Pointer (by igromanru)
   * Added: Wold Flags->Bosses->Demon Prince (by RBT)
   * Added: Wold Flags->Non-respawning enemies->Minibosses more flags (by RBT)

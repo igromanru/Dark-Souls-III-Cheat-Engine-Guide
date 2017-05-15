@@ -2,7 +2,7 @@
 
 * [v1.0.6 - 14.05.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/cf661b143f37d899acab0e07da98efef/DS3_Reverse-Souls_v1.0.6.zip)
   * Moved: Byte Array Converter to Open->Tools
-  * Added; Float to yte Array Converter (by igromanru)
+  * Added; Float to Byte Array Converter (by igromanru)
   * Added: Movement and Animations->Gestures->Gestures Pointer (by igromanru)
   * Added: Wold Flags->Bosses->Demon Prince (by RBT)
   * Added: Wold Flags->Non-respawning enemies->Minibosses more flags (by RBT)
