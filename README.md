@@ -19,7 +19,7 @@ http://www.cheatengine.org/
 <sub>[alternative mirror](https://mega.nz/#!qFljnazL!g3wskBZiPYzBKg5VJJM7VB5V2bgcCWVvqK6Rxp6BPeE)</sub>  
 * v1.0.6 - 14.05.2017
   * Moved: Byte Array Converter to Open->Tools
-  * Added; Float to yte Array Converter (by igromanru)
+  * Added; Float to Byte Array Converter (by igromanru)
   * Added: Movement and Animations->Gestures->Gestures Pointer (by igromanru)
   * Added: Wold Flags->Bosses->Demon Prince (by RBT)
   * Added: Wold Flags->Non-respawning enemies->Minibosses more flags (by RBT)
@@ -38,7 +38,6 @@ http://www.cheatengine.org/
   * [How to rid of the INVALID GAME DATA message](#how-to-rid-of-the-invalid-game-data-message)
   * [Soft-ban](#soft-ban)
   * [What does and does not get you banned](#what-does-and-does-not-get-you-banned)
-  * [Save game transfer](#save-game-transfer)
   * [Cheat Engine debugger crashing the game](#cheat-engine-debugger-crashing-the-game)
   * [Offline mode](#offline-mode)
   * [VAC - Valve Anti Cheat](#vac---valve-anti-cheat)
@@ -93,21 +92,6 @@ If you are soft-banned you will see the [\[CAUTION\] YOU HAVE BEEN PENALIZED](#m
 #### What does and does not get you banned
 Thnaks to the reddit user [/u/Sharkbitch](https://www.reddit.com/user/Sharkbitch), who has collected Softban data from last year and made a compilation of it:  
 [Softban Data and Testing](https://www.reddit.com/r/opensouls3/comments/5gc9cb/softban_data_and_testing/)
-
-#### Save game transfer
-
-If you got a softban, it's possible to transfer you save game to another account.  
-1. Go to C:\Users\\(user name)\\AppData\Roaming\DarkSoulsIII, there will be a folder with hex code as name.  
-2. Make a backup of the folder or notice the name.  
-3. Go to your new account and start a new game.  
-4. Create a character and spawn.  
-5. Quit back to main menu.  
-6. Opne the "Load" menu. Where you can see you created character.  
-7. Use alt+tab to left the game window.  
-8. Now there will be a new folder.  
-9. Copy your old save file (DS30000.sl2) to the new folder and replace.  
-10. Now go back to you Dark Souls 3 window and load your new character.  It's will be your old one from your old save.  
-**But remember! The stuff you were banned for, could still be in your save game!**
 
 #### Cheat Engine debugger crashing the game
 
