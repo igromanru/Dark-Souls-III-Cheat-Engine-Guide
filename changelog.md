@@ -1,5 +1,7 @@
 ### Changelog
 
+* v1.0.7 - .05.2017
+  *
 * [v1.0.6 - 14.05.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/cf661b143f37d899acab0e07da98efef/DS3_Reverse-Souls_v1.0.6.zip)
   * Moved: Byte Array Converter to Open->Tools
   * Added; Float to Byte Array Converter (by igromanru)
