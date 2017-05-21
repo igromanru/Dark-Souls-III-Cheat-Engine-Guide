@@ -45,7 +45,7 @@ http://www.cheatengine.org/
 >[CAUTION] INVALID GAME DATA HAS BEEN DETECTED  
 Invalid game data has been detected on your account. The use of invalid data during gameplay is a violation of the online service end user license agreement. You will be penalized if you continue playing with invalid data. Please take this opportunity to remove the invalid data from your system/account and discontinue further use.
 
-This message means that something was detected on your account as a cheat. It could be something with the save game or something while the run time.
+Every Tuesday FromSoftware scanning save games on their server. If they detect something "weird" in your last uploaded save game, you will be flagged with this message.
 
 In case you want to play safe online after you've received the message, there are two recommended methods.  
 1. Make a family share account and play there.
@@ -60,7 +60,10 @@ There is an official post from BANDAI NAMCO:
 >[CAUTION] YOU HAVE BEEN PENALIZED
 Invalid game data still remains present on your account; as such your account has now been penalized to restrict your online experience. The use of invalid data during gameplay is a violation of the online service end user license agreement.
 
-It's the message for softban. To avoid get banned after the INVALID GAME DATA message, follow steps of the next point (How to rid of the INVALID GAME DATA message).
+It's the message for the softban. If you haven't fixed your INVALID GAME DATA message until the next scan or used something that gets you instant banned, you will received this message and will be softbanned.
+A Softban means, that your account will be connected only to the server with other softbanned people.
+
+To avoid get banned after the INVALID GAME DATA message, follow steps of the next point (How to rid of the INVALID GAME DATA message).
 
 #### How to rid of the INVALID GAME DATA message
 
@@ -69,16 +72,16 @@ If you have received the [\[CAUTION\] INVALID GAME DATA HAS BEEN DETECTED](#mess
 1. Delete all your characters, because you can't get sure which Character was detected as "invalid".  
 2. Start a new Character and play with him online, at least once. (This will overwrite your save game on the server, so if they will scan your save game again, your save game will be clean)  
 3. Don't use Cheat Engine or any sort of hacks with this account anymore! (You can test cheats on other accounts with family share, if you want)  
-4. After some time (was about few months for me) the message should be gone.  
+4. After some time (about 4 weeks) the message should be gone.  
 
+In this time you can just play on a family share account.
 
-**Attention!** I don't know what will happen, if you will start to cheat again. Maybe you will get the INVALID DATA again or maybe you will be instantly penalized.  
 
 #### Soft-ban
 
-It's looks like the soft-ban in DS3 is very similar to DS2.  
-At the moment the most players were banned for the [\[CAUTION\] INVALID GAME DATA HAS BEEN DETECTED](#message-caution-invalid-game-data-has-been-detected) message.  
+It's looks like the soft-ban in DS3 is very similar to DS2.    
 If you are soft-banned you will see the [\[CAUTION\] YOU HAVE BEEN PENALIZED](#message-caution-you-have-been-penalized) message.
+A Softban means, that your account will be connected only to the server with other softbanned people.
 
 #### What does and does not get you banned
 Thnaks to the reddit user [/u/Sharkbitch](https://www.reddit.com/user/Sharkbitch), who has collected Softban data from last year and made a compilation of it:  
