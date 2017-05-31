@@ -17,7 +17,7 @@ http://www.cheatengine.org/
 
 [![Table](https://img.shields.io/badge/table-latest-brightgreen.svg)]()  
 <sub>[alternative mirror]()</sub>  
-* v1.0.7 - .05.2017
+* v1.0.7 - .06.2017
   *
 * <sub>for more see [changelog](changelog.md)</sub>
 
@@ -170,12 +170,10 @@ LuceChrome | For “Lock Camera State” script
 
 Reverse Souls | Reason               
 ------------- | ---------------------
-Zatara |
 Malcolm Reynolds | knowledge
 Autopilot | knowledge, some fixes
-Ace of Fours | Reorganisation
 Thunder Dong | Tutorials
-Aerthas Veras | contributed and leaked stuff
+Aerthas Veras | contributed
 RBT | New World flags, Player counter
 
 OldSchoolHack | Reason               
