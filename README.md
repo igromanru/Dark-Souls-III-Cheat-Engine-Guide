@@ -15,10 +15,22 @@ http://www.cheatengine.org/
 
 #### Public tables:  
 
-[![Table](https://img.shields.io/badge/table-latest-brightgreen.svg)]()  
-<sub>[alternative mirror]()</sub>  
-* v1.0.7 - .06.2017
-  *
+[![Table](https://img.shields.io/badge/table-latest-brightgreen.svg)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/c96ce6025c684328ec0dc69a5936c07b/DS3_Reverse-Souls_v1.0.7.zip)  
+<sub>[alternative mirror](https://mega.nz/#!7BkwRLaJ!Aa9Qe4FEMmqHeTGosLdyNJwS8wDAtEJsvUzlj6kgFzk)</sub>  
+* v1.0.7 - 01.06.2017
+  * Added: Disable Backread Toggle, Toggle Draw and No update offset update (provided by Monarch)
+  * Added: Hero->Character Equipment->Primary Arrows (by RBT)
+  * Improvement: Free cam, Omnission mode fixed (by Phokz)
+  * Fixed: uncaterocized in debug stuff (by Phokz)
+  * Added: FPS boost to camera scripts for players (by Phokz)
+  * Upgraded: Helpers to Phokz latest Helpers
+  * Added: Helpers->Entity Control Helper (by Phokz)
+  * Added: Statistics->Increase LockOn Range from Phokz table
+  * Replaced: ForefrontTheX's gestrue walk with original from Phokz/Zullie
+  * Added: More Param Patcher Tutorial scripts
+  * Added: Session Info->Current Online Session->Add All Phantoms to the Black Separation Crystal (by igromanru)
+  * Added: Param Patcher->All IDs patching->... (by igromanru)
+  * Added: ReadParamIdTable function to Param Patcher (by igromanru)
 * <sub>for more see [changelog](changelog.md)</sub>
 
 ## Index
