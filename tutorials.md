@@ -5,6 +5,7 @@
   * [Weapon upgrades and infusions represented through ID](tutorials.md/#weapon-upgrades-and-infusions-represented-through-id)
   * [How to spawn/swap items](tutorials.md/#how-to-spawnswap-items)
   * [How to create Param Patcher scripts](tutorials.md/#how-to-create-param-patcher-scripts)
+  * [How to protect yourself against other hackers]()
 
 
 #### Weapon upgrades and infusions represented through ID
@@ -46,3 +47,5 @@ I have made a [video](https://youtu.be/Gt4HDw_grmU) for this.
 
 Here is a video how to create your own Pram patching scripts by Thunder Dong (Science Souls).  
 [Thank you Thunder Dong](https://youtu.be/WWeq7Ibex-E) (YouTube link)
+
+#### How to protect yourself against other hackers

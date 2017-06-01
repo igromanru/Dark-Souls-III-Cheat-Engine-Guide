@@ -1,5 +1,19 @@
 ### Changelog
 
+* [v1.0.7 - 01.06.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/c96ce6025c684328ec0dc69a5936c07b/DS3_Reverse-Souls_v1.0.7.zip)
+  * Added: Disable Backread Toggle, Toggle Draw and No update offset update (provided by Monarch)
+  * Added: Hero->Character Equipment->Primary Arrows (by RBT)
+  * Improvement: Free cam, Omnission mode fixed (by Phokz)
+  * Fixed: uncaterocized in debug stuff (by Phokz)
+  * Added: FPS boost to camera scripts for players (by Phokz)
+  * Upgraded: Helpers to Phokz latest Helpers
+  * Added: Helpers->Entity Control Helper (by Phokz)
+  * Added: Statistics->Increase LockOn Range from Phokz table
+  * Replaced: ForefrontTheX's gestrue walk with original from Phokz/Zullie
+  * Added: More Param Patcher Tutorial scripts
+  * Added: Session Info->Current Online Session->Add All Phantoms to the Black Separation Crystal (by igromanru)
+  * Added: Param Patcher->All IDs patching->... (by igromanru)
+  * Added: ReadParamIdTable function to Param Patcher (by igromanru)
 * [v1.0.6 - 14.05.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/cf661b143f37d899acab0e07da98efef/DS3_Reverse-Souls_v1.0.6.zip)
   * Moved: Byte Array Converter to Open->Tools
   * Added; Float to Byte Array Converter (by igromanru)
