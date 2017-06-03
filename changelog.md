@@ -1,5 +1,9 @@
 ### Changelog
 
+* [v1.0.8 - 03.06.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/e26069942da2a989be03cca1c31577ee/DS3_Reverse-Souls_v1.0.8.zip)
+  * Fixed: pointer from Enable ChrAsm. (by Monarch)
+  * Fixed: Effect Helper CycleOccurence and AtkOccurence offsets.
+  * Reorganized: Moved some helpers offsets into headers.
 * [v1.0.7 - 01.06.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/c96ce6025c684328ec0dc69a5936c07b/DS3_Reverse-Souls_v1.0.7.zip)
   * Added: Disable Backread Toggle, Toggle Draw and No update offset update (provided by Monarch)
   * Added: Hero->Character Equipment->Primary Arrows (by RBT)
