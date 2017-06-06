@@ -15,17 +15,10 @@ http://www.cheatengine.org/
 
 #### Public tables:  
 
-[![Table](https://img.shields.io/badge/table-latest-brightgreen.svg)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/4610b7453bce567f65809c6e632f6f5e/DS3_Reverse-Souls_v1.0.9.zip)  
-<sub>[alternative mirror](https://mega.nz/#!HBdhnJiD!twJ29S-jraTneTYXI9NET7g2zZt0-h_hcsfcYt38svU)</sub>  
-* v1.0.9 - 05.06.2017
-  * Upgraded and Fixed: DropdownAdder and DropdownRemover (by Igromanru)
-  * Replaced: Item Swap->Dropdown with Dropdown adder.
-  * Removed: Custom Type "Item ID Rounder"/"Weapon ID Rounder"
-  * Added: Param Patcher Initializer->All IDs patching->All bullets gives Bonfire & Budding Green Moss on Hit
-  * Update: IgroWidgets
-  * Added: Dropdown to Hero->Equipped Spells->(all) (by Igromanru)
-  * Added: Dropdown to Hero->Character Equipment->(all) (by Igromanru)
-  * Added: Custom Types for Armor, Rings, Goods and Spells (by Igromanru)
+[![Table](https://img.shields.io/badge/table-latest-brightgreen.svg)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/59e5e5b14b846128fb55124d29bbbec9/DS3_Reverse-Souls_v1.0.10.zip)  
+<sub>[alternative mirror](https://mega.nz/#!yBVW1KhI!tjYdvavC9Q8Exju7d6gliwdjthJiVo9p_ZLkIeEmFHI)</sub>  
+* v1.0.10 - 06.06.2017
+  * Fixed: Offsets in new Helpers headers
 * <sub>for more see [changelog](changelog.md)</sub>
 
 ## Index
