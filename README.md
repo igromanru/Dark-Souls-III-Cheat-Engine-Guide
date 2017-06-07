@@ -175,6 +175,8 @@ Autopilot | knowledge, some fixes
 Thunder Dong | Tutorials
 Aerthas Veras | contributed
 RBT | New World flags, Player counter
+Ainsley Harriott | Param Dumps and Offsets, spreadsheet contribution
+Pavuk | spreadsheet contribution, some other stuff
 
 OldSchoolHack | Reason               
 ------------- | ---------------------
