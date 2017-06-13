@@ -23,7 +23,7 @@ http://www.cheatengine.org/
   * Added: Perserverence Warmth script
   * Added: BehaviorParam_PC (by PhokZ)
   * Added: SwordArtsParam (by PhokZ)
-  * Added: patchAllSwordArts function too ParamPatcherUtils.
+  * Added: patchAllSwordArts function to ParamPatcherUtils.
 * <sub>for more see [changelog](changelog.md)</sub>
 
 ## Index
