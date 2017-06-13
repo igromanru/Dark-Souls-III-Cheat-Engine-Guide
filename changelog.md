@@ -6,7 +6,7 @@
   * Added: Perserverence Warmth script
   * Added: BehaviorParam_PC (by PhokZ)
   * Added: SwordArtsParam (by PhokZ)
-  * Added: patchAllSwordArts function too ParamPatcherUtils.
+  * Added: patchAllSwordArts function to ParamPatcherUtils.
 * [v1.0.10 - 06.06.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/59e5e5b14b846128fb55124d29bbbec9/DS3_Reverse-Souls_v1.0.10.zip)
   * Fixed: Offsets in new Helpers headers
 * [v1.0.9 - 05.06.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/4610b7453bce567f65809c6e632f6f5e/DS3_Reverse-Souls_v1.0.9.zip)
