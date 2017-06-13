@@ -15,10 +15,15 @@ http://www.cheatengine.org/
 
 #### Public tables:  
 
-[![Table](https://img.shields.io/badge/table-latest-brightgreen.svg)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/59e5e5b14b846128fb55124d29bbbec9/DS3_Reverse-Souls_v1.0.10.zip)  
-<sub>[alternative mirror](https://mega.nz/#!yBVW1KhI!tjYdvavC9Q8Exju7d6gliwdjthJiVo9p_ZLkIeEmFHI)</sub>  
-* v1.0.10 - 06.06.2017
-  * Fixed: Offsets in new Helpers headers
+[![Table](https://img.shields.io/badge/table-latest-brightgreen.svg)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/d7421a9c538f91ced982dbe56a269f4c/DS3_Reverse-Souls_v1.0.11.zip)  
+<sub>[alternative mirror](https://mega.nz/#!rM0niILC!hrd5arJHtkVWJIov-youUSTbGH1rbaWMuu5wVXbJ_a8)</sub>  
+* v1.0.11 - 13.06.2017
+  * Changed: Last Weapon Highlighted->spAtkcategory to 2 byte
+  * Added: Helpers->Effect Helper->Offsets: frostPattackPower, darkDamageCutRate, darkDifferenceRate, darkAttackPower, registFrostChange (thanks to Ainsley Harriott)
+  * Added: Perserverence Warmth script
+  * Added: BehaviorParam_PC (by PhokZ)
+  * Added: SwordArtsParam (by PhokZ)
+  * Added: patchAllSwordArts function too ParamPatcherUtils.
 * <sub>for more see [changelog](changelog.md)</sub>
 
 ## Index
@@ -175,6 +180,8 @@ Autopilot | knowledge, some fixes
 Thunder Dong | Tutorials
 Aerthas Veras | contributed
 RBT | New World flags, Player counter
+Ainsley Harriott | Param Dumps and Offsets, spreadsheet contribution
+Pavuk | spreadsheet contribution, some other stuff
 
 OldSchoolHack | Reason               
 ------------- | ---------------------

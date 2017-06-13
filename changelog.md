@@ -1,5 +1,12 @@
 ### Changelog
 
+* [v1.0.11 - 13.06.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/d7421a9c538f91ced982dbe56a269f4c/DS3_Reverse-Souls_v1.0.11.zip)
+  * Changed: Last Weapon Highlighted->spAtkcategory to 2 byte
+  * Added: Helpers->Effect Helper->Offsets: frostPattackPower, darkDamageCutRate, darkDifferenceRate, darkAttackPower, registFrostChange (thanks to Ainsley Harriott)
+  * Added: Perserverence Warmth script
+  * Added: BehaviorParam_PC (by PhokZ)
+  * Added: SwordArtsParam (by PhokZ)
+  * Added: patchAllSwordArts function too ParamPatcherUtils.
 * [v1.0.10 - 06.06.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/59e5e5b14b846128fb55124d29bbbec9/DS3_Reverse-Souls_v1.0.10.zip)
   * Fixed: Offsets in new Helpers headers
 * [v1.0.9 - 05.06.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/4610b7453bce567f65809c6e632f6f5e/DS3_Reverse-Souls_v1.0.9.zip)
