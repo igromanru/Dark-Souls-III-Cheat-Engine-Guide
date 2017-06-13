@@ -1,4 +1,4 @@
-## Hello! In this guide, we'll be going over the basic steps to using Memory Viewer properly within Dark Souls 3. 
+## Hello! In this guide, we'll be going over the basic steps for using Memory Viewer to find addresses within Dark Souls 3. 
 
 
 The first step to using Memory Viewer will be to open "Find Bullet / Effect / Goods / Attack Address" and you can do this by clicking the box next to it. This will activate the script, allowing you to use it.
@@ -6,12 +6,7 @@ The first step to using Memory Viewer will be to open "Find Bullet / Effect / Go
 > This is what you will be using to find Bullet addresses, Effect Addresses, etc. and this, is what it should look like; 
 ![This is what it should look like.](http://i.imgur.com/A32rZww.png)
 
-Now before you do anything regarding Memory Viewer, tick the box that says "Switch to VEH debugger." Otherwise Dark Souls 3 or Cheat Engine may crash. 
-
-Once you have that box ticked, go to whatever you'd like to find (Bullet, Effect, Goods, or Attack) and tick the box next to it. This will lock in what you'd like to find.
-
-> What you have now should look like this;
-![Stupid Text doesn't even show up](http://i.imgur.com/TBxGt1Y.png)
+Now before you do anything regarding Memory Viewer, tick the box that says "Switch to VEH debugger." Otherwise Dark Souls 3 or Cheat Engine may crash. You can also use VEH debugger by default by going into Cheat Engine settings. This will eliminate the need to tick the box next to VEH debugger.
 
 And congratulations, you're now ready to use Memory Viewer. To do so, click the button that says "Memory View" above the table. This is a base part of Cheat Engine, and _incredibly_ useful. 
 ![Memry Veewurr](http://i.imgur.com/MJcxVor.png)
@@ -32,6 +27,6 @@ In our case, simply fire a bullet, like Warmth. This will give you an address;
 
 Now, right click on the address and select "Copy Address to clipboard" This will, obviously, copy the address so you can paste it into a helper, but Helpers, for now, are another thing.
 
-And congratulations, you have successfully used Memory Viewer within Dark Souls 3. 
+And congratulations, you have successfully used Memory Viewer to find addresses within Dark Souls 3. 
 ----
 As a closing statement, please remember _addresses are not static. They are dynamic._ Meaning they will be different with each game restart, so you'll need to find them again for any other edits you wish to make.
