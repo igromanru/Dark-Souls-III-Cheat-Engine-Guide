@@ -41,6 +41,7 @@ http://www.cheatengine.org/
   * [Weapon upgrades and infusions represented through ID](tutorials.md/#weapon-upgrades-and-infusions-represented-through-id)
   * [How to spawn/swap items](tutorials.md/#how-to-spawnswap-items)
   * [How to create Param Patcher scripts](tutorials.md/#how-to-create-param-patcher-scripts)
+  * [How to find Bullet, Effect, Goods or Attack addresses with the Memory Viewer](tutorials.md/)
 * [Item IDs](item-ids.md/#item-ids)
 * [Credits](#credits)
 
@@ -182,6 +183,7 @@ Aerthas Veras | contributed
 RBT | New World flags, Player counter
 Ainsley Harriott | Param Dumps and Offsets, spreadsheet contribution
 Pavuk | spreadsheet contribution, some other stuff
+Loki | Tutorials, Param Patcher scripts
 
 OldSchoolHack | Reason               
 ------------- | ---------------------
