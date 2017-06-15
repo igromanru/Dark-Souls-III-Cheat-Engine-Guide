@@ -42,7 +42,7 @@ http://www.cheatengine.org/
   * [How to spawn/swap items](tutorials.md/#how-to-spawnswap-items)
   * [How to create Param Patcher scripts](tutorials.md/#how-to-create-param-patcher-scripts)
   * [How to find Bullet, Effect, Goods or Attack addresses with the Memory Viewer](tutorials.md/)
-* [Item IDs](item-ids.md/#item-ids)
+* [Item IDs](sites/item-ids.md/#item-ids)
 * [Credits](#credits)
 
 ## FAQ
@@ -152,7 +152,7 @@ Here is a video how to create your own Pram patching scripts by Thunder Dong (Sc
 
 ## Item IDs
 
-Now on the [Item ID's](item-ids.md)-Side
+Now on the [Item ID's](sites/item-ids.md)-Side
 
 ## Credits
 
