@@ -5,7 +5,7 @@
   * [Weapon upgrades and infusions represented through ID](tutorials.md/#weapon-upgrades-and-infusions-represented-through-id)
   * [How to spawn/swap items](tutorials.md/#how-to-spawnswap-items)
   * [How to create Param Patcher scripts](tutorials.md/#how-to-create-param-patcher-scripts)
-  * [How to protect yourself against other hackers]()
+  * [How to find Bullet, Effect, Goods or Attack addresses with the Memory Viewer](sites/tutorials.md#how-to-find-bullet-effect-goods-or-attack-addresses-with-the-memory-viewer)
 
 
 #### Weapon upgrades and infusions represented through ID
@@ -49,4 +49,4 @@ Here is a video how to create your own Pram patching scripts by Thunder Dong (Sc
 [Thank you Thunder Dong](https://youtu.be/WWeq7Ibex-E) (YouTube link)
 
 #### How to find Bullet, Effect, Goods or Attack addresses with the Memory Viewer
-[Thanks Loki for the guide.]()(Link)
+[Thanks Loki for the guide.](find-addresses.md)(Link)
