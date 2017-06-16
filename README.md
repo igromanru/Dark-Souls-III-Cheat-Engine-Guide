@@ -10,7 +10,7 @@ Table contributors are welcome in our [Reverse Souls](https://discord.io/reverse
 [![Discord](https://img.shields.io/badge/Discord-Reverse%20Souls-blue.png)](https://discord.io/reversesouls)
 
 ## General
-### [Cheat Engine](#cheat-engine)
+### Cheat Engine
 We recommended you to use [Cheat Engine 6.6](https://github.com/cheat-engine/cheat-engine/releases/tag/6.6) for now.
 
 #### Public tables:  
