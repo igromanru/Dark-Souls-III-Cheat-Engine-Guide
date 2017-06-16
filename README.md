@@ -11,7 +11,7 @@ Table contributors are welcome in our [Reverse Souls](https://discord.io/reverse
 
 ## General
 ### [Cheat Engine](#cheat-engine)
-We recommended you to use [Cheat Engine 6.6](https://github.com/cheat-engine/cheat-engine/releases/tag/6.6) for now.
+We recommend you to use [Cheat Engine 6.6](https://github.com/cheat-engine/cheat-engine/releases/tag/6.6) for now.
 
 #### Public tables:  
 
