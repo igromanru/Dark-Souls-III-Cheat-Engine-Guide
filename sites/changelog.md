@@ -63,65 +63,65 @@
   * Added: Param Patcher Initializer->Restrict Malicious Effects->Restrict All Malicious Effects (by igromanru)
   * Hotkeys: Set Alt+1 also for Restrict All Malicious Effects
   * Added: 41-44 and 48-54 Offsets names in Last Spell Highlighted (by Rhino)
-* [v1.0.3 - 26.04.2017](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_v1.0.3.zip)
+* [v1.0.3 - 26.04.2017](https://mega.nz/#!DYdFHbya!saVVcHXv2hoUjq_wHoFRSnzD0FBD9YZ4Meq7E-E85Tw)
   * Added: DLC Bonfire Flags (by Aerthas Veras)
   * Added: Movement and Animations->Gesture walk (by igromanru)
   * Added: Movement and Animations->Animation Cancel  (by Autopilot)
-* [v1.0.2.0 - 23.04.2017](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_v1.0.2.0.zip)
+* [v1.0.2.0 - 23.04.2017](https://mega.nz/#!XRsw2BYR!8tOcLa8-BuGzW51lHgB2_C_svDf6UrDYmt9g62FPd-Y)
   * Added: Helpers->Targeted Entity Info->Model ID (by Zullie the Witch)
   * Added: Helpers->Last Hit Entity Info->Model ID (by Zullie the Witch)
   * Added: Scripts->Unlock summoning limit (by igromanru)
   * Added: Session Info->World->Players count (by RBT)
   * Added: Max Reinforce Level (ban warning)
-* [v1.0.1.0 - 20.04.2017](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_v1.0.1.0.zip)
+* [v1.0.1.0 - 20.04.2017](https://mega.nz/#!PFk1kbaD!gO5Njjl8JEDW0da4ZoaYZVHQ97vyh5mC6kfUMu7XUbw)
   * Added: New idle animations
   * Added: Hotkey to reset idle animations
   * Moved: Address assist scripts into group
   * Reorganized: Weapon helper values
   * Renamed: Some values for better understanding
-* [v1.0.0.0 - 19.04.2017](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_v1.0.0.0%20.zip)
+* [v1.0.0.0 - 19.04.2017](https://mega.nz/#!fUkTXJyY!ZG45UAjklUXHHAdD-22qyKDmaxj_PTcQjRwATeLrULQ)
   * Assigned a version to the table, it begins with v1.0.0.0.
   * Fixed: Noclip script, it will now be enabled on check.
   * Added: Updater Script
   * Hotkeys: Unlimited iFrame is Alt+1 now
-* [18.04.2017](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_18-04-2017.zip)
+* [18.04.2017](https://mega.nz/#!mB1RlbQD!nRBEfo0iACZG7Pfs-aHReMIfC_3Rj73-ThcSCOy_PbI)
   * Added: few Hotkeys (see table Extras)
   * Added: Param Patcher->Tutorial scripts (by Aerthas Veras)
   * Added: Param Patcher->Restrict Malicious Effects->Restrict "Malicious Effects"->Manual Control
   * Added: Movement and Animations->Idle Animation
   * Rearranged: Hero->Attributes (by Ace of Fours)
   * Removed: Assorted scripts
-* [14.04.2017](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_14-04-2017.zip)
+* [14.04.2017](https://mega.nz/#!TZUkha6J!A5IkEQMTw2vmhQu6xLTLeG5md4eBzZzU5kOGoTxdvQ8)
   * Fixed script syntax: Access All Bonfires (sorry my bad)
-* [13.04.2017 second release](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_13-04-2017_2.zip)
+* [13.04.2017 second release](https://mega.nz/#!Xct2hTba!giX6TfKbYDbkvMUXdzZbx38rI24BcHfXogCHQKQpg4M)
   * Fixed: Access All Bonfires (by Autopilot)
   * Fixed: No Durability Damage (by Autopilot)
-* [13.04.2017](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_13-04-2017.zip)
+* [13.04.2017](https://mega.nz/#!nI9klQKI!yjymWUHRKV7wPjZJsRjpgZsWYNOSaVBSW2fGAkLHyDY)
   * Fixed: No Goods Consume (by Autopilot)
   * Fixed: Param Patcher Initializer (by igromanru)
   * Still broken: No Durability Damage
-* [12.04.2017](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_12-04-2017.zip)
+* [12.04.2017](https://mega.nz/#!LA9wlTiK!YAqdxwtoSfZWMn5tc40n0gZoFuq9g9RQWaUqdGJlvig)
   * Fixed: mislabeled ring IDs (by Lance)
   * Fixed: Last Weapon Highlighted with correct addresses (by Lance)
   * Changed: some descriptions (by Lance)
-* [09.04.2017 second release](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_09-04-2017_2.zip)
+* 09.04.2017 second release
   * Fixed: Recently Played With (by terenceyao)
   * Fixed crash: No Durability Damage (by igromanru)
   * Added: Spears of the Church covenants to Session Info (by igromanru)  
-* [09.04.2017](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_09-04-2017.zip)
+* 09.04.2017
   * Fixed: Last Hit Entity Info (by igromanru)
   * Fixed: Targeted Entity Info crash on uncheck (by igromanru)
   * Still need a fix: No Durability Damage
-* [08.04.2017 third release](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_08-04-2017_3.zip)
+* 08.04.2017 third release
   * Reorganized the table (by Ace of Fours)
   * Added: new boss flags (by Ace of Fours)
   * Added: Last 5 Bullets Fired (by Science Souls Discord)    
-* [08.04.2017 second release](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_08.04.2017_2.zip)
+* 08.04.2017 second release
   * Fixed: Targeted Entity Info (by Autopilot & igromanru)
-* [08.04.2017:](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_08-04-2017.zip)
+* 08.04.2017:
   * Fixed: Invasion Type (by Malcolm Reynolds)
   * cause crash after a while: No Durability Damage
-* [07.04.2017:](https://bitbucket.org/igromanru/dark-souls-iii-tables/downloads/DS3_Science-Souls_07-04-2017.zip)
+* 07.04.2017:
   * Fixed: Param Patcher (by igromanru)  
 * 04.04.2017:  
   * Added: Line of Sight LockOn Deactivate Time (Hero>Statistics) (by dec1337)
