@@ -14,15 +14,10 @@ We recommend you to use [Cheat Engine 6.6](https://github.com/cheat-engine/cheat
 
 #### Public tables:  
 
-[![Table](https://img.shields.io/badge/table-latest-brightgreen.svg)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/d7421a9c538f91ced982dbe56a269f4c/DS3_Reverse-Souls_v1.0.11.zip)  
-<sub>[alternative mirror](https://mega.nz/#!rM0niILC!hrd5arJHtkVWJIov-youUSTbGH1rbaWMuu5wVXbJ_a8)</sub>  
-* v1.0.11 - 13.06.2017
-  * Changed: Last Weapon Highlighted->spAtkcategory to 2 byte
-  * Added: Helpers->Effect Helper->Offsets: frostPattackPower, darkDamageCutRate, darkDifferenceRate, darkAttackPower, registFrostChange (thanks to Ainsley Harriott)
-  * Added: Perserverence Warmth script
-  * Added: BehaviorParam_PC (by PhokZ)
-  * Added: SwordArtsParam (by PhokZ)
-  * Added: patchAllSwordArts function to ParamPatcherUtils.
+[![Table](https://img.shields.io/badge/table-latest-brightgreen.svg)]()  
+<sub>[alternative mirror]()</sub>  
+* v1.1.0 - .06.2017
+  *
 * <sub>for more see [changelog](sites/changelog.md)</sub>
 
 ## Index

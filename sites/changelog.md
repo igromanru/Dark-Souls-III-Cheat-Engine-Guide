@@ -1,5 +1,7 @@
 ### Changelog
 
+* [v1.1.0 - .06.2017]()
+  *
 * [v1.0.11 - 13.06.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/d7421a9c538f91ced982dbe56a269f4c/DS3_Reverse-Souls_v1.0.11.zip)
   * Changed: Last Weapon Highlighted->spAtkcategory to 2 byte
   * Added: Helpers->Effect Helper->Offsets: frostPattackPower, darkDamageCutRate, darkDifferenceRate, darkAttackPower, registFrostChange (thanks to Ainsley Harriott)
