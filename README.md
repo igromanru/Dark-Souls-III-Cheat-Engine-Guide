@@ -1,8 +1,7 @@
 # Dark Souls III Cheat Engine Guide
 
-
 ## Introduction
-This document was inspired by [Dark Souls II and Scholar of the First Sin Cheat Engine Guide](https://gist.github.com/Atvaark
+This document was inspired by [Dark Souls II and Scholar of the First Sin Cheat Engine Guide](https://gist.github.com/Atvaark/f308e1d8e00e07106452) from [Atvaark](https://github.com/Atvaark).
 
 ## General
 ### Cheat Engine
