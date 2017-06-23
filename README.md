@@ -2,11 +2,7 @@
 
 
 ## Introduction
-This document was inspired by [Dark Souls II and Scholar of the First Sin Cheat Engine Guide](https://gist.github.com/Atvaark/f308e1d8e00e07106452) from [Atvaark](https://github.com/Atvaark).  
-
-Table and guide contributors are welcome in our [Reverse Souls](https://discord.io/reversesouls) Discord server.
-
-[![Discord](https://img.shields.io/badge/Discord-Reverse%20Souls-blue.png)](https://discord.io/reversesouls)
+This document was inspired by [Dark Souls II and Scholar of the First Sin Cheat Engine Guide](https://gist.github.com/Atvaark
 
 ## General
 ### Cheat Engine
