@@ -13,8 +13,22 @@ We recommend you to use [Cheat Engine 6.6](https://github.com/cheat-engine/cheat
 
 [![Table](https://img.shields.io/badge/table-latest-brightgreen.svg)]()  
 <sub>[alternative mirror]()</sub>  
-* v1.1.0 - .06.2017
-  *
+* v1.1.0 - XX.06.2017
+  * Reorganisation: Moved related features under proper headers
+  * Fixed: Custom Types: Armor ID, Ring ID and Spell and Goods ID
+  * Named: WeaponArtIf offset in the SwordArtsParam
+  * Improved: Hero->Movement and Animations->Gestures->Gesture walk script, now works as expected (by Igromanru)
+  * Improved: Hero->Movement and Animations->Gestures->Gestures pointer (by Igromanru)
+  * Moved: Param Patcher Initializer to WIP->Deprecated
+  * Added: Statistics->Target Bonfire (by Pavuk)
+  * Added: Flags->Misc->isCollisionEnabled (by Pavuk)
+  * Added: Offsets description for +228 and +198 in Last Weapon Highlighted (by Bonzay0 and Rhino)  
+  * Added: Scripts->Lua->Auto Revive (by Igromanru)
+  * Added: Scripts->Lua->Prevent Autopilot (by Igromanru)
+  * Added: Scripts->Lua->Pickup warning system (by Igromanru)
+  * Added: Scripts->Lua->Stats warning system (by Igromanru)
+  * Added: Hero->Appearance->FaceData->Save / Restore to/from file (by Igromanru)
+  * Added: Param->Param Patcher v2.0 Beta  (by Igromanru)
 * <sub>for more see [changelog](sites/changelog.md)</sub>
 
 ## Index
