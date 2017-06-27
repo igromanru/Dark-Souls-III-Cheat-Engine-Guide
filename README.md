@@ -29,7 +29,7 @@ We recommend you to use [Cheat Engine 6.6](https://github.com/cheat-engine/cheat
   * Added: Scripts->Lua->Stats warning system (by Igromanru)
   * Added: Hero->Appearance->FaceData->Save / Restore to/from file (by Igromanru)
   * Added: Param->Param Patcher v2.0 Beta  (by Igromanru)
-* <sub>for more see [changelog](changelog.md)</sub>
+* <sub>for more see [changelog](sites/changelog.md)</sub>
 
 ## Index
 
@@ -42,12 +42,12 @@ We recommend you to use [Cheat Engine 6.6](https://github.com/cheat-engine/cheat
   * [Cheat Engine debugger crashing the game](#cheat-engine-debugger-crashing-the-game)
   * [Offline mode](#offline-mode)
   * [VAC - Valve Anti Cheat](#vac---valve-anti-cheat)
-* [Tutorials](tutorials.md)
-  * [Weapon upgrades and infusions represented through ID](tutorials.md#weapon-upgrades-and-infusions-represented-through-id)
-  * [How to spawn/swap items](tutorials.md#how-to-spawnswap-items)
-  * [How to create Param Patcher scripts](tutorials.md#how-to-create-param-patcher-scripts)
-  * [How to find Bullet, Effect, Goods or Attack addresses with the Memory Viewer](tutorials.md#how-to-find-bullet-effect-goods-or-attack-addresses-with-the-memory-viewer)
-* [Item IDs](item-ids.md#item-ids)
+* [Tutorials](sites/tutorials.md)
+  * [Weapon upgrades and infusions represented through ID](sites/tutorials.md#weapon-upgrades-and-infusions-represented-through-id)
+  * [How to spawn/swap items](sites/tutorials.md#how-to-spawnswap-items)
+  * [How to create Param Patcher scripts](sites/tutorials.md#how-to-create-param-patcher-scripts)
+  * [How to find Bullet, Effect, Goods or Attack addresses with the Memory Viewer](sites/tutorials.md#how-to-find-bullet-effect-goods-or-attack-addresses-with-the-memory-viewer)
+* [Item IDs](sites/item-ids.md#item-ids)
 * [Credits](#credits)
 
 ## FAQ
@@ -157,7 +157,7 @@ Here is a video how to create your own Pram patching scripts by Thunder Dong (Sc
 
 ## Item IDs
 
-Now on the [Item ID's](item-ids.md)-Side
+Now on the [Item ID's](sites/item-ids.md)-Side
 
 ## Credits
 
