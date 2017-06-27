@@ -14,7 +14,7 @@ We recommend you to use [Cheat Engine 6.6](https://github.com/cheat-engine/cheat
 [![Table](https://img.shields.io/badge/table-latest-brightgreen.svg)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/40915d13aec7c4cc5b23ddf929876b6d/DS3_Reverse-Souls_v1.1.0.zip)  
 <sub>[alternative mirror](https://mega.nz/#!vNEWiKTA!ITcaEYekANhNxc92lvJwrtjctk63NYO4Vj9x2hLMgMQ)</sub>  
 * v1.1.0 - 27.06.2017
-  * Reorganisation: Moved related features under proper headers
+  * Reorganization: Moved related features under proper headers
   * Fixed: Custom Types: Armor ID, Ring ID and Spell and Goods ID
   * Named: WeaponArtIf offset in the SwordArtsParam
   * Improved: Hero->Movement and Animations->Gestures->Gesture walk script, now works as expected (by Igromanru)
