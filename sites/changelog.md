@@ -1,5 +1,21 @@
 ### Changelog
 
+* [v1.1.0 - 27.06.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/40915d13aec7c4cc5b23ddf929876b6d/DS3_Reverse-Souls_v1.1.0.zip)
+  * Reorganisation: Moved related features under proper headers
+  * Fixed: Custom Types: Armor ID, Ring ID and Spell and Goods ID
+  * Named: WeaponArtIf offset in the SwordArtsParam
+  * Improved: Hero->Movement and Animations->Gestures->Gesture walk script, now works as expected (by Igromanru)
+  * Improved: Hero->Movement and Animations->Gestures->Gestures pointer (by Igromanru)
+  * Moved: Param Patcher Initializer to WIP->Deprecated
+  * Added: Statistics->Target Bonfire (by Pavuk)
+  * Added: Flags->Misc->isCollisionEnabled (by Pavuk)
+  * Added: Offsets description for +228 and +198 in Last Weapon Highlighted (by Bonzay0 and Rhino)  
+  * Added: Scripts->Lua->Auto Revive (by Igromanru)
+  * Added: Scripts->Lua->Prevent Autopilot (by Igromanru)
+  * Added: Scripts->Lua->Pickup warning system (by Igromanru)
+  * Added: Scripts->Lua->Stats warning system (by Igromanru)
+  * Added: Hero->Appearance->FaceData->Save / Restore to/from file (by Igromanru)
+  * Added: Param->Param Patcher v2.0 Beta  (by Igromanru)
 * [v1.0.11 - 13.06.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/d7421a9c538f91ced982dbe56a269f4c/DS3_Reverse-Souls_v1.0.11.zip)
   * Changed: Last Weapon Highlighted->spAtkcategory to 2 byte
   * Added: Helpers->Effect Helper->Offsets: frostPattackPower, darkDamageCutRate, darkDifferenceRate, darkAttackPower, registFrostChange (thanks to Ainsley Harriott)

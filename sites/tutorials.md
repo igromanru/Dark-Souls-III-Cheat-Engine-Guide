@@ -14,9 +14,9 @@ Quote from Zanzer:
 >Here's a brief explanation about how weapon upgrades and infusions are represented in memory.
 I will be using decimal notation (not hex) because you will need to use math.
 Each weapon has a base Item ID value. For example, the Club has the ID 8000000 (decimal).
-For upgrades, you simply add +1 through +99. So, 8000027 would be a Club +27.
+For upgrades, you simply add +1 through +99. So, 8000007 would be a Club +7.
 Now infusions are a multiple of 100. So for every +100 you'll cycle through each infusion.
-For example, 8000500 would be a Crystal Club. While 8000527 would be a Crystal Club +27.
+For example, 8000500 would be a Crystal Club. While 8000507 would be a Crystal Club +7.
 
 >Add the following values to the base Item ID for the specific infusion:  
 +100 Heavy  
@@ -45,8 +45,7 @@ I have made a [video](https://youtu.be/Gt4HDw_grmU) for this.
 
 #### How to create Param Patcher scripts
 
-Here is a video how to create your own Pram patching scripts by Thunder Dong (Science Souls).  
-[Thank you Thunder Dong](https://youtu.be/WWeq7Ibex-E) (YouTube link)
+ToDo
 
 #### How to find Bullet, Effect, Goods or Attack addresses with the Memory Viewer
 [Thanks Loki for the guide.](find-addresses.md) (Link)
