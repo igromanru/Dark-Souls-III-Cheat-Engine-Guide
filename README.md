@@ -13,7 +13,7 @@ We recommend you to use [Cheat Engine 6.6](https://github.com/cheat-engine/cheat
 
 [![Table](https://img.shields.io/badge/table-latest-brightgreen.svg)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/40915d13aec7c4cc5b23ddf929876b6d/DS3_Reverse-Souls_v1.1.0.zip)  
 <sub>[alternative mirror](https://mega.nz/#!vNEWiKTA!ITcaEYekANhNxc92lvJwrtjctk63NYO4Vj9x2hLMgMQ)</sub>  
-* v1.1.0 - 27.06.2017 
+* v1.1.0 - 27.06.2017
   * Reorganization: Moved related features under proper headers
   * Fixed: Custom Types: Armor ID, Ring ID and Spell and Goods ID
   * Named: WeaponArtIf offset in the SwordArtsParam
@@ -43,11 +43,11 @@ We recommend you to use [Cheat Engine 6.6](https://github.com/cheat-engine/cheat
   * [Offline mode](#offline-mode)
   * [VAC - Valve Anti Cheat](#vac---valve-anti-cheat)
 * [Tutorials](sites/tutorials.md)
-  * [Weapon upgrades and infusions represented through ID](sites/tutorials.md/#weapon-upgrades-and-infusions-represented-through-id)
-  * [How to spawn/swap items](sites/tutorials.md/#how-to-spawnswap-items)
-  * [How to create Param Patcher scripts](sites/tutorials.md/#how-to-create-param-patcher-scripts)
+  * [Weapon upgrades and infusions represented through ID](sites/tutorials.md#weapon-upgrades-and-infusions-represented-through-id)
+  * [How to spawn/swap items](sites/tutorials.md#how-to-spawnswap-items)
+  * [How to create Param Patcher scripts](sites/tutorials.md#how-to-create-param-patcher-scripts)
   * [How to find Bullet, Effect, Goods or Attack addresses with the Memory Viewer](sites/tutorials.md#how-to-find-bullet-effect-goods-or-attack-addresses-with-the-memory-viewer)
-* [Item IDs](sites/item-ids.md/#item-ids)
+* [Item IDs](sites/item-ids.md#item-ids)
 * [Credits](#credits)
 
 ## FAQ
