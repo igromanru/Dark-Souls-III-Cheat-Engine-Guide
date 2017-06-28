@@ -14,7 +14,7 @@ We recommend you to use [Cheat Engine 6.6](https://github.com/cheat-engine/cheat
 
 #### Public tables:  
 
-[![Table](https://img.shields.io/badge/table-download-brightgreen.svg)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/40915d13aec7c4cc5b23ddf929876b6d/DS3_Reverse-Souls_v1.1.0.zip)  
+[![Table](http://i.imgur.com/GUR5am0.png)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/40915d13aec7c4cc5b23ddf929876b6d/DS3_Reverse-Souls_v1.1.0.zip)  
 <sub>[alternative mirror](https://mega.nz/#!vNEWiKTA!ITcaEYekANhNxc92lvJwrtjctk63NYO4Vj9x2hLMgMQ)</sub>  
 * v1.1.0 - 27.06.2017
   * Reorganization: Moved related features under proper headers
