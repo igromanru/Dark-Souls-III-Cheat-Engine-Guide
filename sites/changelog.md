@@ -1,5 +1,13 @@
 ### Changelog
 
+* [v1.1.1 - 29.06.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/ab255881526a0d7446b06174f76d5f36/DS3_Reverse-Souls_v1.1.1.zip)
+  * Improved: Scripts->Lua->Prevent Autopilot (credits to PhokZ)
+  * Added: Param->Param Patcher->Helper->ThrowParam Helper
+  * Added: Param->Param Patcher->Helper->... (more helper functions)
+  * PPv2 Fixed: Bullets spEffectId0 offset
+  * PPv2 Fixed: method paramDepatcher
+  * PPv2 Added: methods isEmpty and isNotEmpty
+  * PPv2 Added: methods printParams, printParamsIds and getParamAddress
 * [v1.1.0 - 27.06.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/40915d13aec7c4cc5b23ddf929876b6d/DS3_Reverse-Souls_v1.1.0.zip)
   * Reorganization: Moved related features under proper headers
   * Fixed: Custom Types: Armor ID, Ring ID and Spell and Goods ID
