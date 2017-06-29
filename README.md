@@ -14,24 +14,16 @@ We recommend you to use [Cheat Engine 6.6](https://github.com/cheat-engine/cheat
 
 #### Public tables:  
 
-[![Table](http://i.imgur.com/4n3DWEe.png)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/40915d13aec7c4cc5b23ddf929876b6d/DS3_Reverse-Souls_v1.1.0.zip)  
-<sub>[alternative mirror](https://mega.nz/#!vNEWiKTA!ITcaEYekANhNxc92lvJwrtjctk63NYO4Vj9x2hLMgMQ)</sub>  
-* v1.1.0 - 27.06.2017
-  * Reorganization: Moved related features under proper headers
-  * Fixed: Custom Types: Armor ID, Ring ID and Spell and Goods ID
-  * Named: WeaponArtIf offset in the SwordArtsParam
-  * Improved: Hero->Movement and Animations->Gestures->Gesture walk script, now works as expected (by Igromanru)
-  * Improved: Hero->Movement and Animations->Gestures->Gestures pointer (by Igromanru)
-  * Moved: Param Patcher Initializer to WIP->Deprecated
-  * Added: Statistics->Target Bonfire (by Pavuk)
-  * Added: Flags->Misc->isCollisionEnabled (by Pavuk)
-  * Added: Offsets description for +228 and +198 in Last Weapon Highlighted (by Bonzay0 and Rhino)  
-  * Added: Scripts->Lua->Auto Revive (by Igromanru)
-  * Added: Scripts->Lua->Prevent Autopilot (by Igromanru)
-  * Added: Scripts->Lua->Pickup warning system (by Igromanru)
-  * Added: Scripts->Lua->Stats warning system (by Igromanru)
-  * Added: Hero->Appearance->FaceData->Save / Restore to/from file (by Igromanru)
-  * Added: Param->Param Patcher v2.0 Beta  (by Igromanru)
+[![Table](http://i.imgur.com/4n3DWEe.png)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/ab255881526a0d7446b06174f76d5f36/DS3_Reverse-Souls_v1.1.1.zip)  
+<sub>[alternative mirror](https://mega.nz/#!mQECGaDS!KHJ00jFCfMcDVNdIv2RNKlSPGocpfe9mTq4VG4I4iP0)</sub>  
+* v1.1.1 - 29.06.2017
+  * Improved: Scripts->Lua->Prevent Autopilot (credits to PhokZ)
+  * Added: Param->Param Patcher->Helper->ThrowParam Helper
+  * Added: Param->Param Patcher->Helper->... (more helper functions)
+  * PPv2 Fixed: Bullets spEffectId0 offset
+  * PPv2 Fixed: method paramDepatcher
+  * PPv2 Added: methods isEmpty and isNotEmpty
+  * PPv2 Added: methods printParams, printParamsIds and getParamAddress
 * <sub>for more see [changelog](sites/changelog.md)</sub>
 
 ## Index
