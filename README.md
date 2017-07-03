@@ -14,16 +14,12 @@ We recommend you to use [Cheat Engine 6.6](https://github.com/cheat-engine/cheat
 
 #### Public tables:  
 
-[![Table](http://i.imgur.com/4n3DWEe.png)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/ab255881526a0d7446b06174f76d5f36/DS3_Reverse-Souls_v1.1.1.zip)  
-<sub>[alternative mirror](https://mega.nz/#!mQECGaDS!KHJ00jFCfMcDVNdIv2RNKlSPGocpfe9mTq4VG4I4iP0)</sub>  
-* v1.1.1 - 29.06.2017
-  * Improved: Scripts->Lua->Prevent Autopilot (credits to PhokZ)
-  * Added: Param->Param Patcher->Helper->ThrowParam Helper
-  * Added: Param->Param Patcher->Helper->... (more helper functions)
-  * PPv2 Fixed: Bullets spEffectId0 offset
-  * PPv2 Fixed: method paramDepatcher
-  * PPv2 Added: methods isEmpty and isNotEmpty
-  * PPv2 Added: methods printParams, printParamsIds and getParamAddress
+[![Table](http://i.imgur.com/4n3DWEe.png)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/408ce46362a348f8ca458ea6d17f66c8/DS3_Reverse-Souls_v1.1.2.zip)  
+<sub>[alternative mirror](https://mega.nz/#!zZlgjDhZ!mR3u_p4jZ5Itc9RVvGy_EIPhO_C6uGF1A0yDsnt2Ut0)</sub>  
+* v1.1.2 - 03.07.2017
+  * removed some hotkeys
+  * IgroWidgets, Added: methods enableRecordById, enableByDescription, disableRecordById, disableByDescription
+  * PPv2, Added: BaseParamClass methods to read values
 * <sub>for more see [changelog](sites/changelog.md)</sub>
 
 ## Index
