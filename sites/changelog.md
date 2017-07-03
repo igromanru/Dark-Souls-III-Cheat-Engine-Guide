@@ -1,5 +1,9 @@
 ### Changelog
 
+* [v1.1.2 - 03.07.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/408ce46362a348f8ca458ea6d17f66c8/DS3_Reverse-Souls_v1.1.2.zip)
+  * removed some hotkeys
+  * IgroWidgets, Added: methods enableRecordById, enableByDescription, disableRecordById, disableByDescription
+  * PPv2, Added: BaseParamClass methods to read values
 * [v1.1.1 - 29.06.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/ab255881526a0d7446b06174f76d5f36/DS3_Reverse-Souls_v1.1.1.zip)
   * Improved: Scripts->Lua->Prevent Autopilot (credits to PhokZ)
   * Added: Param->Param Patcher->Helper->ThrowParam Helper

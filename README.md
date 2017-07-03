@@ -14,9 +14,9 @@ We recommend you to use [Cheat Engine 6.6](https://github.com/cheat-engine/cheat
 
 #### Public tables:  
 
-[![Table](http://i.imgur.com/4n3DWEe.png)]()  
-<sub>[alternative mirror]()</sub>  
-* v1.1.2 - .06.2017
+[![Table](http://i.imgur.com/4n3DWEe.png)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/408ce46362a348f8ca458ea6d17f66c8/DS3_Reverse-Souls_v1.1.2.zip)  
+<sub>[alternative mirror](https://mega.nz/#!zZlgjDhZ!mR3u_p4jZ5Itc9RVvGy_EIPhO_C6uGF1A0yDsnt2Ut0)</sub>  
+* v1.1.2 - 03.07.2017
   * removed some hotkeys
   * IgroWidgets, Added: methods enableRecordById, enableByDescription, disableRecordById, disableByDescription
   * PPv2, Added: BaseParamClass methods to read values
