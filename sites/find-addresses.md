@@ -5,10 +5,10 @@ Hello! In this guide, we'll be going over the basic steps for using Memory Viewe
 
 #### Step 1: Tick the "Find Bullet / Effect / Goods / Attack Address"
 
-The first step to finding an address for something you wish to edit will be to open "Find Bullet / Effect / Goods / Attack Address" and you can do this by clicking the box next to it. This will activate the script, allowing you to use it.
+The first step to finding an address for something you wish to edit will be to open Helpers->"Bullet, Effect, Goods, Attack, Behavior"->Find Address and you can do this by clicking the box next to it. This will activate the script, allowing you to use it.
 
 > This is what you will be using to find Bullet addresses, Effect Addresses, etc. and this, is what it should look like;
-![This is what it should look like.](http://i.imgur.com/A32rZww.png)
+![This is what it should look like.](http://i.imgur.com/DWmOUUw.jpg)
 
 #### Step 2: Switch to VEH debugger
 
@@ -17,7 +17,7 @@ Now before you do anything regarding Memory Viewer, tick the box that says "Swit
 #### Step 3: Ctrl+G and jump to an address.
 
 And congratulations, you're now ready to use Memory Viewer. To do so, click the button that says "Memory View" above the table. This is a base part of Cheat Engine, and _incredibly_ useful.
-![Memry Veewurr](http://i.imgur.com/MJcxVor.png)
+![Memry Veewurr](http://i.imgur.com/874Sqao.jpg)
 
 This will open up a window that _may_ look confusing at first, but is rather simple for what we're doing.
 
