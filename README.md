@@ -4,22 +4,23 @@
 ## Introduction
 This document was inspired by [Dark Souls II and Scholar of the First Sin Cheat Engine Guide](https://gist.github.com/Atvaark/f308e1d8e00e07106452) from [Atvaark](https://github.com/Atvaark).  
 
-Table and guide contributors are welcome in our [Reverse Souls](https://discord.io/reversesouls) Discord server.
-
-[![Discord](https://img.shields.io/badge/Discord-Reverse%20Souls-blue.png)](https://discord.io/reversesouls)
-
 ## General
 ### Cheat Engine
-We recommend you to use [Cheat Engine 6.6](https://github.com/cheat-engine/cheat-engine/releases/tag/6.6) for now.
+We recommend you to use [Cheat Engine 6.6](https://github.com/cheat-engine/cheat-engine/releases/tag/6.6) for the latest table.
 
 #### Public tables:  
 
-[![Table](http://i.imgur.com/4n3DWEe.png)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/408ce46362a348f8ca458ea6d17f66c8/DS3_Reverse-Souls_v1.1.2.zip)  
-<sub>[alternative mirror](https://mega.nz/#!zZlgjDhZ!mR3u_p4jZ5Itc9RVvGy_EIPhO_C6uGF1A0yDsnt2Ut0)</sub>  
-* v1.1.2 - 03.07.2017
-  * removed some hotkeys
-  * IgroWidgets, Added: methods enableRecordById, enableByDescription, disableRecordById, disableByDescription
-  * PPv2, Added: BaseParamClass methods to read values
+[![Table](http://i.imgur.com/4n3DWEe.png)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/fb1bb3927979545072d406f45ab699a0/DS3_Reverse-Souls_v1.1.3.zip)  
+<sub>[alternative mirror](https://mega.nz/#!aIV0iZzC!CrohCpFCONVRVSlDjeDN7Ny8jfAFRo0Uy0kxmndoAk4)</sub>  
+* v1.1.3 - 12.08.2017
+  * Added: Param->Param Patcher->Bullets->113 Turret (by Igromanru)
+  * Added: Param->Param Patcher->Helper->Find address by ID in a param (by Igromanru)
+  * Added: Scripts->Lua->Log taken damage (by Igromanru)
+  * Added: Statistics->Last Bonfire->more Bonfires (by Pavuk)
+  * Added: Statistics->ESC menu (by Pavuk)
+  * Added: Statistics->PhantomParam (Color) (by Pavuk)
+  * Added: More World Flags (by Pavuk)
+  * PPv2, Added: BehaviorParam_PC and AttackParam_PC classes
 * <sub>for more see [changelog](sites/changelog.md)</sub>
 
 ## Index
@@ -177,15 +178,15 @@ Autopilot | knowledge, some fixes
 Thunder Dong | Tutorials
 Aerthas Veras | contributed
 RBT | New World flags, Player counter
-Ainsley Harriott | Param Dumps and Offsets, spreadsheet contribution
-Pavuk | spreadsheet contribution, some other stuff
+Ainsley Harriott | Param Dumps and Offsets, spreadsheet contribution, some scripts
+Pavuk | spreadsheet and table contribution, some other stuff
 Loki | Tutorials, Param Patcher scripts
 
 OldSchoolHack | Reason               
 ------------- | ---------------------
 KN4CK3R | Awesome tool ReClass.NET, Help with C#, ASM
-SilverDeath | Helpe CE, ASM, IDA Pro
-Jeon | Helpe CE, ASM, IDA Pro
+SilverDeath | Help with CE, ASM, IDA Pro
+Jeon | Help with CE, ASM, IDA Pro
 
 Other | Reason               
 ------------- | ---------------------
