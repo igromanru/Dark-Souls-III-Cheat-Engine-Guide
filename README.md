@@ -10,14 +10,15 @@ We recommend you to use [Cheat Engine 6.6](https://github.com/cheat-engine/cheat
 
 #### Public tables:  
 
-[![Table](http://i.imgur.com/4n3DWEe.png)]()  
-<sub>[alternative mirror]()</sub>  
-* v1.1.3 - .07.2017
+[![Table](http://i.imgur.com/4n3DWEe.png)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/fb1bb3927979545072d406f45ab699a0/DS3_Reverse-Souls_v1.1.3.zip)  
+<sub>[alternative mirror](https://mega.nz/#!aIV0iZzC!CrohCpFCONVRVSlDjeDN7Ny8jfAFRo0Uy0kxmndoAk4)</sub>  
+* v1.1.3 - 12.08.2017
   * Added: Param->Param Patcher->Bullets->113 Turret (by Igromanru)
   * Added: Param->Param Patcher->Helper->Find address by ID in a param (by Igromanru)
   * Added: Scripts->Lua->Log taken damage (by Igromanru)
   * Added: Statistics->Last Bonfire->more Bonfires (by Pavuk)
   * Added: Statistics->ESC menu (by Pavuk)
+  * Added: Statistics->PhantomParam (Color) (by Pavuk)
   * Added: More World Flags (by Pavuk)
   * PPv2, Added: BehaviorParam_PC and AttackParam_PC classes
 * <sub>for more see [changelog](sites/changelog.md)</sub>

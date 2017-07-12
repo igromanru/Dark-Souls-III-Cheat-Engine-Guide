@@ -1,5 +1,14 @@
 ### Changelog
 
+* [v1.1.3 - 12.08.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/fb1bb3927979545072d406f45ab699a0/DS3_Reverse-Souls_v1.1.3.zip)
+  * Added: Param->Param Patcher->Bullets->113 Turret (by Igromanru)
+  * Added: Param->Param Patcher->Helper->Find address by ID in a param (by Igromanru)
+  * Added: Scripts->Lua->Log taken damage (by Igromanru)
+  * Added: Statistics->Last Bonfire->more Bonfires (by Pavuk)
+  * Added: Statistics->ESC menu (by Pavuk)
+  * Added: Statistics->PhantomParam (Color) (by Pavuk)
+  * Added: More World Flags (by Pavuk)  
+  * PPv2, Added: BehaviorParam_PC and AttackParam_PC classes
 * [v1.1.2 - 03.07.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/408ce46362a348f8ca458ea6d17f66c8/DS3_Reverse-Souls_v1.1.2.zip)
   * removed some hotkeys
   * IgroWidgets, Added: methods enableRecordById, enableByDescription, disableRecordById, disableByDescription
