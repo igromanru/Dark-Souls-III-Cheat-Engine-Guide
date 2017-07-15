@@ -4,6 +4,8 @@
 ## Introduction
 This document was inspired by [Dark Souls II and Scholar of the First Sin Cheat Engine Guide](https://gist.github.com/Atvaark/f308e1d8e00e07106452) from [Atvaark](https://github.com/Atvaark).  
 
+Feel free to visit the general Dark Souls 3 Cheat Engine Discord [The Grand Archives ](https://discord.gg/NmKfgwt).  
+
 ## General
 ### Cheat Engine
 We recommend you to use [Cheat Engine 6.6](https://github.com/cheat-engine/cheat-engine/releases/tag/6.6) for the latest table.
