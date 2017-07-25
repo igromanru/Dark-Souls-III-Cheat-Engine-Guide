@@ -1,10 +1,11 @@
 ### Changelog
 
-* [v1.1.4 - 25.07.2017]()
+* [v1.1.4 - 25.07.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/1fdb5fd37d3194817fa7d9f5fc7b92ea/DS3_Reverse-Souls_v1.1.4.zip)
   * Added: Hero->Character Equipment 2 (by InuNorii, Pavuk)
   * Added: Hero->ChrAsm 2 (by InuNorii, Pavuk)
   * Added: Param->Param Patcher->AtkParam_Pc->Sets damage of sacred flame (by Pavuk)
   * Added: Helpers->SpEffectVFX Helper
+  * Improved: Noclip (by Autopilot)
   * PPv2 Fixed: AttackParam_PC renamed to AtkParam_Pc (by Pavuk)
   * PPv2 Added: SwordArtsParam, EquipParamAccessory and SpEffectVfxParam classes (by Pavuk)
 * [v1.1.3 - 12.07.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/fb1bb3927979545072d406f45ab699a0/DS3_Reverse-Souls_v1.1.3.zip)
