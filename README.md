@@ -12,16 +12,12 @@ We recommend you to use [Cheat Engine 6.6](https://github.com/cheat-engine/cheat
 
 #### Public tables:  
 
-[![Table](http://i.imgur.com/4n3DWEe.png)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/1fdb5fd37d3194817fa7d9f5fc7b92ea/DS3_Reverse-Souls_v1.1.4.zip)  
-<sub>[alternative mirror](https://mega.nz/#!vQMCWChR!3P2Mf1A9GfFpMP1THFP0JaApi-IHPgiMRtmuhX4q4EI)</sub>  
-* v1.1.4 - 25.07.2017
-  * Added: Hero->Character Equipment 2 (by InuNorii, Pavuk)
-  * Added: Hero->ChrAsm 2 (by InuNorii, Pavuk)
-  * Added: Param->Param Patcher->AtkParam_Pc->Sets damage of sacred flame (by Pavuk)
-  * Added: Helpers->SpEffectVFX Helper
-  * Improved: Noclip (by Autopilot)
-  * PPv2 Fixed: AttackParam_PC renamed to AtkParam_Pc (by Pavuk)
-  * PPv2 Added: SwordArtsParam, EquipParamAccessory and SpEffectVfxParam classes (by Pavuk)
+[![Table](http://i.imgur.com/4n3DWEe.png)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/9c20293bd5316dbf4c0c098747a68ce2/DS3_Reverse-Souls_v1.1.5.zip)  
+<sub>[alternative mirror](https://mega.nz/#!6JF30bDJ!Kxr0PRSXIS9eKOYQWAElIH2dHm-vI7swG0WydLeGe1k)</sub>  
+* v1.1.5 - 07.09.2017
+  * Added: Scripts->ASM->Item Vac (by Pavuk)
+  * Fixed: Hero->Movement and Animations->Gestures->Gestures Pointer (by Pavuk)
+  * Fixed: Scripts->ASM->Access All Bonfires (by Pavuk)
 
 * <sub>for more see [changelog](sites/changelog.md)</sub>
 
