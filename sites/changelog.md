@@ -1,5 +1,9 @@
 ### Changelog
 
+* [v1.1.5 - 07.09.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/9c20293bd5316dbf4c0c098747a68ce2/DS3_Reverse-Souls_v1.1.5.zip)  
+  * Added: Scripts->ASM->Item Vac (by Pavuk)
+  * Fixed: Hero->Movement and Animations->Gestures->Gestures Pointer (by Pavuk)
+  * Fixed: Scripts->ASM->Access All Bonfires (by Pavuk)
 * [v1.1.4 - 25.07.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/1fdb5fd37d3194817fa7d9f5fc7b92ea/DS3_Reverse-Souls_v1.1.4.zip)
   * Added: Hero->Character Equipment 2 (by InuNorii, Pavuk)
   * Added: Hero->ChrAsm 2 (by InuNorii, Pavuk)
