@@ -12,12 +12,10 @@ We recommend you to use [Cheat Engine 6.6](https://github.com/cheat-engine/cheat
 
 #### Public tables:  
 
-[![Table](http://i.imgur.com/4n3DWEe.png)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/9c20293bd5316dbf4c0c098747a68ce2/DS3_Reverse-Souls_v1.1.5.zip)  
-<sub>[alternative mirror](https://mega.nz/#!6JF30bDJ!Kxr0PRSXIS9eKOYQWAElIH2dHm-vI7swG0WydLeGe1k)</sub>  
-* v1.1.5 - 07.09.2017
-  * Added: Scripts->ASM->Item Vac (by Pavuk)
-  * Fixed: Hero->Movement and Animations->Gestures->Gestures Pointer (by Pavuk)
-  * Fixed: Scripts->ASM->Access All Bonfires (by Pavuk)
+[![Table](http://i.imgur.com/4n3DWEe.png)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/f1b6ea92777df709dab746773fc09bcb/DS3_Reverse-Souls_v1.1.6.zip)  
+<sub>[alternative mirror](https://mega.nz/#!DZshFR5Z!ek9YRZd2Ccn-0x2LxKIiWMDcdRFEVVIWWVcLDfYqv7c)</sub>  
+* v1.1.6 - 09.09.2017
+  * Fixed: Scripts->ASM->Item Vac (by Pavuk)
 
 * <sub>for more see [changelog](sites/changelog.md)</sub>
 

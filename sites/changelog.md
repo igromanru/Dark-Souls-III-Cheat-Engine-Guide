@@ -1,5 +1,7 @@
 ### Changelog
 
+* [v1.1.6 - 09.09.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/f1b6ea92777df709dab746773fc09bcb/DS3_Reverse-Souls_v1.1.6.zip)  
+  * Fixed: Scripts->ASM->Item Vac (by Pavuk)
 * [v1.1.5 - 07.09.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/9c20293bd5316dbf4c0c098747a68ce2/DS3_Reverse-Souls_v1.1.5.zip)  
   * Added: Scripts->ASM->Item Vac (by Pavuk)
   * Fixed: Hero->Movement and Animations->Gestures->Gestures Pointer (by Pavuk)
