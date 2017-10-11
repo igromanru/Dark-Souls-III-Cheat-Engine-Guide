@@ -1,5 +1,23 @@
 ### Changelog
 
+* [v1.1.7 - 11.10.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/7410eed93be981c970b40c0ffe8bf6bb/DS3_Reverse-Souls_v1.1.7.zip)
+  * Added: Scripts->ASM->PvP Signs Cooldown (by Pavuk)
+  * Added: Helpers->Highlighted->Accessory->Current Covenant in Slot (by Pavuk)  
+  * Replaced: Helpers->Highlighted->Accessory->Last Accessory Highlighted (by Pavuk)
+  * Added: Helpers->Highlighted->Goods Highlighted (by Pavuk)
+  * Replaced: Helpers->Highlighted->Last Spell Highlighted (by Pavuk)
+  * Added: Helpers->Highlighted->Sword Art Highlighted (by Pavuk)
+  * Added: Helpers->Highlighted->Weapon Art Effect (by Pavuk)
+  * Added: Hero->Movement and Animations->Moveset Swap (by Pavuk)
+  * Added: Hero->Movement and Animations->Current Animation Name (by Pavuk)
+  * Added: Hero->Movement and Animations->Jump Mod (by Pavuk)
+  * PPv2:
+    * Added: ObjectParamClass class (by Pavuk)
+    * Added: BonfireWarpParam class (by Pavuk)
+    * Added: HitSfxClass class (by Pavuk)
+    * Added: ShopLineupParam class (by Pavuk)
+    * Added: ItemLotParam class (by Pavuk)
+    * Added: Several methods to AtkParam_Pc, EquipParamGoods, SpEffectVfxParam (by Pavuk)
 * [v1.1.6 - 09.09.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/f1b6ea92777df709dab746773fc09bcb/DS3_Reverse-Souls_v1.1.6.zip)  
   * Fixed: Scripts->ASM->Item Vac (by Pavuk)
 * [v1.1.5 - 07.09.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/9c20293bd5316dbf4c0c098747a68ce2/DS3_Reverse-Souls_v1.1.5.zip)  
