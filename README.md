@@ -12,8 +12,8 @@ We recommend you to use [Cheat Engine 6.6](https://github.com/cheat-engine/cheat
 
 #### Public tables:  
 
-[![Table](http://i.imgur.com/4n3DWEe.png)]()  
-<sub>[alternative mirror]()</sub>  
+[![Table](http://i.imgur.com/4n3DWEe.png)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/7410eed93be981c970b40c0ffe8bf6bb/DS3_Reverse-Souls_v1.1.7.zip)  
+<sub>[alternative mirror](https://mega.nz/#!uREykBbQ!BI2Iw0n3ytti1dDJyQhkgL2Yl6NNDLiPVArhvTW87Hk)</sub>  
 * v1.1.7 - 11.10.2017
   * Added: Scripts->ASM->PvP Signs Cooldown (by Pavuk)
   * Added: Helpers->Highlighted->Accessory->Current Covenant in Slot (by Pavuk)  

@@ -1,6 +1,6 @@
 ### Changelog
 
-* [v1.1.7 - 11.10.2017]()
+* [v1.1.7 - 11.10.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/7410eed93be981c970b40c0ffe8bf6bb/DS3_Reverse-Souls_v1.1.7.zip)
   * Added: Scripts->ASM->PvP Signs Cooldown (by Pavuk)
   * Added: Helpers->Highlighted->Accessory->Current Covenant in Slot (by Pavuk)  
   * Replaced: Helpers->Highlighted->Accessory->Last Accessory Highlighted (by Pavuk)
