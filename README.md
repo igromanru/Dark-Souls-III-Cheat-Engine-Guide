@@ -12,27 +12,13 @@ We recommend you to use [Cheat Engine 6.6](https://github.com/cheat-engine/cheat
 
 #### Public tables:  
 
-[![Table](http://i.imgur.com/4n3DWEe.png)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/7410eed93be981c970b40c0ffe8bf6bb/DS3_Reverse-Souls_v1.1.7.zip)  
-<sub>[alternative mirror](https://mega.nz/#!uREykBbQ!BI2Iw0n3ytti1dDJyQhkgL2Yl6NNDLiPVArhvTW87Hk)</sub>  
-* v1.1.7 - 11.10.2017
-  * Added: Scripts->ASM->PvP Signs Cooldown (by Pavuk)
-  * Added: Helpers->Highlighted->Accessory->Current Covenant in Slot (by Pavuk)  
-  * Replaced: Helpers->Highlighted->Accessory->Last Accessory Highlighted (by Pavuk)
-  * Added: Helpers->Highlighted->Goods Highlighted (by Pavuk)
-  * Replaced: Helpers->Highlighted->Last Spell Highlighted (by Pavuk)
-  * Added: Helpers->Highlighted->Sword Art Highlighted (by Pavuk)
-  * Added: Helpers->Highlighted->Weapon Art Effect (by Pavuk)
-  * Added: Hero->Movement and Animations->Moveset Swap (by Pavuk)
-  * Added: Hero->Movement and Animations->Current Animation Name (by Pavuk)
-  * Added: Hero->Movement and Animations->Jump Mod (by Pavuk)
-  * PPv2:
-    * Added: ObjectParamClass class (by Pavuk)
-    * Added: BonfireWarpParam class (by Pavuk)
-    * Added: HitSfxClass class (by Pavuk)
-    * Added: ShopLineupParam class (by Pavuk)
-    * Added: ItemLotParam class (by Pavuk)
-    * Added: Several methods to AtkParam_Pc, EquipParamGoods, SpEffectVfxParam (by Pavuk)
-
+[![Table](http://i.imgur.com/4n3DWEe.png)]()  
+<sub>[alternative mirror]()</sub>  
+* v1.1.8 - xx.02.2018
+  * Added: Hero->Movement and Animations->Better Animation Cancel (by Pavuk)
+  * Fixed: Helpers->Bullet, Effect, Goods, Attack, Behavior->Find Address->Attack AOB (by Pavuk)
+  * Updated: Helpers->Bullet, Effect, Goods, Attack, Behavior->Attack Helper (by Pavuk)
+  * 
 
 * <sub>for more see [changelog](sites/changelog.md)</sub>
 
