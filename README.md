@@ -16,9 +16,11 @@ We recommend you to use [Cheat Engine 6.6](https://github.com/cheat-engine/cheat
 <sub>[alternative mirror]()</sub>  
 * v1.1.8 - xx.02.2018
   * Added: Hero->Movement and Animations->Better Animation Cancel (by Pavuk)
+  * Added: Scripts->ASM->Fps Disconnect (by Pavuk)
+  * Added: Scripts->ASM->Map Collision (by Pavuk)
   * Fixed: Helpers->Bullet, Effect, Goods, Attack, Behavior->Find Address->Attack AOB (by Pavuk)
   * Updated: Helpers->Bullet, Effect, Goods, Attack, Behavior->Attack Helper (by Pavuk)
-  * 
+  *
 
 * <sub>for more see [changelog](sites/changelog.md)</sub>
 
