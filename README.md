@@ -12,9 +12,10 @@ We recommend you to use [Cheat Engine 6.6](https://github.com/cheat-engine/cheat
 
 #### Public tables:  
 
-[![Table](http://i.imgur.com/4n3DWEe.png)]()  
-<sub>[alternative mirror]()</sub>  
-* v1.1.8 - xx.02.2018
+[![Table](http://i.imgur.com/4n3DWEe.png)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/b4652e1062781d4d1a5712c6ccb70799/DS3_Reverse-Souls_v1.1.8.zip)  
+<sub>[alternative mirror](https://mega.nz/#!vA0yFbRQ!6MeR_BEjakAJGlAqVB2cNGsrbSaXFYPK22yPfCb4Il0)</sub>  
+* v1.1.8 - 09.02.2018
+  * Fixed: Crash with CE 6.7
   * Added: Hero->Movement and Animations->Better Animation Cancel (by Pavuk)
   * Added: Hero->Load Start Character ID (by Pavuk)
   * Added: Scripts->ASM->Fps Disconnect (by Pavuk)

@@ -1,5 +1,14 @@
 ### Changelog
 
+* [v1.1.8 - 09.02.2018](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/b4652e1062781d4d1a5712c6ccb70799/DS3_Reverse-Souls_v1.1.8.zip)
+  * Fixed: Crash with CE 6.7
+  * Added: Hero->Movement and Animations->Better Animation Cancel (by Pavuk)
+  * Added: Hero->Load Start Character ID (by Pavuk)
+  * Added: Scripts->ASM->Fps Disconnect (by Pavuk)
+  * Added: Scripts->ASM->Map Collision (by Pavuk)  
+  * Fixed: Helpers->Bullet, Effect, Goods, Attack, Behavior->Find Address->Attack AOB (by Pavuk)
+  * Updated: Helpers->Bullet, Effect, Goods, Attack, Behavior->Attack Helper (by Pavuk)
+  * Updated: Helpers->Targeted Entity Info (by Pavuk)
 * [v1.1.7 - 11.10.2017](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/7410eed93be981c970b40c0ffe8bf6bb/DS3_Reverse-Souls_v1.1.7.zip)
   * Added: Scripts->ASM->PvP Signs Cooldown (by Pavuk)
   * Added: Helpers->Highlighted->Accessory->Current Covenant in Slot (by Pavuk)  
