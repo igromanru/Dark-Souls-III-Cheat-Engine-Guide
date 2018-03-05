@@ -41,7 +41,7 @@ For example, 8000500 would be a Crystal Club. While 8000507 would be a Crystal C
 #### How to spawn/swap items
 
 **Note:** `Last Pickup Item Highlighted` is now [Helpers->Item Swap](http://imgur.com/INPzHR3)  
-I have made a [video](https://youtu.be/Gt4HDw_grmU) for this.  
+I made a [video](https://youtu.be/Gt4HDw_grmU) for this.  
 
 #### How to create Param Patcher scripts
 
