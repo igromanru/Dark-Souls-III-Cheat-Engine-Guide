@@ -55,9 +55,9 @@ Every Tuesday FromSoftware scanning save games on their server. If they detect s
 
 In case you want to play safe online after you've received the message, there are two recommended methods.  
 1. Make a family share account and play there.
-2. Delete all your Characters, than exit the game and go to C:\Users\\(Your-username)\\AppData\Roaming\DarkSoulsIII\, delete anything in there. Start a new game, the message will still be there but you should be safe. DON’T use Cheat Engine until the message is gone!
+2. Delete all your Characters, then exit the game and go to C:\Users\\(Your-username)\\AppData\Roaming\DarkSoulsIII\, delete anything in there. Start a new game, the message will still be there but you should be safe. DON’T use Cheat Engine until the message is gone!
 
-Also see informations about the [Offline mode](#offline-mode).
+Also see information about the [Offline mode](#offline-mode).
 
 There is an official post from BANDAI NAMCO:
 [Dark Souls III - Restrictions and warning messages, what do they mean?](https://support.bandainamcoent.com/index.php?/Knowledgebase/Article/View/507/458/dark-souls-iii---restrictions-and-warning-messages-what-do-they-mean)
@@ -90,7 +90,7 @@ If you are soft-banned you will see the [\[CAUTION\] YOU HAVE BEEN PENALIZED](#m
 A Softban means, that your account will be connected only to the server with other softbanned people.
 
 #### What does and does not get you banned
-Thnaks to the reddit user [/u/Sharkbitch](https://www.reddit.com/user/Sharkbitch), who has collected Softban data from last year and made a compilation of it:  
+Thanks to the reddit user [/u/Sharkbitch](https://www.reddit.com/user/Sharkbitch), who has collected Softban data from last year and made a compilation of it:  
 [Softban Data and Testing](https://www.reddit.com/r/opensouls3/comments/5gc9cb/softban_data_and_testing/)
 
 #### Cheat Engine debugger crashing the game
@@ -100,8 +100,8 @@ Go to Edit->Settings->Debugger Options and switch the "Debugger method" to "Use 
 [Screenshot](http://imgur.com/a/t0826)
 
 #### Offline mode
-If you activate the "Offline mode" in your game settings, the save game will still be synced with the server so long as you got an internet connection.  
-If you want to cheat in offline mode, start steam in offline mode or disable your internet completely.  
+If you activate the "Offline mode" in your game settings, the save game will still be synced with the server as long as you got an internet connection.  
+If you want to cheat offline, start steam in offline mode or disable your internet completely.  
 You can easily [disable your network adapter](https://www.youtube.com/watch?v=6LSKdb9dLvM).  
 Or you can completely block DarkSoulsIII.exe from using internet by adding [Inbound and Outbound Firewall rules](https://www.youtube.com/watch?v=tTvI-ZF_lXo).
 
@@ -143,11 +143,11 @@ For example, 8000500 would be a Crystal Club. While 8000527 would be a Crystal C
 #### How to spawn/swap items
 
 **Note:** `Last Pickup Item Highlighted` is now [Helpers->Item Swap](http://imgur.com/OMUlmj5)  
-I have made a [video](https://youtu.be/Gt4HDw_grmU) for this.  
+I made a [video](https://youtu.be/Gt4HDw_grmU) for this.  
 
 #### How to create Param Patcher scripts
 
-Here is a video how to create your own Pram patching scripts by Thunder Dong (Science Souls).  
+Here is a video how to create your own Param patching scripts by Thunder Dong (Science Souls).  
 [Thank you Thunder Dong](https://youtu.be/WWeq7Ibex-E) (YouTube link)
 
 ## Item IDs
