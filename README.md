@@ -8,7 +8,7 @@ Feel free to visit the general Dark Souls 3 Cheat Engine Discord [The Grand Arch
 
 ## General
 ### Cheat Engine
-Tested with [Cheat Engine 6.8](https://github.com/cheat-engine/cheat-engine/releases/tag/6.8).
+Tested with [Cheat Engine 6.8](https://github.com/cheat-engine/cheat-engine/releases).
 
 #### Public tables:  
 
