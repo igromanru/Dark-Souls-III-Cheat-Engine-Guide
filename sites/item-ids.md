@@ -401,37 +401,7 @@ Id       | Name                                                | Note
 00103218 | Blessed Harpe
 0010327C | Hollow Harpe
 001053B0 | Scholar's Candlestick
-00105414 | Heavy Dripping Candle Stick
-00105478 | Sharp Dripping Candle Stick
-001054DC | Refined Dripping Candle Stick
-00105540 | Simpleton Dripping Candle Stick
-001055A4 | Crystal Dripping Candle Stick
-00105608 | Fire Dripping Candle Stick
-0010566C | Chaos Dripping Candle Stick
-001056D0 | Lightning Dripping Candle Stick
-00105734 | Deep Dripping Candle Stick
-00105798 | Dark Dripping Candle Stick
-001057FC | Poison Dripping Candle Stick
-00105860 | Blood Dripping Candle Stick
-001058C4 | Raw Dripping Candle Stick
-00105928 | Blessed Dripping Candle Stick
-0010598C | Hollow Dripping Candle Stick
 00107AC0 | Tailbone Short Sword
-00107B24 | Heavy Tailbone Short Sword
-00107B88 | Sharp Tailbone Short Sword
-00107BEC | Refined Tailbone Short Sword
-00107C50 | Simple Tailbone Short Sword
-00107CB4 | Crystal Tailbone Short Sword
-00107D18 | Fire Tailbone Short Sword
-00107D7C | Chaos Tailbone Short Sword
-00107DE0 | Lightning Tailbone Short Sword
-00107E44 | Deep Tailbone Short Sword
-00107EA8 | Dark Tailbone Short Sword
-00107F0C | Poison Tailbone Short Sword
-00107F70 | Blood Tailbone Short Sword
-00107FD4 | Raw Tailbone Short Sword
-00108038 | Blessed Tailbone Short Sword
-0010809C | Hollow Tailbone Short Sword
 0010A1D0 | Corvian Greatknife
 0010A234 | Heavy Corvian Greatknife
 0010A298 | Sharp Corvian Greatknife
@@ -530,21 +500,6 @@ Id       | Name                                                | Note
 001F7458 | Blessed Lothric Sword
 001F74BC | Hollow Lothric Sword
 00203230 | Sunlight Straight Sword
-00203294 | Heavy Sunlight Straight Sword
-002032F8 | Sharp Sunlight Straight Sword
-0020335C | Refined Sunlight Straight Sword
-002033C0 | Simpleton Sunlight Straight Sword
-00203424 | Crystal Sunlight Straight Sword
-00203488 | Fire Sunlight Straight Sword
-002034EC | Chaos Sunlight Straight Sword
-00203550 | Lightning Sunlight Straight Sword
-002035B4 | Deep Sunlight Straight Sword
-00203618 | Dark Sunlight Straight Sword
-0020367C | Poison Sunlight Straight Sword
-002036E0 | Blood Sunlight Straight Sword
-00203744 | Raw Sunlight Straight Sword
-002037A8 | Blessed Sunlight Straight Sword
-0020380C | Hollow Sunlight Straight Sword
 00205940 | Rotten Ghru Curved Sword
 002059A4 | Heavy Rotten Ghru Sword
 00205A08 | Sharp Rotten Ghru Sword
@@ -597,21 +552,6 @@ Id       | Name                                                | Note
 0021BE48 | Blessed Barbed Sword
 0021BEAC | Hollow Barbed Sword
 0021DFE0 | Executioner's Greatsword
-0021E044 | Heavy Executioner's Straight Sword
-0021E0A8 | Sharp Executioner's Straight Sword
-0021E10C | Refined Executioner's Straight Sword
-0021E170 | Simpleton Executioner's Straight Sword
-0021E1D4 | Crystal Executioner's Straight Sword
-0021E238 | Fire Executioner's Straight Sword
-0021E29C | Chaos Executioner's Straight Sword
-0021E300 | Lightning Executioner's Straight Sword
-0021E364 | Deep Executioner's Straight Sword
-0021E3C8 | Dark Executioner's Straight Sword
-0021E42C | Poison Executioner's Straight Sword
-0021E490 | Blood Executioner's Straight Sword
-0021E4F4 | Raw Executioner's Straight Sword
-0021E558 | Blessed Executioner's Straight Sword
-0021E5BC | Hollow Executioner's Straight Sword
 002206F0 | Anri's Straight Sword
 002DC6C0 | Estoc
 002DC724 | Heavy Estoc
@@ -678,21 +618,6 @@ Id       | Name                                                | Note
 002E4168 | Ricard's Blessed Rapier
 002E41CC | Ricard's Hollow Rapier
 002E6300 | Crystal Sage's Rapier
-002E6364 | Heavy Crystal Rapier
-002E63C8 | Sharp Crystal Rapier
-002E642C | Refined Crystal Rapier
-002E6490 | Simple Crystal Rapier
-002E64F4 | Reinforced Crystal Rapier
-002E6558 | Fire Crystal Rapier
-002E65BC | Chaos Crystal Rapier
-002E6620 | Lightning Crystal Rapier
-002E6684 | Deep Crystal Rapier
-002E66E8 | Dark Crystal Rapier
-002E674C | Poison Crystal Rapier
-002E67B0 | Blood Crystal Rapier
-002E6814 | Raw Crystal Rapier
-002E6878 | Blessed Crystal Rapier
-002E68DC | Hollow Crystal Rapier
 002E8A10 | Irithyll Rapier
 003D3010 | Shotel
 003D3074 | Heavy Shotel
@@ -973,21 +898,6 @@ Id       | Name                                                | Note
 005D1998 | Blessed Lothric Greatsword
 005D19FC | Hollow Lothric Greatsword
 005D8950 | Black Knight Greatsword
-005D89B4 | Heavy Black Knight Greatsword
-005D8A18 | Sharp Black Knight Greatsword
-005D8A7C | Refined Black Knight Greatsword
-005D8AE0 | Simple Black Knight Greatsword
-005D8B44 | Crystal Black Knight Greatsword
-005D8BA8 | Fire Black Knight Greatsword
-005D8C0C | Chaos Black Knight Greatsword
-005D8C70 | Lightning Black Knight Greatsword
-005D8CD4 | Deep Black Knight Greatsword
-005D8D38 | Dark Black Knight Greatsword
-005D8D9C | Poison Black Knight Greatsword
-005D8E00 | Blood Black Knight Greatsword
-005D8E64 | Raw Black Knight Greatsword
-005D8EC8 | Blessed Black Knight Greatsword
-005D8F2C | Hollow Black Knight Greatsword
 005DB060 | Flamberge
 005DB0C4 | Heavy Flamberge
 005DB128 | Sharp Flamberge
@@ -1057,48 +967,13 @@ Id       | Name                                                | Note
 005F3C78 | Blessed Dark Sword
 005F3CDC | Hollow Dark Sword
 005F5E10 | Black Knight Sword
-005F5E74 | Heavy Black Knight Sword
-005F5ED8 | Sharp Black Knight Sword
-005F5F3C | Refined Black Knight Sword
-005F5FA0 | Simple Black Knight Sword
-005F6004 | Crystal Black Knight Sword
-005F6068 | Fire Black Knight Sword
-005F60CC | Chaos Black Knight Sword
-005F6130 | Lightning Black Knight Sword
-005F6194 | Deep Black Knight Sword
-005F61F8 | Dark Black Knight Sword
-005F625C | Poison Black Knight Sword
-005F62C0 | Blood Black Knight Sword
-005F6324 | Raw Black Knight Sword
-005F6388 | Blessed Black Knight Sword
-005F63EC | Hollow Black Knight Sword
 005F8520 | Lorian's Greatsword
 005FAC30 | Twin Princes' Greatsword
 005FD340 | Lothric's Holy Sword
 005FFA50 | Wolnir's Holy Sword
 00602160 | Wolf Knight's Greatsword
 0060216A | Greatsword of Artorias
-0060216B | Greatsword of Artorias+1
-0060216C | Greatsword of Artorias+2
-0060216D | Greatsword of Artorias+3
-0060216E | Greatsword of Artorias+4
-0060216F | Greatsword of Artorias+5
 00604870 | Hollowslayer Greatsword
-006048D4 | Heavy Hollowslayer Greatsword
-00604938 | Sharp Hollowslayer Greatsword
-0060499C | Refined Hollowslayer Greatsword
-00604A00 | Simple Hollowslayer Greatsword
-00604A64 | Crystal Hollowslayer Greatsword
-00604AC8 | Fire Hollowslayer Greatsword
-00604B2C | Chaos Hollowslayer Greatsword
-00604B90 | Lightning Hollowslayer Greatsword
-00604BF4 | Deep Hollowslayer Greatsword
-00604C58 | Dark Hollowslayer Greatsword
-00604CBC | Poison Hollowslayer Greatsword
-00604D20 | Blood Hollowslayer Greatsword
-00604D84 | Raw Hollowslayer Greatsword
-00604DE8 | Blessed Hollowslayer Greatsword
-00604E4C | Hollow Hollowslayer Greatsword
 00606F80 | Moonlight Greatsword
 00609690 | Drakeblood Greatsword
 006096F4 | Heavy Drakeblood Greatsword
@@ -1201,21 +1076,6 @@ Id       | Name                                                | Note
 006B9888 | Blessed Greataxe
 006B98EC | Hollow Greataxe
 006BE130 | Butcher Knife
-006BE194 | Heavy Butcher Knife
-006BE1F8 | Sharp Butcher Knife
-006BE25C | Refined Butcher Knife
-006BE2C0 | Simple Butcher Knife
-006BE324 | Crystal Butcher Knife
-006BE388 | Fire Butcher Knife
-006BE3EC | Chaos Butcher Knife
-006BE450 | Lightning Butcher Knife
-006BE4B4 | Deep Butcher Knife
-006BE518 | Dark Butcher Knife
-006BE57C | Poison Butcher Knife
-006BE5E0 | Blood Butcher Knife
-006BE644 | Raw Butcher Knife
-006BE6A8 | Blessed Butcher Knife
-006BE70C | Hollow Butcher Knife
 006C0840 | Dragonslayer's Axe
 006C08A4 | Heavy Dragonslayer's Axe
 006C0908 | Sharp Dragonslayer's Axe
@@ -1469,21 +1329,6 @@ Id       | Name                                                | Note
 007E5D38 | Blessed Blacksmith Hammer
 007E5D9C | Hollow Blacksmith Hammer
 007E7ED0 | Morne's Great Hammer
-007E7F34 | Morne's Heavy Hammer
-007E7F98 | Morne's Sharp Hammer
-007E7FFC | Morne's Refined Hammer
-007E8060 | Morne's Simple Hammer
-007E80C4 | Morne's Crystal Hammer
-007E8128 | Morne's Fire Hammer
-007E818C | Morne's Chaos Hammer
-007E81F0 | Morne's Lightning Hammer
-007E8254 | Morne's Deep Hammer
-007E82B8 | Morne's Dark Hammer
-007E831C | Morne's Poison Hammer
-007E8380 | Morne's Blood Hammer
-007E83E4 | Morne's Raw Hammer
-007E8448 | Morne's Blessed Hammer
-007E84AC | Morne's Hollow Hammer
 007EA5E0 | Spiked Mace
 007EA644 | Heavy Spiked Mace
 007EA6A8 | Sharp Spiked Mace
@@ -1615,22 +1460,6 @@ Id       | Name                                                | Note
 008B2EDC | Hollow Rotten Ghru Spear
 008B5010 | Tailbone Spear
 008B7720 | Soldering Iron
-008B7784 | Heavy Soldering Iron
-008B77E8 | Sharp Soldering Iron
-008B784C | Refined Soldering Iron
-008B78B0 | Simple Soldering Iron
-008B7914 | Crystal Soldering Iron
-008B7978 | Fire Soldering Iron
-008B79DC | Chaos Soldering Iron
-008B7A40 | Lightning Soldering Iron
-008B7AA4 | Deep Soldering Iron
-008B7B08 | Dark Soldering Iron
-008B7B6C | Poison Soldering Iron
-008B7BD0 | Blood Soldering Iron
-008B7C34 | Raw Soldering Iron
-008B7C98 | Blessed Soldering Iron
-008B7CFC | Hollow Soldering Iron
-008BC540 | Dragonslayer Swordspear
 008BEC50 | Arstor's Spear
 008C1360 | Saint Bident
 008C13C4 | Heavy Saint Bident
@@ -1747,21 +1576,6 @@ Id       | Name                                                | Note
 00991128 | Blessed Halberd
 0099118C | Hollow Halberd
 009959D0 | Black Knight Greataxe
-00995A34 | Heavy Black Knight Greataxe
-00995A98 | Sharp Black Knight Greataxe
-00995AFC | Refined Black Knight Greataxe
-00995B60 | Simple Black Knight Greataxe
-00995BC4 | Crystal Black Knight Greataxe
-00995C28 | Fire Black Knight Greataxe
-00995C8C | Chaos Black Knight Greataxe
-00995CF0 | Lightning Black Knight Greataxe
-00995D54 | Deep Black Knight Greataxe
-00995DB8 | Dark Black Knight Greataxe
-00995E1C | Poison Black Knight Greataxe
-00995E80 | Blood Black Knight Greataxe
-00995EE4 | Raw Black Knight Greataxe
-00995F48 | Blessed Black Knight Greataxe
-00995FAC | Hollow Black Knight Greataxe
 0099A7F0 | Pontiff Knight Great Scythe
 0099CF00 | Great Corvian Scythe
 0099CF64 | Heavy Corvian Scythe
@@ -1816,21 +1630,6 @@ Id       | Name                                                | Note
 009ABED8 | Blessed Red Halberd
 009ABF3C | Hollow Red Halberd
 009AE070 | Black Knight Glaive
-009AE0D4 | Heavy Black Knight Glaive
-009AE138 | Sharp Black Knight Glaive
-009AE19C | Refined Black Knight Glaive
-009AE200 | Simple Black Knight Glaive
-009AE264 | Crystal Black Knight Glaive
-009AE2C8 | Fire Black Knight Glaive
-009AE32C | Chaos Black Knight Glaive
-009AE390 | Lightning Black Knight Glaive
-009AE3F4 | Deep Black Knight Glaive
-009AE458 | Dark Black Knight Glaive
-009AE4BC | Poison Black Knight Glaive
-009AE520 | Blood Black Knight Glaive
-009AE584 | Raw Black Knight Glaive
-009AE5E8 | Blessed Black Knight Glaive
-009AE64C | Hollow Black Knight Glaive
 009B0780 | Immolation Tinder
 00A7D8C0 | Claw
 00A7D924 | Heavy Claw
@@ -1947,185 +1746,21 @@ Id       | Name                                                | Note
 00CE2570 | Pitch-Dark Pyromancy Flame
 00CF8500 | Dragonslayer Greatbow
 00D5C690 | Short Bow
-00D5C6F4 | Heavy Short Bow
-00D5C758 | Sharp Short Bow
-00D5C7BC | Refined Short Bow
-00D5C820 | Simpleton Short Bow
-00D5C884 | Crystal Short Bow
-00D5C8E8 | Fire Short Bow
-00D5C94C | Chaos Short Bow
-00D5C9B0 | Lightning Short Bow
-00D5CA14 | Deep Short Bow
-00D5CA78 | Dark Short Bow
-00D5CADC | Poison Short Bow
-00D5CB40 | Blood Short Bow
-00D5CBA4 | Raw Short Bow
-00D5CC08 | Blessed Short Bow
-00D5CC6C | Hollow Short Bow
 00D5EDA0 | Composite Bow
-00D5EE04 | Heavy Composite Bow
-00D5EE68 | Sharp Composite Bow
-00D5EECC | Refined Composite Bow
-00D5EF30 | Simpleton Composite Bow
-00D5EF94 | Crystal Composite Bow
-00D5EFF8 | Fire Composite Bow
-00D5F05C | Chaos Composite Bow
-00D5F0C0 | Lightning Composite Bow
-00D5F124 | Deep Composite Bow
-00D5F188 | Dark Composite Bow
-00D5F1EC | Poison Composite Bow
-00D5F250 | Blood Composite Bow
-00D5F2B4 | Raw Composite Bow
-00D5F318 | Blessed Composite Bow
 00D5F37C | Hollow Composite Bow
 00D63BC0 | Light Crossbow
-00D63C24 | Heavy Soldier's Crossbow
-00D63C88 | Sharp Soldier's Crossbow
-00D63CEC | Refined Soldier's Crossbow
-00D63D50 | Simpleton Soldier's Crossbow
-00D63DB4 | Crystal Soldier's Crossbow
-00D63E18 | Fire Soldier's Crossbow
-00D63E7C | Chaos Soldier's Crossbow
-00D63EE0 | Lightning Soldier's Crossbow
-00D63F44 | Deep Soldier's Crossbow
-00D63FA8 | Dark Soldier's Crossbow
-00D6400C | Poison Soldier's Crossbow
-00D64070 | Blood Soldier's Crossbow
-00D640D4 | Raw Soldier's Crossbow
-00D64138 | Blessed Soldier's Crossbow
-00D6419C | Hollow Soldier's Crossbow
 00D662D0 | Arbalest
-00D66334 | Heavy Heavy Crossbow
-00D66398 | Sharp Heavy Crossbow
-00D663FC | Refined Heavy Crossbow
-00D66460 | Simpleton Heavy Crossbow
-00D664C4 | Crystal Heavy Crossbow
-00D66528 | Fire Heavy Crossbow
-00D6658C | Chaos Heavy Crossbow
-00D665F0 | Lightning Heavy Crossbow
-00D66654 | Deep Heavy Crossbow
-00D666B8 | Dark Heavy Crossbow
-00D6671C | Poison Heavy Crossbow
-00D66780 | Blood Heavy Crossbow
-00D667E4 | Raw Heavy Crossbow
-00D66848 | Blessed Heavy Crossbow
-00D668AC | Hollow Heavy Crossbow
 00D689E0 | Longbow
-00D68A44 | Heavy Longbow
-00D68AA8 | Sharp Longbow
-00D68B0C | Refined Longbow
-00D68B70 | Simpleton Longbow
-00D68BD4 | Crystal Longbow
-00D68C38 | Fire Longbow
-00D68C9C | Chaos Longbow
-00D68D00 | Lightning Longbow
-00D68D64 | Deep Longbow
-00D68DC8 | Dark Longbow
-00D68E2C | Poison Longbow
-00D68E90 | Blood Longbow
-00D68EF4 | Raw Longbow
-00D68F58 | Blessed Longbow
-00D68FBC | Hollow Longbow
 00D6B0F0 | Dragonrider Bow
-00D6B154 | Heavy Dragonrider Bow
-00D6B1B8 | Sharp Dragonrider Bow
-00D6B21C | Refined Dragonrider Bow
-00D6B280 | Simple Dragonrider Bow
-00D6B2E4 | Crystal Dragonrider Bow
-00D6B348 | Fire Dragonrider Bow
-00D6B3AC | Chaos Dragonrider Bow
-00D6B410 | Lightning Dragonrider Bow
-00D6B474 | Deep Dragonrider Bow
-00D6B4D8 | Dark Dragonrider Bow
-00D6B53C | Poison Dragonrider Bow
-00D6B5A0 | Blood Dragonrider Bow
-00D6B604 | Raw Dragonrider Bow
-00D6B668 | Blessed Dragonrider Bow
-00D6B6CC | Hollow Dragonrider Bow
 00D6FF10 | Avelyn
-00D6FF74 | Heavy Avelyn
-00D6FFD8 | Sharp Avelyn
-00D7003C | Refined Avelyn
-00D700A0 | Simpleton Avelyn
-00D70104 | Crystal Avelyn
-00D70168 | Fire Avelyn
-00D701CC | Chaos Avelyn
-00D70230 | Lightning Avelyn
-00D70294 | Deep Avelyn
-00D702F8 | Dark Avelyn
-00D7035C | Poison Avelyn
-00D703C0 | Blood Avelyn
-00D70424 | Raw Avelyn
-00D70488 | Blessed Avelyn
-00D704EC | Hollow Avelyn
 00D72620 | Knight's Crossbow
-00D72684 | Heavy Knight's Crossbow
-00D726E8 | Sharp Knight's Crossbow
-00D7274C | Refined Knight's Crossbow
-00D727B0 | Simpleton Knight's Crossbow
-00D72814 | Crystal Knight's Crossbow
-00D72878 | Fire Knight's Crossbow
-00D728DC | Chaos Knight's Crossbow
-00D72940 | Lightning Knight's Crossbow
-00D729A4 | Deep Knight's Crossbow
-00D72A08 | Dark Knight's Crossbow
-00D72A6C | Poison Knight's Crossbow
-00D72AD0 | Blood Knight's Crossbow
-00D72B34 | Raw Knight's Crossbow
-00D72B98 | Blessed Knight's Crossbow
-00D72BFC | Hollow Knight's Crossbow
 00D74D30 | Heavy Crossbow
-00D74D94 | Heavy Temple Knight's Crossbow
-00D74DF8 | Sharp Temple Knight's Crossbow
-00D74E5C | Refined Temple Knight's Crossbow
-00D74EC0 | Simpleton Temple Knight's Crossbow
-00D74F24 | Crystal Temple Knight's Crossbow
-00D74F88 | Fire Temple Knight's Crossbow
-00D74FEC | Chaos Temple Knight's Crossbow
-00D75050 | Lightning Temple Knight's Crossbow
-00D750B4 | Deep Temple Knight's Crossbow
-00D75118 | Dark Temple Knight's Crossbow
-00D7517C | Poison Temple Knight's Crossbow
-00D751E0 | Blood Temple Knight's Crossbow
-00D75244 | Raw Temple Knight's Crossbow
-00D752A8 | Blessed Temple Knight's Crossbow
-00D7530C | Hollow Temple Knight's Crossbow
 00D77440 | Dancer's Short Bow
 00D79B50 | Darkmoon Longbow
 00D7C260 | Onislayer Greatbow
 00D7E970 | Black Bow of Pharis
-00D7E9D4 | Heavy Bow of Pharis
-00D7EA38 | Sharp Bow of Pharis
-00D7EA9C | Refined Bow of Pharis
-00D7EB00 | Simpleton Bow of Pharis
-00D7EB64 | Crystal Bow of Pharis
-00D7EBC8 | Fire Bow of Pharis
-00D7EC2C | Chaos Bow of Pharis
-00D7EC90 | Lightning Bow of Pharis
-00D7ECF4 | Deep Bow of Pharis
-00D7ED58 | Dark Bow of Pharis
-00D7EDBC | Poison Bow of Pharis
-00D7EE20 | Blood Bow of Pharis
-00D7EE84 | Raw Bow of Pharis
-00D7EEE8 | Blessed Bow of Pharis
-00D7EF4C | Hollow Bow of Pharis
 00D81080 | Shield Crossbow
 00D83790 | Sniper Crossbow
-00D837F4 | Heavy Sniper Crossbow
-00D83858 | Sharp Sniper Crossbow
-00D838BC | Refined Sniper Crossbow
-00D83920 | Simpleton Sniper Crossbow
-00D83984 | Crystal Sniper Crossbow
-00D839E8 | Fire Sniper Crossbow
-00D83A4C | Chaos Sniper Crossbow
-00D83AB0 | Lightning Sniper Crossbow
-00D83B14 | Deep Sniper Crossbow
-00D83B78 | Dark Sniper Crossbow
-00D83BDC | Poison Sniper Crossbow
-00D83C40 | Blood Sniper Crossbow
-00D83CA4 | Raw Sniper Crossbow
-00D83D08 | Blessed Sniper Crossbow
-00D83D6C | Hollow Sniper Crossbow
 00F42400 | Sellsword Twinblades
 00F42464 | Heavy Sellsword Twinblades
 00F424C8 | Sharp Sellsword Twinblades
@@ -2611,21 +2246,6 @@ Id       | Name                                                | Note
 0135518C | Hollow Falcon Shield
 013572C0 | Sacred Bloom Shield
 013599D0 | Ancient Dragon Greatshield
-01359A34 | Heavy Ancient Dragon Great Shield
-01359A98 | Sharp Ancient Dragon Great Shield
-01359AFC | Refined Ancient Dragon Great Shield
-01359B60 | Simpleton Ancient Dragon Great Shield
-01359BC4 | Crystal Ancient Dragon Great Shield
-01359C28 | Fire Ancient Dragon Great Shield
-01359C8C | Chaos Ancient Dragon Great Shield
-01359CF0 | Lightning Ancient Dragon Great Shield
-01359D54 | Deep Ancient Dragon Great Shield
-01359DB8 | Dark Ancient Dragon Great Shield
-01359E1C | Poison Ancient Dragon Great Shield
-01359E80 | Blood Ancient Dragon Great Shield
-01359EE4 | Raw Ancient Dragon Great Shield
-01359F48 | Blessed Ancient Dragon Great Shield
-01359FAC | Hollow Ancient Dragon Great Shield
 01409650 | Lothric Knight Shield
 014096B4 | Heavy Lothric Shield
 01409718 | Sharp Lothric Shield
@@ -2659,21 +2279,6 @@ Id       | Name                                                | Note
 014110F8 | Blessed Knight Shield
 0141115C | Hollow Knight Shield
 014159A0 | Pontiff Knight Shield
-01415A04 | Heavy Pontiff Knight Shield
-01415A68 | Sharp Pontiff Knight Shield
-01415ACC | Refined Pontiff Knight Shield
-01415B30 | Simpleton Pontiff Knight Shield
-01415B94 | Crystal Pontiff Knight Shield
-01415BF8 | Fire Pontiff Knight Shield
-01415C5C | Chaos Pontiff Knight Shield
-01415CC0 | Lightning Pontiff Knight Shield
-01415D24 | Deep Pontiff Knight Shield
-01415D88 | Dark Pontiff Knight Shield
-01415DEC | Poison Pontiff Knight Shield
-01415E50 | Blood Pontiff Knight Shield
-01415EB4 | Raw Pontiff Knight Shield
-01415F18 | Blessed Pontiff Knight Shield
-01415F7C | Hollow Pontiff Knight Shield
 014180B0 | Carthus Shield
 01418114 | Heavy Carthus Shield
 01418178 | Sharp Carthus Shield
@@ -2691,38 +2296,8 @@ Id       | Name                                                | Note
 01418628 | Blessed Carthus Shield
 0141868C | Hollow Carthus Shield
 0141F5E0 | Black Knight Shield
-0141F644 | Heavy Black Knight Shield
-0141F6A8 | Sharp Black Knight Shield
-0141F70C | Refined Black Knight Shield
-0141F770 | Simple Black Knight Shield
-0141F7D4 | Crystal Black Knight Shield
-0141F838 | Fire Black Knight Shield
-0141F89C | Chaos Black Knight Shield
-0141F900 | Lightning Black Knight Shield
-0141F964 | Deep Black Knight Shield
-0141F9C8 | Dark Black Knight Shield
-0141FA2C | Poison Black Knight Shield
-0141FA90 | Blood Black Knight Shield
-0141FAF4 | Raw Black Knight Shield
-0141FB58 | Blessed Black Knight Shield
-0141FBBC | Hollow Black Knight Shield
 01421CF0 | Prince's Shield
 01424400 | Silver Knight Shield
-01424464 | Heavy Silver Knight Shield
-014244C8 | Sharp Silver Knight Shield
-0142452C | Refined Silver Knight Shield
-01424590 | Simple Silver Knight Shield
-014245F4 | Crystal Silver Knight Shield
-01424658 | Fire Silver Knight Shield
-014246BC | Chaos Silver Knight Shield
-01424720 | Lightning Silver Knight Shield
-01424784 | Deep Silver Knight Shield
-014247E8 | Dark Silver Knight Shield
-0142484C | Poison Silver Knight Shield
-014248B0 | Blood Silver Knight Shield
-01424914 | Raw Silver Knight Shield
-01424978 | Blessed Silver Knight Shield
-014249DC | Hollow Silver Knight Shield
 01426B10 | Spiked Shield
 01426B74 | Heavy Spiked Shield
 01426BD8 | Sharp Spiked Shield
@@ -2788,37 +2363,7 @@ Id       | Name                                                | Note
 0142E5B8 | Blessed Sunlight Shield
 0142E61C | Hollow Sunlight Shield
 01430750 | Crest Shield
-014307B4 | Heavy Crest Shield
-01430818 | Sharp Crest Shield
-0143087C | Refined Crest Shield
-014308E0 | Simpleton Crest Shield
-01430944 | Crystal Crest Shield
-014309A8 | Fire Crest Shield
-01430A0C | Chaos Crest Shield
-01430A70 | Lightning Crest Shield
-01430AD4 | Deep Crest Shield
-01430B38 | Dark Crest Shield
-01430B9C | Poison Crest Shield
-01430C00 | Blood Crest Shield
-01430C64 | Raw Crest Shield
-01430CC8 | Blessed Crest Shield
-01430D2C | Hollow Crest Shield
 01432E60 | Dragon Crest Shield
-01432EC4 | Heavy Dragon Crest Shield
-01432F28 | Sharp Dragon Crest Shield
-01432F8C | Refined Dragon Crest Shield
-01432FF0 | Simpleton Dragon Crest Shield
-01433054 | Crystal Dragon Crest Shield
-014330B8 | Fire Dragon Crest Shield
-0143311C | Chaos Dragon Crest Shield
-01433180 | Lightning Dragon Crest Shield
-014331E4 | Deep Dragon Crest Shield
-01433248 | Dark Dragon Crest Shield
-014332AC | Poison Dragon Crest Shield
-01433310 | Blood Dragon Crest Shield
-01433374 | Raw Dragon Crest Shield
-014333D8 | Blessed Dragon Crest Shield
-0143343C | Hollow Dragon Crest Shield
 01435570 | Spider Shield
 014355D4 | Heavy Spider Shield
 01435638 | Sharp Spider Shield
@@ -2836,21 +2381,6 @@ Id       | Name                                                | Note
 01435AE8 | Blessed Spider Shield
 01435B4C | Hollow Spider Shield
 01437C80 | Grass Crest Shield
-01437CE4 | Heavy Grass Crest Shield
-01437D48 | Sharp Grass Crest Shield
-01437DAC | Refined Grass Crest Shield
-01437E10 | Simpleton Grass Crest Shield
-01437E74 | Crystal Grass Crest Shield
-01437ED8 | Fire Grass Crest Shield
-01437F3C | Chaos Grass Crest Shield
-01437FA0 | Lightning Grass Crest Shield
-01438004 | Deep Grass Crest Shield
-01438068 | Dark Grass Crest Shield
-014380CC | Poison Grass Crest Shield
-01438130 | Blood Grass Crest Shield
-01438194 | Raw Grass Crest Shield
-014381F8 | Blessed Grass Crest Shield
-0143825C | Hollow Grass Crest Shield
 0143A390 | Sunset Shield
 0143A3F4 | Heavy Sunset Shield
 0143A458 | Sharp Sunset Shield
@@ -2868,21 +2398,6 @@ Id       | Name                                                | Note
 0143A908 | Blessed Sunset Shield
 0143A96C | Hollow Sunset Shield
 0143CAA0 | Golden Wing Crest Shield
-0143CB04 | Heavy Golden Wing Crest Shield
-0143CB68 | Sharp Golden Wing Crest Shield
-0143CBCC | Refined Golden Wing Crest Shield
-0143CC30 | Simpleton Golden Wing Crest Shield
-0143CC94 | Crystal Golden Wing Crest Shield
-0143CCF8 | Fire Golden Wing Crest Shield
-0143CD5C | Chaos Golden Wing Crest Shield
-0143CDC0 | Lightning Golden Wing Crest Shield
-0143CE24 | Deep Golden Wing Crest Shield
-0143CE88 | Dark Golden Wing Crest Shield
-0143CEEC | Poison Golden Wing Crest Shield
-0143CF50 | Blood Golden Wing Crest Shield
-0143CFB4 | Raw Golden Wing Crest Shield
-0143D018 | Blessed Golden Wing Crest Shield
-0143D07C | Hollow Golden Wing Crest Shield
 0143F1B0 | Blue Wooden Shield
 0143F214 | Heavy Blue Shield
 0143F278 | Sharp Blue Shield
@@ -2932,21 +2447,6 @@ Id       | Name                                                | Note
 01444548 | Blessed Stone Parma
 014445AC | Hollow Stone Parma
 014466E0 | Spirit Tree Crest Shield
-01446744 | Heavy Sacred Wood Crest Shield
-014467A8 | Sharp Sacred Wood Crest Shield
-0144680C | Refined Sacred Wood Crest Shield
-01446870 | Simpleton Sacred Wood Crest Shield
-014468D4 | Crystal Sacred Wood Crest Shield
-01446938 | Fire Sacred Wood Crest Shield
-0144699C | Chaos Sacred Wood Crest Shield
-01446A00 | Lightning Sacred Wood Crest Shield
-01446A64 | Deep Sacred Wood Crest Shield
-01446AC8 | Dark Sacred Wood Crest Shield
-01446B2C | Poison Sacred Wood Crest Shield
-01446B90 | Blood Sacred Wood Crest Shield
-01446BF4 | Raw Sacred Wood Crest Shield
-01446C58 | Blessed Sacred Wood Crest Shield
-01446CBC | Hollow Sacred Wood Crest Shield
 01448DF0 | Porcine Shield
 01448E54 | Heavy Porcine Shield
 01448EB8 | Sharp Porcine Shield
@@ -3050,37 +2550,7 @@ Id       | Name                                                | Note
 01513D98 | Blessed Twin Dragon Greatshield
 01513DFC | Hollow Twin Dragon Greatshield
 01515F30 | Greatshield of Glory
-01515F94 | Heavy Greatshield of Glory
-01515FF8 | Sharp Greatshield of Glory
-0151605C | Refined Greatshield of Glory
-015160C0 | Simple Greatshield of Glory
-01516124 | Crystal Greatshield of Glory
-01516188 | Fire Greatshield of Glory
-015161EC | Chaos Greatshield of Glory
-01516250 | Lightning Greatshield of Glory
-015162B4 | Deep Greatshield of Glory
-01516318 | Dark Greatshield of Glory
-0151637C | Poison Greatshield of Glory
-015163E0 | Blood Greatshield of Glory
-01516444 | Raw Greatshield of Glory
-015164A8 | Blessed Greatshield of Glory
-0151650C | Hollow Greatshield of Glory
 01518640 | Curse Ward Greatshield
-015186A4 | Heavy Curse Ward Greatshield
-01518708 | Sharp Curse Ward Greatshield
-0151876C | Refined Curse Ward Greatshield
-015187D0 | Simple Curse Ward Greatshield
-01518834 | Crystal Curse Ward Greatshield
-01518898 | Fire Curse Ward Greatshield
-015188FC | Chaos Curse Ward Greatshield
-01518960 | Lightning Curse Ward Greatshield
-015189C4 | Deep Curse Ward Greatshield
-01518A28 | Dark Curse Ward Greatshield
-01518A8C | Poison Curse Ward Greatshield
-01518AF0 | Blood Curse Ward Greatshield
-01518B54 | Raw Curse Ward Greatshield
-01518BB8 | Blessed Curse Ward Greatshield
-01518C1C | Hollow Curse Ward Greatshield
 0151AD50 | Bonewheel Shield
 0151ADB4 | Heavy Bonewheel Shield
 0151AE18 | Sharp Bonewheel Shield
@@ -3726,37 +3196,7 @@ Id       | Name                       | Note
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
 000623E0 | Millwood Greatarrow
-00062444 | Heavy Millwood Greatarrow
-000624A8 | Sharp Millwood Greatarrow
-0006250C | Refined Millwood Greatarrow
-00062570 | Simple Millwood Greatarrow
-000625D4 | Crystal Millwood Greatarrow
-00062638 | Fire Millwood Greatarrow
-0006269C | Chaos Millwood Greatarrow
-00062700 | Lightning Millwood Greatarrow
-00062764 | Deep Millwood Greatarrow
-000627C8 | Dark Millwood Greatarrow
-0006282C | Poison Millwood Greatarrow
-00062890 | Blood Millwood Greatarrow
-000628F4 | Raw Millwood Greatarrow
-00062958 | Blessed Millwood Greatarrow
-000629BC | Hollow Millwood Greatarrow
 00222E00 | Onyx Blade
-00222E64 | Heavy Onyx Blade
-00222EC8 | Sharp Onyx Blade
-00222F2C | Refined Onyx Blade
-00222F90 | Simple Onyx Blade
-00222FF4 | Crystal Onyx Blade
-00223058 | Fire Onyx Blade
-002230BC | Chaos Onyx Blade
-00223120 | Lightning Onyx Blade
-00223184 | Deep Onyx Blade
-002231E8 | Dark Onyx Blade
-0022324C | Poison Onyx Blade
-002232B0 | Blood Onyx Blade
-00223314 | Raw Onyx Blade
-00223378 | Blessed Onyx Blade
-002233DC | Hollow Onyx Blade
 003EDDC0 | Follower Sabre
 003EDE24 | Heavy Follower Sabre
 003EDE88 | Sharp Follower Sabre
@@ -3790,37 +3230,7 @@ Id       | Name                                                | Note
 006D6D48 | Blessed Millwood Battle Axe
 006D6DAC | Hollow Millwood Battle Axe
 006D8EE0 | Earth Seeker
-006D8F44 | Heavy Earth Seeker
-006D8FA8 | Sharp Earth Seeker
-006D900C | Refined Earth Seeker
-006D9070 | Simple Earth Seeker
-006D90D4 | Crystal Earth Seeker
-006D9138 | Fire Earth Seeker
-006D919C | Chaos Earth Seeker
-006D9200 | Lightning Earth Seeker
-006D9264 | Deep Earth Seeker
-006D92C8 | Dark Earth Seeker
-006D932C | Poison Earth Seeker
-006D9390 | Blood Earth Seeker
-006D93F4 | Raw Earth Seeker
-006D9458 | Blessed Earth Seeker
-006D94BC | Hollow Earth Seeker
 007ECCF0 | Quakestone Hammer
-007ECD54 | Heavy Quakestone Hammer
-007ECDB8 | Sharp Quakestone Hammer
-007ECE1C | Refined Quakestone Hammer
-007ECE80 | Simple Quakestone Hammer
-007ECEE4 | Crystal Quakestone Hammer
-007ECF48 | Fire Quakestone Hammer
-007ECFAC | Chaos Quakestone Hammer
-007ED010 | Lightning Quakestone Hammer
-007ED074 | Deep Quakestone Hammer
-007ED0D8 | Dark Quakestone Hammer
-007ED13C | Poison Quakestone Hammer
-007ED1A0 | Blood Quakestone Hammer
-007ED204 | Raw Quakestone Hammer
-007ED268 | Blessed Quakestone Hammer
-007ED2CC | Hollow Quakestone Hammer
 008CD6B0 | Follower Javelin
 008CD714 | Heavy Follower Javelin
 008CD778 | Sharp Follower Javelin
@@ -3838,21 +3248,6 @@ Id       | Name                                                | Note
 008CDC28 | Blessed Follower Javelin
 008CDC8C | Hollow Follower Javelin
 009B55A0 | Friede's Great Scythe
-009B5604 | Heavy Friede's Great Scythe
-009B5668 | Sharp Friede's Great Scythe
-009B56CC | Refined Friede's Great Scythe
-009B5730 | Simple Friede's Great Scythe
-009B5794 | Crystal Friede's Great Scythe
-009B57F8 | Fire Friede's Great Scythe
-009B585C | Chaos Friede's Great Scythe
-009B58C0 | Lightning Friede's Great Scythe
-009B5924 | Deep Friede's Great Scythe
-009B5988 | Dark Friede's Great Scythe
-009B59EC | Poison Friede's Great Scythe
-009B5A50 | Blood Friede's Great Scythe
-009B5AB4 | Raw Friede's Great Scythe
-009B5B18 | Blessed Friede's Great Scythe
-009B5B7C | Hollow Friede's Great Scythe
 00A89C10 | Crow Talons
 00A89C74 | Heavy Crow Talons
 00A89CD8 | Sharp Crow Talons
@@ -3870,69 +3265,9 @@ Id       | Name                                                | Note
 00A8A188 | Blessed Crow Talons
 00A8A1EC | Hollow Crow Talons
 00B82C70 | Rose of Ariandel
-00B82CD4 | Heavy Rose of Ariandel
-00B82D38 | Sharp Rose of Ariandel
-00B82D9C | Refined Rose of Ariandel
-00B82E00 | Simple Rose of Ariandel
-00B82E64 | Crystal Rose of Ariandel
-00B82EC8 | Fire Rose of Ariandel
-00B82F2C | Chaos Rose of Ariandel
-00B82F90 | Lightning Rose of Ariandel
-00B82FF4 | Deep Rose of Ariandel
-00B83058 | Dark Rose of Ariandel
-00B830BC | Poison Rose of Ariandel
-00B83120 | Blood Rose of Ariandel
-00B83184 | Raw Rose of Ariandel
-00B831E8 | Blessed Rose of Ariandel
-00B8324C | Hollow Rose of Ariandel
 00CC9ED0 | Pyromancer's Parting Flame
-00CC9F34 | Heavy Pyromancer's Parting Flame
-00CC9F98 | Sharp Pyromancer's Parting Flame
-00CC9FFC | Refined Pyromancer's Parting Flame
-00CCA060 | Simple Pyromancer's Parting Flame
-00CCA0C4 | Crystal Pyromancer's Parting Flame
-00CCA128 | Fire Pyromancer's Parting Flame
-00CCA18C | Chaos Pyromancer's Parting Flame
-00CCA1F0 | Lightning Pyromancer's Parting Flame
-00CCA254 | Deep Pyromancer's Parting Flame
-00CCA2B8 | Dark Pyromancer's Parting Flame
-00CCA31C | Poison Pyromancer's Parting Flame
-00CCA380 | Blood Pyromancer's Parting Flame
-00CCA3E4 | Raw Pyromancer's Parting Flame
-00CCA448 | Blessed Pyromancer's Parting Flame
-00CCA4AC | Hollow Pyromancer's Parting Flame
 00D85EA0 | Millwood Greatbow
-00D85F04 | Heavy Millwood Greatbow
-00D85F68 | Sharp Millwood Greatbow
-00D85FCC | Refined Millwood Greatbow
-00D86030 | Simple Millwood Greatbow
-00D86094 | Crystal Millwood Greatbow
-00D860F8 | Fire Millwood Greatbow
-00D8615C | Chaos Millwood Greatbow
-00D861C0 | Lightning Millwood Greatbow
-00D86224 | Deep Millwood Greatbow
-00D86288 | Dark Millwood Greatbow
-00D862EC | Poison Millwood Greatbow
-00D86350 | Blood Millwood Greatbow
-00D863B4 | Raw Millwood Greatbow
-00D86418 | Blessed Millwood Greatbow
-00D8647C | Hollow Millwood Greatbow
 00F646E0 | Valorheart
-00F64744 | Heavy Valorheart
-00F647A8 | Sharp Valorheart
-00F6480C | Refined Valorheart
-00F64870 | Simple Valorheart
-00F648D4 | Crystal Valorheart
-00F64938 | Fire Valorheart
-00F6499C | Chaos Valorheart
-00F64A00 | Lightning Valorheart
-00F64A64 | Deep Valorheart
-00F64AC8 | Dark Valorheart
-00F64B2C | Poison Valorheart
-00F64B90 | Blood Valorheart
-00F64BF4 | Raw Valorheart
-00F64C58 | Blessed Valorheart
-00F64CBC | Hollow Valorheart
 00F66DF0 | Crow Quills
 00F66E54 | Heavy Crow Quills
 00F66EB8 | Sharp Crow Quills
@@ -3966,37 +3301,7 @@ Id       | Name                                                | Note
 0135C658 | Blessed Followers Shield
 0135C6BC | Hollow Followers Shield
 01450320 | Ethereal Oak Shield
-01450384 | Heavy Ethereal Oak Shield
-014503E8 | Sharp Ethereal Oak Shield
-0145044C | Refined Ethereal Oak Shield
-014504B0 | Simple Ethereal Oak Shield
-01450514 | Crystal Ethereal Oak Shield
-01450578 | Fire Ethereal Oak Shield
-014505DC | Chaos Ethereal Oak Shield
-01450640 | Lightning Ethereal Oak Shield
-014506A4 | Deep Ethereal Oak Shield
-01450708 | Dark Ethereal Oak Shield
-0145076C | Poison Ethereal Oak Shield
-014507D0 | Blood Ethereal Oak Shield
-01450834 | Raw Ethereal Oak Shield
-01450898 | Blessed Ethereal Oak Shield
-014508FC | Hollow Ethereal Oak Shield
 015F1AD0 | Follower Torch
-015F1B34 | Heavy Follower Torch
-015F1B98 | Sharp Follower Torch
-015F1BFC | Refined Follower Torch
-015F1C60 | Simple Follower Torch
-015F1CC4 | Crystal Follower Torch
-015F1D28 | Fire Follower Torch
-015F1D8C | Chaos Follower Torch
-015F1DF0 | Lightning Follower Torch
-015F1E54 | Deep Follower Torch
-015F1EB8 | Dark Follower Torch
-015F1F1C | Poison Follower Torch
-015F1F80 | Blood Follower Torch
-015F1FE4 | Raw Follower Torch
-015F2048 | Blessed Follower Torch
-015F20AC | Hollow Follower Torch
 
 ### Protector - Ashes of Ariandel DLC (19)
 
@@ -4062,21 +3367,6 @@ Id       | Name                                                | Note
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
 00116520 | Aquamarine Dagger
-00116584 | Heavy Aquamarine Dagger
-001165E8 | Sharp Aquamarine Dagger
-0011664C | Refined Aquamarine Dagger
-001166B0 | Simple Aquamarine Dagger
-00116714 | Crystal Aquamarine Dagger
-00116778 | Fire Aquamarine Dagger
-001167DC | Chaos Aquamarine Dagger
-00116840 | Lightning Aquamarine Dagger
-001168A4 | Deep Aquamarine Dagger
-00116908 | Dark Aquamarine Dagger
-0011696C | Poison Aquamarine Dagger
-001169D0 | Blood Aquamarine Dagger
-00116A34 | Raw Aquamarine Dagger
-00116A98 | Blessed Aquamarine Dagger
-00116AFC | Hollow Aquamarine Dagger
 00118C30 | Murky Hand Scythe
 00118C94 | Heavy Murky Hand Scythe
 00118CF8 | Sharp Murky Hand Scythe
@@ -4094,69 +3384,9 @@ Id       | Name                                                | Note
 001191A8 | Blessed Murky Hand Scythe
 0011920C | Hollow Murky Hand Scythe
 00225510 | Ringed Knight Straight Sword
-00225574 | Heavy Ringed Knight Straight Sword
-002255D8 | Sharp Ringed Knight Straight Sword
-0022563C | Refined Ringed Knight Straight Sword
-002256A0 | Simple Ringed Knight Straight Sword
-00225704 | Crystal Ringed Knight Straight Sword
-00225768 | Fire Ringed Knight Straight Sword
-002257CC | Chaos Ringed Knight Straight Sword
-00225830 | Lightning Ringed Knight Straight Sword
-00225894 | Deep Ringed Knight Straight Sword
-002258F8 | Dark Ringed Knight Straight Sword
-0022595C | Poison Ringed Knight Straight Sword
-002259C0 | Blood Ringed Knight Straight Sword
-00225A24 | Raw Ringed Knight Straight Sword
-00225A88 | Blessed Ringed Knight Straight Sword
-00225AEC | Hollow Ringed Knight Straight Sword
 00227C20 | Gael Greatsword
-00227C84 | Heavy Gael Greatsword
-00227CE8 | Sharp Gael Greatsword
-00227D4C | Refined Gael Greatsword
-00227DB0 | Simple Gael Greatsword
-00227E14 | Crystal Gael Greatsword
-00227E78 | Fire Gael Greatsword
-00227EDC | Chaos Gael Greatsword
-00227F40 | Lightning Gael Greatsword
-00227FA4 | Deep Gael Greatsword
-00228008 | Dark Gael Greatsword
-0022806C | Poison Gael Greatsword
-002280D0 | Blood Gael Greatsword
-00228134 | Raw Gael Greatsword
-00228198 | Blessed Gael Greatsword
-002281FC | Hollow Gael Greatsword
 003F04D0 | Demon Scar
-003F0534 | Heavy Demon Scar
-003F0598 | Sharp Demon Scar
-003F05FC | Refined Demon Scar
-003F0660 | Simple Demon Scar
-003F06C4 | Crystal Demon Scar
-003F0728 | Fire Demon Scar
-003F078C | Chaos Demon Scar
-003F07F0 | Lightning Demon Scar
-003F0854 | Deep Demon Scar
-003F08B8 | Dark Demon Scar
-003F091C | Poison Demon Scar
-003F0980 | Blood Demon Scar
-003F09E4 | Raw Demon Scar
-003F0A48 | Blessed Demon Scar
-003F0AAC | Hollow Demon Scar
 004D35A0 | Frayed Blade
-004D3604 | Heavy Frayed Blade
-004D3668 | Sharp Frayed Blade
-004D36CC | Refined Frayed Blade
-004D3730 | Simple Frayed Blade
-004D3794 | Crystal Frayed Blade
-004D37F8 | Fire Frayed Blade
-004D385C | Chaos Frayed Blade
-004D38C0 | Lightning Frayed Blade
-004D3924 | Deep Frayed Blade
-004D3988 | Dark Frayed Blade
-004D39EC | Poison Frayed Blade
-004D3A50 | Blood Frayed Blade
-004D3AB4 | Raw Frayed Blade
-004D3B18 | Blessed Frayed Blade
-004D3B7C | Hollow Frayed Blade
 006159E0 | Herald Curved Greatsword
 00615A44 | Heavy Herald Curved Greatsword
 00615AA8 | Sharp Herald Curved Greatsword
@@ -4174,37 +3404,7 @@ Id       | Name                                                | Note
 00615F58 | Blessed Herald Curved Greatsword
 00615FBC | Hollow Herald Curved Greatsword
 007EF400 | Ledo's Great Hammer
-007EF464 | Heavy Ledo's Great Hammer
-007EF4C8 | Sharp Ledo's Great Hammer
-007EF52C | Refined Ledo's Great Hammer
-007EF590 | Simple Ledo's Great Hammer
-007EF5F4 | Crystal Ledo's Great Hammer
-007EF658 | Fire Ledo's Great Hammer
-007EF6BC | Chaos Ledo's Great Hammer
-007EF720 | Lightning Ledo's Great Hammer
-007EF784 | Deep Ledo's Great Hammer
-007EF7E8 | Dark Ledo's Great Hammer
-007EF84C | Poison Ledo's Great Hammer
-007EF8B0 | Blood Ledo's Great Hammer
-007EF914 | Raw Ledo's Great Hammer
-007EF978 | Blessed Ledo's Great Hammer
-007EF9DC | Hollow Ledo's Great Hammer
 008CFDC0 | Ringed Knight Spear
-008CFE24 | Heavy Ringed Knight Spear
-008CFE88 | Sharp Ringed Knight Spear
-008CFEEC | Refined Ringed Knight Spear
-008CFF50 | Simple Ringed Knight Spear
-008CFFB4 | Crystal Ringed Knight Spear
-008D0018 | Fire Ringed Knight Spear
-008D007C | Chaos Ringed Knight Spear
-008D00E0 | Lightning Ringed Knight Spear
-008D0144 | Deep Ringed Knight Spear
-008D01A8 | Dark Ringed Knight Spear
-008D020C | Poison Ringed Knight Spear
-008D0270 | Blood Ringed Knight Spear
-008D02D4 | Raw Ringed Knight Spear
-008D0338 | Blessed Ringed Knight Spear
-008D039C | Hollow Ringed Knight Spear
 008D24D0 | Lothric War Banner
 008D2534 | Heavy Lothric War Banner
 008D2598 | Sharp Lothric War Banner
@@ -4222,21 +3422,6 @@ Id       | Name                                                | Note
 008D2A48 | Blessed Lothric War Banner
 008D2AAC | Hollow Lothric War Banner
 008D4BE0 | Crucifix of the Mad King (Halberd)
-008D4C44 | Heavy Crucifix of the Mad King (Halberd)
-008D4CA8 | Sharp Crucifix of the Mad King (Halberd)
-008D4D0C | Refined Crucifix of the Mad King (Halberd)
-008D4D70 | Simple Crucifix of the Mad King (Halberd)
-008D4DD4 | Crystal Crucifix of the Mad King (Halberd)
-008D4E38 | Fire Crucifix of the Mad King (Halberd)
-008D4E9C | Chaos Crucifix of the Mad King (Halberd)
-008D4F00 | Lightning Crucifix of the Mad King (Halberd)
-008D4F64 | Deep Crucifix of the Mad King (Halberd)
-008D4FC8 | Dark Crucifix of the Mad King (Halberd)
-008D502C | Poison Crucifix of the Mad King (Halberd)
-008D5090 | Blood Crucifix of the Mad King (Halberd)
-008D50F4 | Raw Crucifix of the Mad King (Halberd)
-008D5158 | Blessed Crucifix of the Mad King (Halberd)
-008D51BC | Hollow Crucifix of the Mad King (Halberd)
 009B2E90 | Splitleaf Greatsword (It's a Halberd)
 009B2EF4 | Heavy Splitleaf Greatsword (It's a Halberd)
 009B2F58 | Sharp Splitleaf Greatsword (It's a Halberd)
@@ -4254,85 +3439,10 @@ Id       | Name                                                | Note
 009B3408 | Blessed Splitleaf Greatsword (It's a Halberd)
 009B346C | Hollow Splitleaf Greatsword (It's a Halberd)
 00CCC5E0 | Murky Longstaff
-00CCC644 | Heavy Murky Longstaff
-00CCC6A8 | Sharp Murky Longstaff
-00CCC70C | Refined Murky Longstaff
-00CCC770 | Simple Murky Longstaff
-00CCC7D4 | Crystal Murky Longstaff
-00CCC838 | Fire Murky Longstaff
-00CCC89C | Chaos Murky Longstaff
-00CCC900 | Lightning Murky Longstaff
-00CCC964 | Deep Murky Longstaff
-00CCC9C8 | Dark Murky Longstaff
-00CCCA2C | Poison Murky Longstaff
-00CCCA90 | Blood Murky Longstaff
-00CCCAF4 | Raw Murky Longstaff
-00CCCB58 | Blessed Murky Longstaff
-00CCCBBC | Hollow Murky Longstaff
 00CCECF0 | Sacred Chime of Filianore
-00CCED54 | Heavy Sacred Chime of Filianore
-00CCEDB8 | Sharp Sacred Chime of Filianore
-00CCEE1C | Refined Sacred Chime of Filianore
-00CCEE80 | Simple Sacred Chime of Filianore
-00CCEEE4 | Crystal Sacred Chime of Filianore
-00CCEF48 | Fire Sacred Chime of Filianore
-00CCEFAC | Chaos Sacred Chime of Filianore
-00CCF010 | Lightning Sacred Chime of Filianore
-00CCF074 | Deep Sacred Chime of Filianore
-00CCF0D8 | Dark Sacred Chime of Filianore
-00CCF13C | Poison Sacred Chime of Filianore
-00CCF1A0 | Blood Sacred Chime of Filianore
-00CCF204 | Raw Sacred Chime of Filianore
-00CCF268 | Blessed Sacred Chime of Filianore
-00CCF2CC | Hollow Sacred Chime of Filianore
 00CD1400 | Preacher's Right Arm
-00CD1464 | Heavy Preacher's Right Arm
-00CD14C8 | Sharp Preacher's Right Arm
-00CD152C | Refined Preacher's Right Arm
-00CD1590 | Simple Preacher's Right Arm
-00CD15F4 | Crystal Preacher's Right Arm
-00CD1658 | Fire Preacher's Right Arm
-00CD16BC | Chaos Preacher's Right Arm
-00CD1720 | Lightning Preacher's Right Arm
-00CD1784 | Deep Preacher's Right Arm
-00CD17E8 | Dark Preacher's Right Arm
-00CD184C | Poison Preacher's Right Arm
-00CD18B0 | Blood Preacher's Right Arm
-00CD1914 | Raw Preacher's Right Arm
-00CD1978 | Blessed Preacher's Right Arm
-00CD19DC | Hollow Preacher's Right Arm
 00D77440 | White Tree Bow (White Birch Bow)
-00D774A4 | Heavy White Tree Bow (White Birch Bow)
-00D77508 | Sharp White Tree Bow (White Birch Bow)
-00D7756C | Refined White Tree Bow (White Birch Bow)
-00D775D0 | Simple White Tree Bow (White Birch Bow)
-00D77634 | Crystal White Tree Bow (White Birch Bow)
-00D77698 | Fire White Tree Bow (White Birch Bow)
-00D776FC | Chaos White Tree Bow (White Birch Bow)
-00D77760 | Lightning White Tree Bow (White Birch Bow)
-00D777C4 | Deep White Tree Bow (White Birch Bow)
-00D77828 | Dark White Tree Bow (White Birch Bow)
-00D7788C | Poison White Tree Bow (White Birch Bow)
-00D778F0 | Blood White Tree Bow (White Birch Bow)
-00D77954 | Raw White Tree Bow (White Birch Bow)
-00D779B8 | Blessed White Tree Bow (White Birch Bow)
-00D77A1C | Hollow White Tree Bow (White Birch Bow)
 00D885B0 | Repeating Crossbow
-00D88614 | Heavy Repeating Crossbow
-00D88678 | Sharp Repeating Crossbow
-00D886DC | Refined Repeating Crossbow
-00D88740 | Simple Repeating Crossbow
-00D887A4 | Crystal Repeating Crossbow
-00D88808 | Fire Repeating Crossbow
-00D8886C | Chaos Repeating Crossbow
-00D888D0 | Lightning Repeating Crossbow
-00D88934 | Deep Repeating Crossbow
-00D88998 | Dark Repeating Crossbow
-00D889FC | Poison Repeating Crossbow
-00D88A60 | Blood Repeating Crossbow
-00D88AC4 | Raw Repeating Crossbow
-00D88B28 | Blessed Repeating Crossbow
-00D88B8C | Hollow Repeating Crossbow
 00F5F8C0 | Great Door Twinshields
 00F5F924 | Heavy Great Door Twinshields
 00F5F988 | Sharp Great Door Twinshields
@@ -4349,54 +3459,9 @@ Id       | Name                                                | Note
 00F5FDD4 | Raw Great Door Twinshields
 00F5FE38 | Blessed Great Door Twinshields
 00F5FE9C | Hollow Great Door Twinshields
-00F69500 | Ringed Knight Paired
-00F69564 | Heavy Ringed Knight Paired
-00F695C8 | Sharp Ringed Knight Paired
-00F6962C | Refined Ringed Knight Paired
-00F69690 | Simple Ringed Knight Paired
-00F696F4 | Crystal Ringed Knight Paired
-00F69758 | Fire Ringed Knight Paired
-00F697BC | Chaos Ringed Knight Paired
-00F69820 | Lightning Ringed Knight Paired
-00F69884 | Deep Ringed Knight Paired
-00F698E8 | Dark Ringed Knight Paired
-00F6994C | Poison Ringed Knight Paired
-00F699B0 | Blood Ringed Knight Paired
-00F69A14 | Raw Ringed Knight Paired
-00F69A78 | Blessed Ringed Knight Paired
-00F69ADC | Hollow Ringed Knight Paired
+00F69500 | Ringed Knight Paired Greatswords
 0135E7F0 | Dragonhead Shield
-0135E854 | Heavy Dragonhead Shield
-0135E8B8 | Sharp Dragonhead Shield
-0135E91C | Refined Dragonhead Shield
-0135E980 | Simple Dragonhead Shield
-0135E9E4 | Crystal Dragonhead Shield
-0135EA48 | Fire Dragonhead Shield
-0135EAAC | Chaos Dragonhead Shield
-0135EB10 | Lightning Dragonhead Shield
-0135EB74 | Deep Dragonhead Shield
-0135EBD8 | Dark Dragonhead Shield
-0135EC3C | Poison Dragonhead Shield
-0135ECA0 | Blood Dragonhead Shield
-0135ED04 | Raw Dragonhead Shield
-0135ED68 | Blessed Dragonhead Shield
-0135EDCC | Hollow Dragonhead Shield
 01452A30 | Dragonhead Greatshield
-01452A94 | Heavy Dragonhead Greatshield
-01452AF8 | Sharp Dragonhead Greatshield
-01452B5C | Refined Dragonhead Greatshield
-01452BC0 | Simple Dragonhead Greatshield
-01452C24 | Crystal Dragonhead Greatshield
-01452C88 | Fire Dragonhead Greatshield
-01452CEC | Chaos Dragonhead Greatshield
-01452D50 | Lightning Dragonhead Greatshield
-01452DB4 | Deep Dragonhead Greatshield
-01452E18 | Dark Dragonhead Greatshield
-01452E7C | Poison Dragonhead Greatshield
-01452EE0 | Blood Dragonhead Greatshield
-01452F44 | Raw Dragonhead Greatshield
-01452FA8 | Blessed Dragonhead Greatshield
-0145300C | Hollow Dragonhead Greatshield
 
 ### Protector - The Ringed City DLC (37)
 
