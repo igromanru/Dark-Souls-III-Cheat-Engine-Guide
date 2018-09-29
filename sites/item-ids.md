@@ -5,7 +5,7 @@
   * [Important ID's Information!](item-ids.md#important-ids-information)
   * [Goods](item-ids.md#goods-193) (193)
   * [Gestures](item-ids.md#gestures-33) (33)
-  * [Ammunition](item-ids.md#ammunition-19) (19)
+  * [Ammunition](item-ids.md#ammunition-18) (18)
   * [Weapons](item-ids.md#weapons-2202) (2202)
   * [Protector](item-ids.md#protector-307)  (307)
   * [Accessory](item-ids.md#accessory-111) (111)
@@ -15,6 +15,7 @@
     * [Miracle](item-ids.md#miracle-37) (35)
 * [Ashes of Ariandel DLC](item-ids.md#ashes-of-ariandel-dlc---items-ids)
   * [Goods](item-ids.md#goods---ashes-of-ariandel-dlc-4) (4)
+  * [Ammunition](item-ids.md#ammunition---ashes-of-ariandel-dlc-1) (1)
   * [Weapons](item-ids.md#weapons---ashes-of-ariandel-dlc-106) (106)
   * [Protector](item-ids.md#protector---ashes-of-ariandel-dlc-19) (19)
   * [Accessory](item-ids.md#accessory---ashes-of-ariandel-dlc-1) (1)
@@ -272,7 +273,7 @@ Id       | Name                                                | Note
 4000234A | Toast  | Gestures can't be picked up!
 4000234B | Silent Ally  | Gestures can't be picked up!
 
-### Ammunition (19)
+### Ammunition (18)
 
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
@@ -294,7 +295,6 @@ Id       | Name                                                | Note
 00062BB0 | Lightning Bolt |
 00062C14 | Splintering Bolt |
 00062C78 | Exploding Bolt |
-000623E0 | Millwood Greatarrow | Ashes of Ariandel
 
 ### Weapons (2202)
 
@@ -3057,6 +3057,13 @@ Id       | Name                       | Note
 40000869 | Champions Bones
 4000086A | Captain's Ashes
 4000086B | Contraption Key
+
+
+### Ammunition - Ashes of Ariandel DLC (1)
+
+Id       | Name                                                | Note
+-------- | --------------------------------------------------- | --------------
+000623E0 | Millwood Greatarrow | Ashes of Ariandel
 
 ### Weapons - Ashes of Ariandel DLC (106)
 
