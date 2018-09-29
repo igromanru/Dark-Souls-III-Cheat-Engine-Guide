@@ -2,7 +2,7 @@
 
 * [Back to main page](README.md)
 * [Item IDs](item-ids.md#item-ids)
-  * [Important ID's Information!](item-ids.md#importent-ids-information)
+  * [Important ID's Information!](item-ids.md#important-ids-information)
   * [Goods](item-ids.md#goods-193) (193)
   * [Gestures](item-ids.md#gestures-33) (33)
   * [Ammunition](item-ids.md#ammunition-19) (19)
