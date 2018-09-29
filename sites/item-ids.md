@@ -2,36 +2,44 @@
 
 * [Back to main page](README.md)
 * [Item IDs](item-ids.md#item-ids)
-  * [Importent ID's Information!](item-ids.md#importent-ids-information)
-  * [Goods](item-ids.md#goods-407) (407)
-  * [Weapons](item-ids.md#weapons-2830) (2830)
-  * [Protector](item-ids.md#protector-347)  (347)
-  * [Accessory](item-ids.md#accessory-171) (171)
-  * [Magic](item-ids.md#magic-101) (101)
+  * [Important ID's Information!](item-ids.md#importent-ids-information)
+  * [Goods](item-ids.md#goods-193) (193)
+  * [Gestures](item-ids.md#gestures-33) (33)
+  * [Ammunition](item-ids.md#ammunition-19) (19)
+  * [Weapons](item-ids.md#weapons-2202) (2202)
+  * [Protector](item-ids.md#protector-307)  (307)
+  * [Accessory](item-ids.md#accessory-111) (111)
+  * [Magic](item-ids.md#magic-98) (98)
     * [Sorcery](item-ids.md#sorcery-34) (34)
     * [Pyromancy](item-ids.md#pyromancy-29) (29)
-    * [Miracle](item-ids.md#miracle-37) (37)
+    * [Miracle](item-ids.md#miracle-37) (35)
 * [Ashes of Ariandel DLC](item-ids.md#ashes-of-ariandel-dlc---items-ids)
   * [Goods](item-ids.md#goods---ashes-of-ariandel-dlc-4) (4)
-  * [Weapons](item-ids.md#weapons---ashes-of-ariandel-dlc-17) (272)
+  * [Weapons](item-ids.md#weapons---ashes-of-ariandel-dlc-106) (106)
   * [Protector](item-ids.md#protector---ashes-of-ariandel-dlc-19) (19)
   * [Accessory](item-ids.md#accessory---ashes-of-ariandel-dlc-1) (1)
   * [Magic](item-ids.md#magic---ashes-of-ariandel-dlc-4) (4)    
 * [The Ringed City DLC](item-ids.md#the-ringed-city-dlc---items-ids)
   * [Goods](item-ids.md#goods---the-ringed-city-dlc-11) (11)
-  * [Weapons](item-ids.md#weapons---the-ringed-city-dlc-22) (336)
+  * [Weapons](item-ids.md#weapons---the-ringed-city-dlc-96) (96)
   * [Protector](item-ids.md#protector---the-ringed-city-dlc-37) (37)
   * [Accessory](item-ids.md#accessory---the-ringed-city-dlc-8) (8)
   * [Magic](item-ids.md#magic---the-ringed-city-dlc-6) (6)
 * [Unused content](item-ids.md#unused-content---items-ids)
+  * [Goods](item-ids.md#goods---unused-content-18) (18)
+  * [Gestures](item-ids.md#gestures---unused-content-1) (1)
+  * [Weapons](item-ids.md#weapons---unused-content-23) (23)
+  * [Protector](item-ids.md#protector---unused-content-40) (40)
+  * [Accessory](item-ids.md#accessory---unused-content-9) (9)
+  * [Magic](item-ids.md#magic---unused-content-2) (2)
 
 
-### Importent ID's Information!
+### Important ID's Information!
 Sometimes you will find multiple ID's for the same item, always try the last one first!  
 Example: "Ring of Steel Protection" got two entries, ID 20000078 and ID 20004E48, the **20004E48** is the right one.  
 There are duplicate item ID's, because they have added many items from DS1 at first.
 
-### Goods (407)
+### Goods (193)
 
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
@@ -47,7 +55,6 @@ Id       | Name                                                | Note
 40000110 | Blooming Purple Moss Clump  |
 40000112 | Purging Stone  |
 40000114 | Rime-blue Moss Clump  |
-40000115 | Monastery Charm  |
 40000118 | Repair Powder  |
 40000122 | Kukri  |
 40000124 | Firebomb  |
@@ -57,7 +64,6 @@ Id       | Name                                                | Note
 40000129 | Black Firebomb  |
 4000012B | Rope Firebomb  |
 4000012C | Lightning Urn  |
-4000012D | Holy Water Urn  |
 4000012E | Rope Black Firebomb  |
 4000012F | Stalk Dung Pie  |
 40000130 | Duel Charm  |
@@ -83,7 +89,6 @@ Id       | Name                                                | Note
 40000175 | Pale Tongue  |
 40000176 | Vertebra Shackle  |
 40000177 | Sunlight Medal  |
-40000178 | Pendant  |
 40000179 | Dragon Head Stone  |
 4000017A | Dragon Torso Stone  |
 4000017C | Rubbish  |
@@ -113,12 +118,6 @@ Id       | Name                                                | Note
 400001A3 | Soul of a Champion  |
 400001A4 | Soul of a Great Champion  |
 400001B8 | Seed of a Giant Tree  |
-400001B9 | Spirit Amethyst  |
-400001BA | Spirit Amethyst  |
-400001C2 | Oozing Charm Berry  |
-400001C3 | Oozing Flash Berry  |
-400001C4 | Mossfruit  |
-400001C5 | Brightbug  |
 400001C6 | Young White Branch  |
 400001C7 | Rusted Coin  |
 400001C8 | Siegbräu  |
@@ -145,14 +144,12 @@ Id       | Name                                                | Note
 400002D0 | Soul of the Old Demon King  |
 400002D1 | Soul of Dragonslayer Armour  |
 400002D2 | Soul of the Nameless King  |
-400002D3 | Soul of the Great Bat  |
 400002D4 | Soul of Pontiff Sulyvahn  |
 400002D5 | Soul of Aldrich  |
 400002D6 | Soul of High Lord Wolnir  |
 400002D7 | Soul of the Rotted Greatwood  |
 400002D8 | Soul of Rosaria  |
 400002D9 | Soul of the Deacons of the Deep  |
-400002DB | Soul of the Twin Princes  |
 400002DC | Soul of Yhorm the Giant  |
 400002DD | Soul of the Lords  |
 400002E3 | Soul of a Demon  |
@@ -161,8 +158,7 @@ Id       | Name                                                | Note
 400003E8 | Titanite Shard  |
 400003E9 | Large Titanite Shard  |
 400003EA | Titanite Chunk  |
-400003EB | Titanite Slab  | Ban-Warning, you can have only 18 in one play through!
-400003F2 | Dragon Scale  |
+400003EB | Titanite Slab  | Ban-Warning, you can have only 15 in one play through!
 400003FC | Titanite Scale  |
 40000406 | Twinkling Titanite  |
 4000044C | Heavy Gem  |
@@ -182,8 +178,6 @@ Id       | Name                                                | Note
 400004D8 | Hollow Gem  |
 400004E2 | Shriving Stone  |
 400007D1 | Lift Chamber Key  |
-400007D3 | Bridge Key  |
-400007D4 | Iron Seal of the Wolf  |
 400007D5 | Small Doll  |
 400007D7 | Jailbreaker's Key  |
 400007D8 | Jailer's Key Ring  |
@@ -194,7 +188,6 @@ Id       | Name                                                | Note
 400007DD | Tower Key  |
 400007DE | Grand Archives Key  |
 400007DF | Tower Key  |
-40000835 | Holy Remains  |
 40000836 | Small Lothric Banner  |
 40000837 | Farron Coal  |
 40000838 | Sage's Coal  |
@@ -214,7 +207,6 @@ Id       | Name                                                | Note
 40000846 | Loretta's Bone  |
 40000847 | Braille Divine Tome of Carim  |
 40000848 | Braille Divine Tome of Lothric  |
-40000849 | Braille Divine Sunlight Tome  |
 4000084B | Cinders of a Lord  |
 4000084C | Cinders of a Lord  |
 4000084D | Cinders of a Lord  |
@@ -228,7 +220,6 @@ Id       | Name                                                | Note
 40000855 | Logan's Scroll  |
 40000856 | Crystal Scroll  |
 40000857 | Transposing Kiln  |
-40000858 | Gwyndolin's Finger  |
 40000859 | Coiled Sword  |
 4000085A | Eyes of a Fire Keeper  |
 4000085B | Sword of Avowal  |
@@ -245,6 +236,8 @@ Id       | Name                                                | Note
 40000866 | Patches' Ashes  |
 40000867 | Dragon Chaser's Ashes  |
 40000868 | Easterner's Ashes  |
+
+### Gestures (33)
 40002328 | Beckon  |  Gestures can't be picked up!
 40002329 | Point forward  | Gestures can't be picked up!
 4000232A | Hurrah!  | Gestures can't be picked up!
@@ -278,32 +271,36 @@ Id       | Name                                                | Note
 40002349 | Sleep  | Gestures can't be picked up!
 4000234A | Toast  | Gestures can't be picked up!
 4000234B | Silent Ally  | Gestures can't be picked up!
-4000234C | Savage's Bow  | Gestures can't be picked up!
 
-### Weapons (2830)
+### Ammunition (19)
 
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
-00015F90 | Torch
+00061A80 | Standard Arrow |
+00061AE4 | Fire Arrow |
+00061B48 | Poison Arrow |
+00061BAC | Large Arrow |
+00061C10 | Feather Arrow |
+00061C74 | Moonlight Arrow |
+00061CD8 | Wood Arrow |
+00061D3C | Dark Arrow |
+00062250 | Dragonslayer Greatarrow |
+00062318 | Dragonslayer Lightning Arrow |
+0006237C | Onislayer Greatarrow |
+00062A20 | Standard Bolt |
+00062A84 | Heavy Bolt |
+00062AE8 | Sniper Bolt |
+00062B4C | Wood Bolt |
+00062BB0 | Lightning Bolt |
+00062C14 | Splintering Bolt |
+00062C78 | Exploding Bolt |
+000623E0 | Millwood Greatarrow | Ashes of Ariandel
+
+### Weapons (2202)
+
+Id       | Name                                                | Note
+-------- | --------------------------------------------------- | --------------
 0001ADB0 | Fists
-00061A80 | Standard Arrow
-00061AE4 | Fire Arrow
-00061B48 | Poison Arrow
-00061BAC | Large Arrow
-00061C10 | Feather Arrow
-00061C74 | Moonlight Arrow
-00061CD8 | Wood Arrow
-00061D3C | Dark Arrow
-00062250 | Dragonslayer Greatarrow
-00062318 | Dragonslayer Lightning Arrow
-0006237C | Onislayer Greatarrow
-00062A20 | Standard Bolt
-00062A84 | Heavy Bolt
-00062AE8 | Sniper Bolt
-00062B4C | Wood Bolt
-00062BB0 | Lightning Bolt
-00062C14 | Splintering Bolt
-00062C78 | Exploding Bolt
 000F4240 | Dagger
 000F42A4 | Heavy Dagger
 000F4308 | Sharp Dagger
@@ -368,22 +365,6 @@ Id       | Name                                                | Note
 000FE394 | Raw Rotten Ghru Dagger
 000FE3F8 | Blessed Rotten Ghru Dagger
 000FE45C | Hollow Rotten Ghru Dagger
-00100590 | Blood-stained Short Sword
-001005F4 | Heavy Blood-stained Short Sword
-00100658 | Sharp Blood-stained Short Sword
-001006BC | Refined Blood-stained Short Sword
-00100720 | Simpleton Blood-stained Short Sword
-00100784 | Crystal Blood-stained Short Sword
-001007E8 | Fire Blood-stained Short Sword
-0010084C | Chaos Blood-stained Short Sword
-001008B0 | Lightning Blood-stained Short Sword
-00100914 | Deep Blood-stained Short Sword
-00100978 | Dark Blood-stained Short Sword
-001009DC | Poison Blood-stained Short Sword
-00100A40 | Blood Blood-stained Short Sword
-00100AA4 | Raw Blood-stained Short Sword
-00100B08 | Blessed Blood-stained Short Sword
-00100B6C | Hollow Blood-stained Short Sword
 00102CA0 | Harpe
 00102D04 | Heavy Harpe
 00102D68 | Sharp Harpe
@@ -1092,22 +1073,6 @@ Id       | Name                                                | Note
 006C0D54 | Raw Dragonslayer's Axe
 006C0DB8 | Blessed Dragonslayer's Axe
 006C0E1C | Hollow Dragonslayer's Axe
-006C2F50 | Missionary's Axe
-006C2FB4 | Heavy Missionary's Axe
-006C3018 | Sharp Missionary's Axe
-006C307C | Refined Missionary's Axe
-006C30E0 | Simpleton Missionary's Axe
-006C3144 | Crystal Missionary's Axe
-006C31A8 | Fire Missionary's Axe
-006C320C | Chaos Missionary's Axe
-006C3270 | Lightning Missionary's Axe
-006C32D4 | Deep Missionary's Axe
-006C3338 | Dark Missionary's Axe
-006C339C | Poison Missionary's Axe
-006C3400 | Blood Missionary's Axe
-006C3464 | Raw Missionary's Axe
-006C34C8 | Blessed Missionary's Axe
-006C352C | Hollow Missionary's Axe
 006C5660 | Thrall Axe
 006C56C4 | Heavy Thrall Axe
 006C5728 | Sharp Thrall Axe
@@ -1275,9 +1240,7 @@ Id       | Name                                                | Note
 007CAA10 | Gargoyle Flame Hammer
 007CD120 | Vordt's Great Hammer
 007CF830 | Old King's Great Hammer
-007D4650 | Four Knights Hammer
 007D6D60 | Heysel Pick
-007D9470 | Hammer of the Great Tree
 007DBB80 | Warpick
 007DBBE4 | Heavy Warpick
 007DBC48 | Sharp Warpick
@@ -1425,22 +1388,6 @@ Id       | Name                                                | Note
 008AB8E4 | Raw Lothric Long Spear
 008AB948 | Blessed Lothric Long Spear
 008AB9AC | Hollow Lothric Long Spear
-008ADAE0 | Four-Pronged Plow
-008ADB44 | Heavy Four-Pronged Plow
-008ADBA8 | Sharp Four-Pronged Plow
-008ADC0C | Refined Four-Pronged Plow
-008ADC70 | Simple Four-Pronged Plow
-008ADCD4 | Crystal Four-Pronged Plow
-008ADD38 | Fire Four-Pronged Plow
-008ADD9C | Chaos Four-Pronged Plow
-008ADE00 | Lightning Four-Pronged Plow
-008ADE64 | Deep Four-Pronged Plow
-008ADEC8 | Dark Four-Pronged Plow
-008ADF2C | Poison Four-Pronged Plow
-008ADF90 | Blood Four-Pronged Plow
-008ADFF4 | Raw Four-Pronged Plow
-008AE058 | Blessed Four-Pronged Plow
-008AE0BC | Hollow Four-Pronged Plow
 008B01F0 | Gargoyle Flame Spear
 008B2900 | Rotten Ghru Spear
 008B2964 | Heavy Rotten Ghru Spear
@@ -1610,9 +1557,6 @@ Id       | Name                                                | Note
 0099FB88 | Blessed Winged Knight Halberd
 0099FBEC | Hollow Winged Knight Halberd
 009A1D20 | Gundyr's Halberd
-009A4430 | Lothric's Scythe
-009A6B40 | Ancient Dragon Halberd
-009A9250 | Scythe of Want
 009AB960 | Red Hilted Halberd
 009AB9C4 | Heavy Red Halberd
 009ABA28 | Sharp Red Halberd
@@ -1722,7 +1666,6 @@ Id       | Name                                                | Note
 00C80AF0 | Archdeacon's Great Staff
 00C83200 | Golden Ritual Spear
 00C88020 | Yorshka's Chime
-00C8A730 | Sacred Beast Catalyst
 00C8CE40 | Sage's Crystal Staff
 00C8F550 | Heretic's Staff
 00C91C60 | Court Sorcerer's Staff
@@ -1739,11 +1682,6 @@ Id       | Name                                                | Note
 00CACA10 | Saint's Talisman
 00CAF120 | White Hair Talisman
 00CC77C0 | Pyromancy Flame
-00CC9ED0 | Deep Pyromancy Flame
-00CD3B10 | Flickering Pyromancy Flame
-00CD6220 | Strong Pyromancy Flame
-00CDFE60 | Deep Pyromancy Flame
-00CE2570 | Pitch-Dark Pyromancy Flame
 00CF8500 | Dragonslayer Greatbow
 00D5C690 | Short Bow
 00D5EDA0 | Composite Bow
@@ -1755,7 +1693,6 @@ Id       | Name                                                | Note
 00D6FF10 | Avelyn
 00D72620 | Knight's Crossbow
 00D74D30 | Heavy Crossbow
-00D77440 | Dancer's Short Bow
 00D79B50 | Darkmoon Longbow
 00D7C260 | Onislayer Greatbow
 00D7E970 | Black Bow of Pharis
@@ -1858,7 +1795,6 @@ Id       | Name                                                | Note
 00F53A84 | Raw Gotthard Twinswords
 00F53AE8 | Blessed Gotthard Twinswords
 00F53B4C | Hollow Gotthard Twinswords
-00F55C80 | Golden Dual Swords
 00F58390 | Onikiri and Ubadachi
 00F583F4 | Heavy Onikiri and Ubadachi
 00F58458 | Sharp Onikiri and Ubadachi
@@ -2212,22 +2148,6 @@ Id       | Name                                                | Note
 013502A4 | Raw Llewellyn Shield
 01350308 | Blessed Llewellyn Shield
 0135036C | Hollow Llewellyn Shield
-013524A0 | Cleric's Parma
-01352504 | Heavy Cleric's Parma
-01352568 | Sharp Cleric's Parma
-013525CC | Refined Cleric's Parma
-01352630 | Simpleton Cleric's Parma
-01352694 | Crystal Cleric's Parma
-013526F8 | Fire Cleric's Parma
-0135275C | Chaos Cleric's Parma
-013527C0 | Lightning Cleric's Parma
-01352824 | Deep Cleric's Parma
-01352888 | Dark Cleric's Parma
-013528EC | Poison Cleric's Parma
-01352950 | Blood Cleric's Parma
-013529B4 | Raw Cleric's Parma
-01352A18 | Blessed Cleric's Parma
-01352A7C | Hollow Cleric's Parma
 01354BB0 | Golden Falcon Shield
 01354C14 | Heavy Falcon Shield
 01354C78 | Sharp Falcon Shield
@@ -2245,7 +2165,6 @@ Id       | Name                                                | Note
 01355128 | Blessed Falcon Shield
 0135518C | Hollow Falcon Shield
 013572C0 | Sacred Bloom Shield
-013599D0 | Ancient Dragon Greatshield
 01409650 | Lothric Knight Shield
 014096B4 | Heavy Lothric Shield
 01409718 | Sharp Lothric Shield
@@ -2296,7 +2215,6 @@ Id       | Name                                                | Note
 01418628 | Blessed Carthus Shield
 0141868C | Hollow Carthus Shield
 0141F5E0 | Black Knight Shield
-01421CF0 | Prince's Shield
 01424400 | Silver Knight Shield
 01426B10 | Spiked Shield
 01426B74 | Heavy Spiked Shield
@@ -2585,7 +2503,7 @@ Id       | Name                                                | Note
 0151DA3C | Hollow Stone Greatshield
 015EF3C0 | Torch
 
-### Protector (347)
+### Protector (307)
 
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
@@ -2597,10 +2515,6 @@ Id       | Name                                                | Note
 11298FC8 | Knight Armor
 112993B0 | Knight Gauntlets
 11299798 | Knight Leggings
-11312D00 | Burial Knight's Helm
-113130E8 | Burial Knight's Armor
-113134D0 | Burial Knight's Gauntlets
-113138B8 | Burial Knight's Leggings
 11406F40 | Firelink Helm
 11407328 | Firelink Armor
 11407710 | Firelink Gauntlets
@@ -2676,33 +2590,15 @@ Id       | Name                                                | Note
 11D909A8 | Cleric Blue Robe
 11D90D90 | Cleric Gloves
 11D91178 | Cleric Trousers
-11DA9048 | Dingy Maiden's Overcoat
-11E84800 | Heavy Knight's Helm
-11E84BE8 | Heavy Knight's Armour
-11E84FD0 | Heavy Knight's Gauntlets
-11E853B8 | Heavy Knight's Leggings
-11F78A40 | Grotto Hat
-11F78E28 | Grotto Robe
-11F79210 | Grotto Wrap
-11F795F8 | Grotto Trousers
 12625A00 | Steel Soldier Helm
 12625DE8 | Deserter Armor
-126261D0 | Soldier's Gauntlets
 126265B8 | Deserter Trousers
-1263E0A0 | Soldier's Hood
 12656740 | Thief Mask
 129020C0 | Sage's Big Hat
-129024A8 | Elder's Robe
 129F6300 | Aristocrat's Mask
 129F66E8 | Jailer Robe
 129F6AD0 | Jailer Gloves
 129F6EB8 | Jailer Trousers
-12A70420 | Saint's Veil
-12A70808 | Saint's Dress
-12AEA540 | Footman's Hood
-12AEA928 | Footman's Overcoat
-12AEAD10 | Footman's Bracelets
-12AEB0F8 | Footman's Trousers
 12BDE780 | Grave Warden Hood
 12BDEB68 | Grave Warden Robe
 12BDEF50 | Grave Warden Wrap
@@ -2759,8 +2655,6 @@ Id       | Name                                                | Note
 13750668 | Undead Legion Armor
 13750A50 | Undead Legion Gauntlet
 13750E38 | Undead Legion Leggings
-138BE5E0 | Man Serpent's Mask
-138BE9C8 | Man Serpent's Robe
 13938700 | Fire Witch Helm
 13938AE8 | Fire Witch Armor
 13938ED0 | Fire Witch Gauntlets
@@ -2772,10 +2666,6 @@ Id       | Name                                                | Note
 13AA6A60 | Hood of Prayer
 13AA6E48 | Robe of Prayer
 13AA7618 | Skirt of Prayer
-13B20B80 | Giant's crown | Can't be picked up
-13B20F68 | Giant's Armor | Can't be picked up
-13B21350 | Giant's Gauntlets | Can't be picked up
-13B21738 | Giant's Leggings | Can't be picked up
 13C14DC0 | Dancer's Crown
 13C151A8 | Dancer's Armor
 13C15590 | Dancer's Gauntlets
@@ -2784,15 +2674,11 @@ Id       | Name                                                | Note
 13D093E8 | Gundyr's Armor
 13D097D0 | Gundyr's Gauntlets
 13D09BB8 | Gundyr's Leggings
-13DFD240 | Old Monarch's Crown
-13DFD628 | Old Monarch's Robe
 13EF1480 | Archdeacon White Crown
 13EF1868 | Archdeacon Holy Garb
 13EF2038 | Archdeacon Skirt
 13F6B988 | Deacon Robe
 13F6C158 | Deacon Skirt
-13FE56C0 | Frigid Valley Mask
-140D9900 | Dingy Hood
 140D9CE8 | Fire Keeper Robe
 140DA0D0 | Fire Keeper Gloves
 140DA4B8 | Fire Keeper Skirt
@@ -2916,18 +2802,10 @@ Id       | Name                                                | Note
 159A5768 | Smough's Armor
 159A5B50 | Smough's Gauntlets
 159A5F38 | Smough's Leggings
-15A995C0 | Hexer's Hood
-15A999A8 | Hexer's Robes
-15A99D90 | Hexer's Gloves
-15A9A178 | Hexer's Boots
 15B8D800 | Helm of Thorns
 15B8DBE8 | Armor of Thorns
 15B8DFD0 | Gauntlets of Thorns
 15B8E3B8 | Leggings of Thorns
-15C81A40 | Varangian Helm
-15C81E28 | Varangian Armor
-15C82210 | Varangian Cuffs
-15C825F8 | Varangian Leggings
 15D75C80 | Crown of Dusk
 15D76068 | Antiquated Dress
 15D76450 | Antiquated Gloves
@@ -2937,7 +2815,7 @@ Id       | Name                                                | Note
 15E6A690 | Karla's Gloves
 15E6AA78 | Karla's Trousers
 
-### Accessory (171)
+### Accessory (111)
 
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
@@ -2990,7 +2868,6 @@ Id       | Name                                                | Note
 20004EE0 | Wolf Ring+2
 20004EE8 | Leo Ring
 20004EF2 | Ring of Sacrifice
-20004EFC | Rare Ring of Sacrifice
 20004F06 | Young Dragon Ring
 20004F07 | Bellowing Dragoncrest Ring
 20004F10 | Great Swamp Ring
@@ -3035,7 +2912,6 @@ Id       | Name                                                | Note
 2000503C | Flynn's Ring
 20005046 | Prisoner's Chain
 20005050 | Untrue Dark Ring
-2000505A | Yorgh's Ring
 20005064 | Obscuring Ring
 2000506E | Ring of the Evil Eye
 2000506F | Ring of the Evil Eye+1
@@ -3046,23 +2922,16 @@ Id       | Name                                                | Note
 20005096 | Aldrich's Sapphire
 200050B4 | Lloyd's Sword Ring
 200050BE | Lloyd's Shield Ring
-200050D2 | Ring of Hiding
 200050DC | Estus Ring
 200050E6 | Ashen Estus Ring
 200050F0 | Horsehoof Ring
 200050FA | Carthus Bloodring
 20005104 | Reversal Ring
 2000510E | Pontiff's Right Eye
-20005118 | Ring of Sustained Toughness
-20005122 | Ring of Sustained Energy
-2000512C | Ring of Sustained Magic
 20005136 | Pontiff's Left Eye
-20005140 | Ring of Sustained Essence
-2000514A | Ring of Sustained Might
-20005154 | Ring of Sustained Fortune
 2000515E | Dragonscale Ring
 
-### Magic (101)
+### Magic (98)
 #### Sorcery (34)
 
 Id       | Name                           | Note
@@ -3092,7 +2961,7 @@ Id       | Name                           | Note
 4014ACF8 | Chameleon
 4014B0E0 | Aural Decoy
 4014E790 | White Dragon Breath
-4014EF60 | Farron Hail ery
+4014EF60 | Farron Hail
 4014F348 | Crystal Hail
 4014F730 | Soul Greatsword
 4014FB18 | Farron Flashsword
@@ -3136,7 +3005,7 @@ Id       | Name                                 | Note
 40284880 | Sacred Flame
 40286F90 | Carthus Beacon
 
-#### Miracle (37)
+#### Miracle (35)
 
 Id       | Name                         | Note
 -------- | ---------------------------- | --------------
@@ -3149,7 +3018,6 @@ Id       | Name                         | Note
 40357B68 | Bountiful Sunlight
 40358338 | Bountiful Light
 40358720 | Caressing Tears
-40359AA8 | Morbid Temptation
 4035B600 | Tears of Denial
 4035B9E8 | Homeward
 4035DD10 | Force
@@ -3173,7 +3041,6 @@ Id       | Name                         | Note
 40389C30 | Lightning Stake
 4038C340 | Divine Pillars of Light
 4038EA50 | Lifehunt Scythe
-40393870 | Dorris Swarm
 40395F80 | Blessed Weapon
 40398690 | Deep Protection
 4039ADA0 | Atonement
@@ -3191,11 +3058,10 @@ Id       | Name                       | Note
 4000086A | Captain's Ashes
 4000086B | Contraption Key
 
-### Weapons - Ashes of Ariandel DLC (272)
+### Weapons - Ashes of Ariandel DLC (106)
 
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
-000623E0 | Millwood Greatarrow
 00222E00 | Onyx Blade
 003EDDC0 | Follower Sabre
 003EDE24 | Heavy Follower Sabre
@@ -3362,7 +3228,7 @@ Id       | Name                                                | Note
 4000086E | Blood of the Dark souls
 4000086F | Young Grass Dew | (NOT Life Gem)
 
-### Weapons - The Ringed City DLC (336)
+### Weapons - The Ringed City DLC (96)
 
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
@@ -3531,39 +3397,126 @@ Id       | Name                           | Type               | Note
 
 ## Unused content - Items ID's
 
-### Goods - Unused content ()
+### Goods - Unused content (18)
 
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
-400001B9 | Spirit Amethyst
-400001BA | Spirit Amethyst
-400007D3 | Bridge Key
-
-### Weapons - Unused content ()
-
-Id       | Name                                                | Note
--------- | --------------------------------------------------- | --------------
-00C8A730 | Sacred Beast Catalyst
+40000115 | Monastery Charm  |
+4000012D | Holy Water Urn
+40000178 | Pendant  |
+400001B9 | Spirit Amethyst  |
+400001BA | Spirit Amethyst  |
+400001C2 | Oozing Charm Berry  |
+400001C3 | Oozing Flash Berry  |
+400001C4 | Mossfruit  |
+400001C5 | Brightbug  |
+400002D3 | Soul of the Great Bat  |
+400002DB | Soul of the Twin Princes  | Another version of this item is used in the game
+400003F2 | Dragon Scale  |
+400007D3 | Bridge Key  |
+400007D4 | Iron Seal of the Wolf  |
 400007DB | Dungeon Ground Floor Key
-00CD3B10 | Flickering Pyromancy
+40000835 | Holy Remains  |
+40000849 | Braille Divine Sunlight Tome  |
+40000858 | Gwyndolin's Finger  |
+
+### Gestures - Unused content (1)
+
+Id       | Name                                                | Note
+-------- | --------------------------------------------------- | --------------
+4000234C | Savage's Bow  | Gestures can't be picked up!
+
+### Weapons - Unused content (23)
+
+Id       | Name                                                | Note
+-------- | --------------------------------------------------- | --------------
+00015F90 | Torch | Another version of this weapon is used in the game
+00100590 | Blood-stained Short Sword
+006C2F50 | Missionary's Axe
+006D40C0 | Dragon King Greataxe
+007D4650 | Four Knights Hammer
+007D9470 | Hammer of the Great Tree
+008ADAE0 | Four-Pronged Plow | Another version of this weapon is used in the game
+00C8A730 | Sacred Beast Catalyst
+00F55C80 | Golden Dual Swords
+009A4430 | Lothric's Scythe
+009A6B40 | Ancient Dragon Halberd
+009A9250 | Scythe of Want
+00C8A730 | Sacred Beast Catalyst
+00CC9ED0 | Deep Pyromancy Flame
+00CD3B10 | Flickering Pyromancy Flame
+00CD6220 | Strong Pyromancy Flame
 00CDFE60 | Deep Pyromancy Flame
 00CE2570 | Pitch-Dark Pyromancy Flame
+00D77440 | Dancer's Short Bow
+00F55C80 | Golden Dual Swords
+013524A0 | Cleric's Parma
+013599D0 | Ancient Dragon Greatshield | Another version of this shield is used in the game
+01421CF0 | Prince's Shield
 
-
-### Protector - Unused content ()
+### Protector - Unused content (41)
 
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
+11312D00 | Burial Knight's Helm
+113130E8 | Burial Knight's Armor
+113134D0 | Burial Knight's Gauntlets
+113138B8 | Burial Knight's Leggings
+11DA9048 | Dingy Maiden's Overcoat
+11E84800 | Heavy Knight's Helm
+11E84BE8 | Heavy Knight's Armour
+11E84FD0 | Heavy Knight's Gauntlets
+11E853B8 | Heavy Knight's Leggings
+11F78A40 | Grotto Hat
+11F78E28 | Grotto Robe
+11F79210 | Grotto Wrap
+11F795F8 | Grotto Trousers
+126261D0 | Soldier's Gauntlets
+1263E0A0 | Soldier's Hood
+129024A8 | Elder's Robe
+12A70420 | Saint's Veil
+12A70808 | Saint's Dress
+12AEA540 | Footman's Hood
+12AEA928 | Footman's Overcoat
+12AEAD10 | Footman's Bracelets
+12AEB0F8 | Footman's Trousers
 12E40D20 | Scholar's Shed Skin
+138BE5E0 | Man Serpent's Mask
+138BE9C8 | Man Serpent's Robe
+13B20B80 | Giant's crown | Can't be picked up
+13B20F68 | Giant's Armor | Can't be picked up
+13B21350 | Giant's Gauntlets | Can't be picked up
+13B21738 | Giant's Leggings | Can't be picked up
+13DFD240 | Old Monarch's Crown
+13DFD628 | Old Monarch's Robe
+13FE56C0 | Frigid Valley Mask
+140D9900 | Dingy Hood
+15A995C0 | Hexer's Hood
+15A999A8 | Hexer's Robes
+15A99D90 | Hexer's Gloves
+15A9A178 | Hexer's Boots
+15C81A40 | Varangian Helm
+15C81E28 | Varangian Armor
+15C82210 | Varangian Cuffs
+15C825F8 | Varangian Leggings
 
-
-### Accessory - Unused content ()
+### Accessory - Unused content (9)
 
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
+20004EFC | Rare Ring of Sacrifice
+2000505A | Yorgh's Ring
+200050D2 | Ring of Hiding
+20005118 | Ring of Sustained Toughness
+20005122 | Ring of Sustained Energy
+2000512C | Ring of Sustained Magic
+20005140 | Ring of Sustained Essence
+2000514A | Ring of Sustained Might
+20005154 | Ring of Sustained Fortune
 
-
-### Magic - Unused content ()
+### Magic - Unused content (2)
 
 Id       | Name                           | Type               | Note
 -------- | -------------------------------| ------------------ | --------------
+40359AA8 | Morbid Temptation | miracle
+40393870 | Dorris Swarm | miracle
