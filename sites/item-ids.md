@@ -1,38 +1,37 @@
 ## Item IDs
 
-* [Back to main page](README.md)
-* [Item IDs](item-ids.md#item-ids)
-  * [Important ID's Information!](item-ids.md#important-ids-information)
-  * [Goods](item-ids.md#goods-193) (193)
-  * [Gestures](item-ids.md#gestures-33) (33)
-  * [Ammunition](item-ids.md#ammunition-18) (18)
-  * [Weapons](item-ids.md#weapons-2202) (2202)
-  * [Protector](item-ids.md#protector-307)  (307)
-  * [Accessory](item-ids.md#accessory-111) (111)
-  * [Magic](item-ids.md#magic-98) (98)
-    * [Sorcery](item-ids.md#sorcery-34) (34)
-    * [Pyromancy](item-ids.md#pyromancy-29) (29)
-    * [Miracle](item-ids.md#miracle-37) (35)
-* [Ashes of Ariandel DLC](item-ids.md#ashes-of-ariandel-dlc---items-ids)
-  * [Goods](item-ids.md#goods---ashes-of-ariandel-dlc-4) (4)
-  * [Ammunition](item-ids.md#ammunition---ashes-of-ariandel-dlc-1) (1)
-  * [Weapons](item-ids.md#weapons---ashes-of-ariandel-dlc-106) (106)
-  * [Protector](item-ids.md#protector---ashes-of-ariandel-dlc-19) (19)
-  * [Accessory](item-ids.md#accessory---ashes-of-ariandel-dlc-1) (1)
-  * [Magic](item-ids.md#magic---ashes-of-ariandel-dlc-4) (4)    
-* [The Ringed City DLC](item-ids.md#the-ringed-city-dlc---items-ids)
-  * [Goods](item-ids.md#goods---the-ringed-city-dlc-11) (11)
-  * [Weapons](item-ids.md#weapons---the-ringed-city-dlc-96) (96)
-  * [Protector](item-ids.md#protector---the-ringed-city-dlc-37) (37)
-  * [Accessory](item-ids.md#accessory---the-ringed-city-dlc-8) (8)
-  * [Magic](item-ids.md#magic---the-ringed-city-dlc-6) (6)
-* [Unused content](item-ids.md#unused-content---items-ids)
-  * [Goods](item-ids.md#goods---unused-content-18) (18)
-  * [Gestures](item-ids.md#gestures---unused-content-1) (1)
-  * [Weapons](item-ids.md#weapons---unused-content-23) (23)
-  * [Protector](item-ids.md#protector---unused-content-40) (40)
-  * [Accessory](item-ids.md#accessory---unused-content-9) (9)
-  * [Magic](item-ids.md#magic---unused-content-2) (2)
+- [Item IDs](#item-ids)
+  - [Important ID's Information!](#important-ids-information)
+  - [Goods (193)](#goods-193)
+  - [Gestures (33)](#gestures-33)
+  - [Ammunition (18)](#ammunition-18)
+  - [Weapons (2202)](#weapons-2202)
+  - [Protector (307)](#protector-307)
+  - [Accessory (111)](#accessory-111)
+  - [Magic (98)](#magic-98)
+    - [Sorcery (34)](#sorcery-34)
+    - [Pyromancy (29)](#pyromancy-29)
+    - [Miracle (35)](#miracle-35)
+- [Ashes of Ariandel DLC - Items IDs](#ashes-of-ariandel-dlc---items-ids)
+  - [Goods - Ashes of Ariandel DLC (4)](#goods---ashes-of-ariandel-dlc-4)
+  - [Ammunition - Ashes of Ariandel DLC (1)](#ammunition---ashes-of-ariandel-dlc-1)
+  - [Weapons - Ashes of Ariandel DLC (106)](#weapons---ashes-of-ariandel-dlc-106)
+  - [Protector - Ashes of Ariandel DLC (19)](#protector---ashes-of-ariandel-dlc-19)
+  - [Accessory - Ashes of Ariandel DLC (1)](#accessory---ashes-of-ariandel-dlc-1)
+  - [Magic - Ashes of Ariandel DLC (4)](#magic---ashes-of-ariandel-dlc-4)
+- [The Ringed City DLC - Items IDs](#the-ringed-city-dlc---items-ids)
+  - [Goods - The Ringed City DLC (11)](#goods---the-ringed-city-dlc-11)
+  - [Weapons - The Ringed City DLC (96)](#weapons---the-ringed-city-dlc-96)
+  - [Protector - The Ringed City DLC (37)](#protector---the-ringed-city-dlc-37)
+  - [Accessory - The Ringed City DLC (8)](#accessory---the-ringed-city-dlc-8)
+  - [Magic - The Ringed City DLC (6)](#magic---the-ringed-city-dlc-6)
+- [Unused content - Items ID's](#unused-content---items-ids)
+  - [Goods - Unused content (18)](#goods---unused-content-18)
+  - [Gestures - Unused content (1)](#gestures---unused-content-1)
+  - [Weapons - Unused content (23)](#weapons---unused-content-23)
+  - [Protector - Unused content (33)](#protector---unused-content-33)
+  - [Accessory - Unused content (9)](#accessory---unused-content-9)
+  - [Magic - Unused content (2)](#magic---unused-content-2)
 
 
 ### Important ID's Information!
@@ -3461,19 +3460,11 @@ Id       | Name                                                | Note
 013599D0 | Ancient Dragon Greatshield | Another version of this shield is used in the game
 01421CF0 | Prince's Shield
 
-### Protector - Unused content (41)
+### Protector - Unused content (33)
 
 Id       | Name                                                | Note
 -------- | --------------------------------------------------- | --------------
-11312D00 | Burial Knight's Helm
-113130E8 | Burial Knight's Armor
-113134D0 | Burial Knight's Gauntlets
-113138B8 | Burial Knight's Leggings
 11DA9048 | Dingy Maiden's Overcoat
-11E84800 | Heavy Knight's Helm
-11E84BE8 | Heavy Knight's Armour
-11E84FD0 | Heavy Knight's Gauntlets
-11E853B8 | Heavy Knight's Leggings
 11F78A40 | Grotto Hat
 11F78E28 | Grotto Robe
 11F79210 | Grotto Wrap

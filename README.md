@@ -8,21 +8,14 @@ Feel free to visit the general Dark Souls 3 Cheat Engine Discord [The Grand Arch
 
 ## General
 ### Cheat Engine
-Tested with [Cheat Engine 6.8](https://github.com/cheat-engine/cheat-engine/releases).
+Tested with latest [Cheat Engine 6.8](https://github.com/cheat-engine/cheat-engine/releases).
 
 #### Public tables:  
 
-[![Table](http://i.imgur.com/4n3DWEe.png)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/b4652e1062781d4d1a5712c6ccb70799/DS3_Reverse-Souls_v1.1.8.zip)  
-<sub>[alternative mirror](https://mega.nz/#!vA0yFbRQ!6MeR_BEjakAJGlAqVB2cNGsrbSaXFYPK22yPfCb4Il0)</sub>  
-* v1.1.8 - 09.02.2018
-  * Fixed: Crash with CE 6.7
-  * Added: Hero->Movement and Animations->Better Animation Cancel (by Pavuk)
-  * Added: Hero->Load Start Character ID (by Pavuk)
-  * Added: Scripts->ASM->Fps Disconnect (by Pavuk)
-  * Added: Scripts->ASM->Map Collision (by Pavuk)  
-  * Fixed: Helpers->Bullet, Effect, Goods, Attack, Behavior->Find Address->Attack AOB (by Pavuk)
-  * Updated: Helpers->Bullet, Effect, Goods, Attack, Behavior->Attack Helper (by Pavuk)
-  * Updated: Helpers->Targeted Entity Info (by Pavuk)
+[![Table](http://i.imgur.com/4n3DWEe.png)](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/1fe25471974b5b53c56d541a1525256e/DS3_Reverse-Souls_v1.1.9.zip)  
+<sub>[alternative mirror](https://mega.nz/#!qZ0mCAYA!htVDVhBXhS-baRHZgykbjN7MmuczIHWU7j1D9XoL0fY)</sub>  
+* v1.1.9 - 07.10.2018
+  * Removed: Unused items from Dropdowns
 
 * <sub>for more see [changelog](sites/changelog.md)</sub>
 
