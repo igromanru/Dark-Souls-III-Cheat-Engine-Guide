@@ -1,5 +1,7 @@
 ### Changelog
 
+* [v1.1.9 - 07.10.2018](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/1fe25471974b5b53c56d541a1525256e/DS3_Reverse-Souls_v1.1.9.zip)
+  * Removed: Unused items from Dropdowns
 * [v1.1.8 - 09.02.2018](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/b4652e1062781d4d1a5712c6ccb70799/DS3_Reverse-Souls_v1.1.8.zip)
   * Fixed: Crash with CE 6.7
   * Added: Hero->Movement and Animations->Better Animation Cancel (by Pavuk)
