@@ -13,7 +13,7 @@ Tested with latest [Cheat Engine 6.8](https://github.com/cheat-engine/cheat-engi
 #### Public tables:  
 
 [![Table](http://i.imgur.com/4n3DWEe.png)](https://github.com/igromanru/Dark-Souls-III-Cheat-Engine-Guide/raw/dev/archive/DS3_The-Grand-Archives_v1.2.0_2019.rar)  
-<sub>[alternative mirror](https://mega.nz/#!qZ0mCAYA!htVDVhBXhS-baRHZgykbjN7MmuczIHWU7j1D9XoL0fY)</sub>  
+<sub>[alternative mirror](https://mega.nz/#!8GYSQCRC!sCdMkZhWxJqbK3xpHw0aJ645iOedbBZgaE0xLNmyKOU)</sub>  
 * v1.1.9 - 07.10.2018
   * Removed: Unused items from Dropdowns
 
