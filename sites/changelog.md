@@ -1,5 +1,67 @@
 ### Changelog
 
+[v1.2.0 - 25.05.2019](https://github.com/igromanru/Dark-Souls-III-Cheat-Engine-Guide/releases/download/1.2.0/DS3_The-Grand-Archives_v1.2.0_2019.zip)  
+The Grand Archives table changelog (anything un-credited is done by Loki)  
+v1.1.9-fix 05/05/2019:
+ - Added fix for ItemGib only giving 1 arrow/bolt at a time
+ - Added some missing Goods IDs to ItemGib's dropdown
+ - Fixed Perseverence Warmth PP script
+by ametalon:
+ - Session Info and ChrAsm now retrieve localised names with upgrade level for weapons/protectors/accessories, this requires CE 6.8.2+
+by Gáté:
+ - PP Classes expanded: WetAspectParam, Ceremony, ObjActParam, UpperArmParam, BonfireWarpParam, MapMimicryEstablishmentParam
+ - PP version of Upgrades Need No Materials added under Param Patcher > All IDs patch
+by Lucifer:
+ - PP script to replace the models and icons of various weapons with cut content
+ 
+v1.1.9-fix 01/25/2019:
+ - ApplyEffect added to Helpers
+ - Some more updates to ItemGib's dropdown
+ - Quantity in ItemGib can no longer give multiple weapons/protectors/accessories, only goods
+ - Discardable items script in Param Patcher v2.0.5 > Goods lets you discard gestures, key items and Storm Ruler from your inventory
+ - ItemLotParam class and some fixes to EquipParamProtector class in Param Patcher
+ - a bunch of minor stuff
+ 
+v1.1.9-fix 12/09/2018:
+ - ItemGib infusions and upgrade levels separated from the item dropdown
+ 
+v1.1.9-fix 10/25/2018:
+ - Param Toggles in Params header, you can disable params here
+ - AddSoul added to Helpers, you can give yourself specified amounts of souls directly with this, should be safe?
+ - BonfireWarp added to Helpers, you can warp from anywhere with it
+ - PP Classes expanded: ShopLineupParam, ClearCountCorrectParam, CharaInitParam, RoleParam, PhantomParam
+ - Access All Shop Inventory (PP version) added to All IDs patch category in param patcher
+ - fixed ItemGib dropdown, again
+by ametalon:
+ - added disableMemrec function and used it in autodisabling records
+ - added scripts to Find Address that jump to the memory areas
+ - one form for help messages (Table Info etc)
+ - removed README
+ - entries in "Find Address" helper open "Memory view" window at selected address
+ - added "How to" in "Find Address"
+ - improved Copy Steam Profile scripts
+ 
+v1.1.9-fix 10/10/2018:
+ - Updated ItemGib dropdown, by purplE#7507
+ 
+v1.1.8-fix 08/17/2018:
+ - Table Info updated
+ - AOB scans in open script and some others replaced with static addresses
+ - Old AOB scans moved to deprecated
+ - Some changes/fixes to Param Patcher classes
+ - Invalid Crash Protection added to Scripts, by Coinsworth
+ - Item Gib added to Helpers, Item Swap moved to deprecated, by Coinsworth
+ 
+v.1.1.8-fix 05/15/2018:
+ - Helper offsets expanded
+ - Helper header mess removed
+ - Last Spell Highlighted restored
+ - Equipped Spells restored to non-messy
+ - A bunch of sorting changes
+ - Unnecesssary extra chrasms removed
+ - World Flags no longer requires a script
+ - Deprecated PP1 merged into PP2 compatibility
+ - possibly other things I forgot
 * [v1.1.9 - 07.10.2018](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/1fe25471974b5b53c56d541a1525256e/DS3_Reverse-Souls_v1.1.9.zip)
   * Removed: Unused items from Dropdowns
 * [v1.1.8 - 09.02.2018](https://gitlab.com/igromanru/Dark-Souls-III-tables/uploads/b4652e1062781d4d1a5712c6ccb70799/DS3_Reverse-Souls_v1.1.8.zip)
