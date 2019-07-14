@@ -1,7 +1,6 @@
 ### Changelog
 
 [v1.2.2 - 14.07.2019](https://github.com/igromanru/Dark-Souls-III-Cheat-Engine-Guide/releases/download/1.2.2/DS3_v1.2.2_2019.rar)
-v1.2.2 14/07/2019:
 - Added Rebirth Menu function call.
 - Fixed BonfireWarp in "Helpers" header.
 - Fixed Organization around the table, namely the Camera header
@@ -13,9 +12,9 @@ The Grand Archives table changelog (anything un-credited is done by Loki)
 v1.1.9-fix 05/05/2019:
  - Added fix for ItemGib only giving 1 arrow/bolt at a time
  - Added some missing Goods IDs to ItemGib's dropdown
- - Fixed Perseverence Warmth PP script
+ - Fixed Perseverance Warmth PP script
 by ametalon:
- - Session Info and ChrAsm now retrieve localised names with upgrade level for weapons/protectors/accessories, this requires CE 6.8.2+
+ - Session Info and ChrAsm now retrieve localized names with upgrade level for weapons/protectors/accessories, this requires CE 6.8.2+
 by Gáté:
  - PP Classes expanded: WetAspectParam, Ceremony, ObjActParam, UpperArmParam, BonfireWarpParam, MapMimicryEstablishmentParam
  - PP version of Upgrades Need No Materials added under Param Patcher > All IDs patch
