@@ -6,7 +6,7 @@ v1.2.2 14/07/2019:
 - Fixed BonfireWarp in "Helpers" header.
 - Fixed Organization around the table, namely the Camera header
 - Changed the name of the Stat Checker for clarity on what it does.
-- Updated the table README with more information.
+- Updated the table info (FAQ) with more information.
 
 [v1.2.0 - 25.05.2019](https://github.com/igromanru/Dark-Souls-III-Cheat-Engine-Guide/releases/download/1.2.0/DS3_The-Grand-Archives_v1.2.0_2019.zip)  
 The Grand Archives table changelog (anything un-credited is done by Loki)  
