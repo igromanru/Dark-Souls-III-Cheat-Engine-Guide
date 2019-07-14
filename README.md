@@ -175,7 +175,7 @@ Aerthas Veras | contributed
 RBT | New World flags, Player counter
 Ainsley Harriott | Param Dumps and Offsets, spreadsheet contribution, some scripts
 Pavuk | spreadsheet and table contribution, some other stuff
-Loki | Tutorials, Param Patcher scripts
+Loki | Tutorials, Table Contribution, Assembly Scripts
 
 OldSchoolHack | Reason               
 ------------- | ---------------------
