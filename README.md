@@ -12,7 +12,7 @@ Tested with latest [Cheat Engine 6.8](https://github.com/cheat-engine/cheat-engi
 
 #### Public tables:  
 
-[![Table](http://i.imgur.com/4n3DWEe.png)](https://github.com/igromanru/Dark-Souls-III-Cheat-Engine-Guide/releases/download/1.2.0/DS3_The-Grand-Archives_v1.2.0_2019.zip)  
+[![Table](http://i.imgur.com/4n3DWEe.png)](https://github.com/igromanru/Dark-Souls-III-Cheat-Engine-Guide/releases/download/1.2.2/DS3_v1.2.2_2019.rar)  
 <sub>[alternative mirror](https://mega.nz/#!8GYSQCRC!sCdMkZhWxJqbK3xpHw0aJ645iOedbBZgaE0xLNmyKOU)</sub>  
 * v1.2.0 - 25.05.2019
 
@@ -175,7 +175,7 @@ Aerthas Veras | contributed
 RBT | New World flags, Player counter
 Ainsley Harriott | Param Dumps and Offsets, spreadsheet contribution, some scripts
 Pavuk | spreadsheet and table contribution, some other stuff
-Loki | Tutorials, Param Patcher scripts
+Loki | Tutorials, Table Contribution, Assembly Scripts
 
 OldSchoolHack | Reason               
 ------------- | ---------------------
