@@ -86,8 +86,8 @@ If you are soft-banned you will see the [\[CAUTION\] YOU HAVE BEEN PENALIZED](#m
 A Softban means, that your account will be connected only to the server with other softbanned people.
 
 #### What does and does not get you banned
-Thanks to the reddit user [/u/Sharkbitch](https://www.reddit.com/user/Sharkbitch), who has collected Softban data from last year and made a compilation of it:  
-[Softban Data and Testing](https://www.reddit.com/r/opensouls3/comments/5gc9cb/softban_data_and_testing/)
+Thanks to the reddit user [/u/UnfairestFour](https://www.reddit.com/user/UnfairestFour), who has collected Softban data from last year and made a compilation of it:  
+[An Updated Anti-Cheat Guide.](https://docs.google.com/document/d/1AaQiu5axxinl633IUZuWhggrQOHog-3WxMWnuus8-LU/edit)
 
 #### Cheat Engine debugger crashing the game
 
@@ -191,7 +191,7 @@ Other | Reason
 ------------- | ---------------------
 [terenceyao](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1536) | first fixed after the second DLC patch
 [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ringed_city_dlc_items_hex_id/) | Ringed City Item ID's
-[/u/Sharkbitch](https://www.reddit.com/user/Sharkbitch) |
+[/u/UnfairestFour](https://www.reddit.com/user/UnfairestFour) |
 [Kavez](https://github.com/Kavez) |
 [dec1337](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1810) | some fixed after the second DLC patch
 [Birdulon](https://www.youtube.com/user/Birdulon) |
