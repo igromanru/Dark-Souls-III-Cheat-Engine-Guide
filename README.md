@@ -179,7 +179,17 @@ Aerthas Veras | contributed
 RBT | New World flags, Player counter
 Ainsley Harriott | Param Dumps and Offsets, spreadsheet contribution, some scripts
 Pavuk | spreadsheet and table contribution, some other stuff
-Loki | Tutorials, Table Contribution, Assembly Scripts
+Loki | Table Contribution, Help with ASM
+
+The Grand Archives | Reason               
+------------- | ---------------------
+inuNorii | knowledge, table contribution
+Ametalon | Help with LUA, table contribution
+Unfairest | Ban data collection, guides
+Gáté | Param Edits
+Lucifer | Param Edits
+[Coinsworth](https://pastebin.com/yA9qeEiq) | Help with ASM
+Spamstein | Detect Cheated Stats script
 
 OldSchoolHack | Reason               
 ------------- | ---------------------
