@@ -185,7 +185,7 @@ The Grand Archives | Reason
 ------------- | ---------------------
 inuNorii | knowledge, table contribution
 Ametalon | Help with LUA, table contribution
-Unfairest | Ban data collection, guides
+Unfairest | [Ban data collection](https://docs.google.com/document/d/1AaQiu5axxinl633IUZuWhggrQOHog-3WxMWnuus8-LU/edit), guides
 Gáté | Param Edits
 Lucifer | Param Edits
 [Coinsworth](https://pastebin.com/yA9qeEiq) | Help with ASM
@@ -201,7 +201,6 @@ Other | Reason
 ------------- | ---------------------
 [terenceyao](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1536) | first fixed after the second DLC patch
 [/u/skzRuneStorm](https://www.reddit.com/r/opensouls3/comments/61e8jj/ringed_city_dlc_items_hex_id/) | Ringed City Item ID's
-[/u/UnfairestFour](https://www.reddit.com/user/UnfairestFour) |
 [Kavez](https://github.com/Kavez) |
 [dec1337](http://fearlessrevolution.com/memberlist.php?mode=viewprofile&u=1810) | some fixed after the second DLC patch
 [Birdulon](https://www.youtube.com/user/Birdulon) |
