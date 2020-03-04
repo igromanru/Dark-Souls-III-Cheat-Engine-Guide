@@ -1,5 +1,14 @@
 ### Changelog
 
+[v1.2.4 - 04.03.2020](https://github.com/igromanru/Dark-Souls-III-Cheat-Engine-Guide/releases/download/1.2.4/DS3_v1.2.4_2020.zip)
+- reorganized Statistics headers: Save Information, Online Information, ESC menu
+- added Menu Functions scripts by Loki and Church Guard (Opens specified menus for use anywhere in the game. Should be safe to use online)
+- replaced Auto Revive script with Loki's version
+- added Example Scripts (A few different examples on what you can do with the data in the table, as well as a LUA->ASM translation)
+- moved PhantomParam from Statistics to Helpers
+- added new ParamPatcher scripts: Dark Sun Fix, LOD class and LOD edit example script by Gáté
+- moved Misc Header from Statistics to Camera
+
 [v1.2.2 - 14.07.2019](https://github.com/igromanru/Dark-Souls-III-Cheat-Engine-Guide/releases/download/1.2.2/DS3_v1.2.2_2019.rar)
 - Added Rebirth Menu function call.
 - Fixed BonfireWarp in "Helpers" header.
