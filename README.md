@@ -1,10 +1,12 @@
 # Dark Souls III Cheat Engine Guide
 
+## Notice
+As of 2021, this repository serves as an archive of the Reverse Souls Dark Souls III cheat table. The most recent table is the [The Grand Archives Dark Souls III Cheat Table](https://github.com/inunorii/Dark-Souls-III-CT-TGA).
+
+Feel free to visit the general Dark Souls 3 Cheat Engine Discord [The Grand Archives](https://discord.io/the-grand-archives).
 
 ## Introduction
-This document was inspired by [Dark Souls II and Scholar of the First Sin Cheat Engine Guide](https://gist.github.com/Atvaark/f308e1d8e00e07106452) from [Atvaark](https://github.com/Atvaark).  
-
-Feel free to visit the general Dark Souls 3 Cheat Engine Discord [The Grand Archives](https://discord.io/the-grand-archives).  
+This document was inspired by [Dark Souls II and Scholar of the First Sin Cheat Engine Guide](https://gist.github.com/Atvaark/f308e1d8e00e07106452) from [Atvaark](https://github.com/Atvaark).
 
 ## General
 ### Cheat Engine
